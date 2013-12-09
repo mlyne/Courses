@@ -1,0 +1,4 @@
+Variation: rs7107418    Alleles A/G     location: 11:6892826-6892826
+Variation: rs671        Alleles G/A     location: 12:112241766-112241766
+Variation: rs17646946   Alleles G/A     location: 1:152062767-152062767
+Variation: rs4988235    Alleles G/A     location: 2:136608646-136608646

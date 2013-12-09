@@ -1,0 +1,26 @@
+
+Reporting rs10209020
+Phenotype: BODY MASS INDEX      is_significant:0        p-value: 0.0702 risk allele:    T
+Phenotype: Height       is_significant:0        p-value: 0.8417 risk allele:    T
+Phenotype: Two-hour glucose (BMI adjusted)      is_significant:0        p-value: 0.03261        risk allele:    T
+Phenotype: Fasting plasma glucose       is_significant:1        p-value: 4.481e-08      risk allele:    T
+Phenotype: Fasting insulin      is_significant:0        p-value: 0.58   risk allele:    T
+Phenotype: Fasting proinsulin   is_significant:0        p-value: 0.1485 risk allele:    T
+Phenotype: Beta-cell function (HOMA-B)  is_significant:0        p-value: 0.1092 risk allele:    T
+Phenotype: Insulin resistance (HOMA-IR) is_significant:0        p-value: 0.1531 risk allele:    T
+Phenotype: HbA1c        is_significant:0        p-value: 0.3766 risk allele:    T
+Phenotype: Total Cholesterol    is_significant:1        p-value: 1.483e-08      risk allele:    T
+Phenotype: Triglycerides        is_significant:1        p-value: 1.841e-24      risk allele:    T
+
+Reporting rs1052373
+Phenotype: Multiple continuous traits in DGI samples-Triglycerides      is_significant:0        p-value: 0.0009449
+Phenotype: BODY MASS INDEX      is_significant:0        p-value: 0.0148 risk allele:    C
+Phenotype: Height       is_significant:0        p-value: 0.0004284      risk allele:    T
+Phenotype: Two-hour glucose (BMI adjusted)      is_significant:0        p-value: 0.5766 risk allele:    T
+Phenotype: Fasting plasma glucose       is_significant:0        p-value: 3.643e-06      risk allele:    T
+Phenotype: Fasting insulin      is_significant:0        p-value: 0.2121 risk allele:    T
+Phenotype: Fasting proinsulin   is_significant:0        p-value: 1.148e-05      risk allele:    T
+Phenotype: Beta-cell function (HOMA-B)  is_significant:0        p-value: 0.006206       risk allele:    T
+Phenotype: Insulin resistance (HOMA-IR) is_significant:0        p-value: 0.612  risk allele:    T
+Phenotype: HbA1c        is_significant:0        p-value: 0.6964 risk allele:    T
+Phenotype: High-density lipoprotein cholesterol is_significant:1        p-value: 3.223e-14      risk allele:    T

@@ -1,0 +1,27 @@
+ENSEMBL API
+===========
+
+Exercise 2
+----------
+Begin a script - copy it from the pdf slides
+Look for info on the website: http://www.ensembl.org/info/docs/Doxygen/core-api/classBio_1_1EnsEMBL_1_1Registry.html#a7e564f1b1bf7d176041f700713a7c1bf
+
+verbose => boolean - have to set it to TRUE (1) or FALSE
+
+Information is stored at different levels - clones (tiling path), contigs, chromosome ==> assemble bigger bits from small bits
+
+Lazy loading...
+While and shift - takes up less memory rather than using foreach loop
+Print name, version and rank
+ -clones and contigs are stored without a 'version' - they can be shared
+ - clinicians are looking at the details, GRCH38 - for human, spring. LRG co-ordinates
+
+Slice object - region of a chromosome, fetches info by region, 1 is positive strand, -1 is negative strand
+	e.g. $slice = $slice_adaptor->fetch_by_region('chromosome', '12',
+1e6, 2e6);
+
+Features
+--------
+slice and feature_slice can be the same - but don't have to be.
+
+NMsomething - identifier for something stored in RefSeq

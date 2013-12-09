@@ -1,0 +1,17 @@
+> Structural variation esv234231 of class CNV
+Chromosome: 16
+Outer start: 89973852
+Inner start: 89974052
+Start: 89973852
+End: 89974306
+Inner end: 89974116
+Outer end: 89974306
+
+> Supporting evidence(s):
+Supporting evidence essv1992190 of class copy_number_loss
+Supporting evidence essv1987244 of class copy_number_loss
+Supporting evidence essv1992264 of class copy_number_loss
+Supporting evidence essv1984617 of class copy_number_loss
+Supporting evidence essv1984402 of class copy_number_loss
+Supporting evidence essv1987377 of class copy_number_loss
+Supporting evidence essv1991705 of class copy_number_loss

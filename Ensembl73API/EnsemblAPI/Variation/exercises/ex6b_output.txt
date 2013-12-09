@@ -1,0 +1,68 @@
+Variation name:        rs142464168,  Alleles: C/T,  Alt allele: T,  Codon change: Cgc/Tgc,  AA change: R/C,  Peptide: C,  Sift prediction: deleterious,  PolyPhen prediction: probably damaging
+Variation name:        rs200588430,  Alleles: C/G,  Alt allele: G,  Codon change: aCa/aGa,  AA change: T/R,  Peptide: R,  Sift prediction:   tolerated,  PolyPhen prediction:            benign
+Variation name:        rs147640045,  Alleles: A/C,  Alt allele: C,  Codon change: gcA/gcC,  AA change: A/A,  Peptide: A,  Sift prediction:           -,  PolyPhen prediction:                 -
+Variation name:        rs150655432,  Alleles: G/A,  Alt allele: A,  Codon change: caG/caA,  AA change: Q/Q,  Peptide: Q,  Sift prediction:           -,  PolyPhen prediction:                 -
+Variation name: TMP_ESP_12_2908314,  Alleles: T/C,  Alt allele: C,  Codon change: aTt/aCt,  AA change: I/T,  Peptide: T,  Sift prediction: deleterious,  PolyPhen prediction: probably damaging
+Variation name:        rs202167235,  Alleles: G/A,  Alt allele: A,  Codon change: Gtg/Atg,  AA change: V/M,  Peptide: M,  Sift prediction: deleterious,  PolyPhen prediction:            benign
+Variation name:         rs56196860,  Alleles: C/A,  Alt allele: A,  Codon change: aaC/aaA,  AA change: N/K,  Peptide: K,  Sift prediction:   tolerated,  PolyPhen prediction:            benign
+Variation name:        rs140321109,  Alleles: A/G,  Alt allele: G,  Codon change: aAg/aGg,  AA change: K/R,  Peptide: R,  Sift prediction: deleterious,  PolyPhen prediction: probably damaging
+Variation name:        rs150316795,  Alleles: G/A,  Alt allele: A,  Codon change: aaG/aaA,  AA change: K/K,  Peptide: K,  Sift prediction:           -,  PolyPhen prediction:                 -
+Variation name:          rs1042233,  Alleles: A/C,  Alt allele: C,  Codon change: Acg/Ccg,  AA change: T/P,  Peptide: P,  Sift prediction:   tolerated,  PolyPhen prediction:            benign
+Variation name:        rs144746421,  Alleles: T/C,  Alt allele: C,  Codon change: cTg/cCg,  AA change: L/P,  Peptide: P,  Sift prediction:   tolerated,  PolyPhen prediction: possibly damaging
+Variation name:        rs201311104,  Alleles: A/G,  Alt allele: G,  Codon change: caA/caG,  AA change: Q/Q,  Peptide: Q,  Sift prediction:           -,  PolyPhen prediction:                 -
+Variation name:          rs3948665,  Alleles: C/T,  Alt allele: T,  Codon change: Cta/Tta,  AA change: L/L,  Peptide: L,  Sift prediction:           -,  PolyPhen prediction:                 -
+Variation name:        rs201091442,  Alleles: T/A,  Alt allele: A,  Codon change: gTg/gAg,  AA change: V/E,  Peptide: E,  Sift prediction:   tolerated,  PolyPhen prediction: probably damaging
+Variation name:        rs199705099,  Alleles: C/T,  Alt allele: T,  Codon change: Ctc/Ttc,  AA change: L/F,  Peptide: F,  Sift prediction:   tolerated,  PolyPhen prediction: probably damaging
+Variation name:        rs201803546,  Alleles: G/A,  Alt allele: A,  Codon change: cgG/cgA,  AA change: R/R,  Peptide: R,  Sift prediction:           -,  PolyPhen prediction:                 -
+Variation name:         rs55672055,  Alleles: G/A,  Alt allele: A,  Codon change: cGc/cAc,  AA change: R/H,  Peptide: H,  Sift prediction:   tolerated,  PolyPhen prediction:            benign
+Variation name:        rs191266357,  Alleles: T/C,  Alt allele: C,  Codon change: aTg/aCg,  AA change: M/T,  Peptide: T,  Sift prediction: deleterious,  PolyPhen prediction: probably damaging
+Variation name:          rs1981656,  Alleles: A/T,  Alt allele: T,  Codon change: Aca/Tca,  AA change: T/S,  Peptide: S,  Sift prediction:   tolerated,  PolyPhen prediction:            benign
+Variation name:        rs138530244,  Alleles: G/A,  Alt allele: A,  Codon change: Gtg/Atg,  AA change: V/M,  Peptide: M,  Sift prediction:   tolerated,  PolyPhen prediction:            benign
+Variation name:        rs151186423,  Alleles: T/C,  Alt allele: C,  Codon change: taT/taC,  AA change: Y/Y,  Peptide: Y,  Sift prediction:           -,  PolyPhen prediction:                 -
+Variation name:        rs145385559,  Alleles: A/G,  Alt allele: G,  Codon change: aAt/aGt,  AA change: N/S,  Peptide: S,  Sift prediction:   tolerated,  PolyPhen prediction:            benign
+Variation name:        rs144966634,  Alleles: G/A,  Alt allele: A,  Codon change: aaG/aaA,  AA change: K/K,  Peptide: K,  Sift prediction:           -,  PolyPhen prediction:                 -
+Variation name:        rs150317804,  Alleles: A/G,  Alt allele: G,  Codon change: tcA/tcG,  AA change: S/S,  Peptide: S,  Sift prediction:           -,  PolyPhen prediction:                 -
+Variation name: TMP_ESP_12_2909268,  Alleles: C/T,  Alt allele: T,  Codon change: Cgg/Tgg,  AA change: R/W,  Peptide: W,  Sift prediction: deleterious,  PolyPhen prediction: probably damaging
+Variation name:        rs199923813,  Alleles: G/A,  Alt allele: A,  Codon change: cGa/cAa,  AA change: R/Q,  Peptide: Q,  Sift prediction: deleterious,  PolyPhen prediction:            benign
+Variation name: TMP_ESP_12_2909029,  Alleles: A/G,  Alt allele: G,  Codon change: Agt/Ggt,  AA change: S/G,  Peptide: G,  Sift prediction:   tolerated,  PolyPhen prediction:            benign
+Variation name:        rs201034010,  Alleles: A/C,  Alt allele: C,  Codon change: Aag/Cag,  AA change: K/Q,  Peptide: Q,  Sift prediction:   tolerated,  PolyPhen prediction:            benign
+Variation name:        rs143820830,  Alleles: A/G,  Alt allele: G,  Codon change: aAg/aGg,  AA change: K/R,  Peptide: R,  Sift prediction:   tolerated,  PolyPhen prediction: probably damaging
+Variation name:          rs1803817,  Alleles: G/C,  Alt allele: C,  Codon change: caG/caC,  AA change: Q/H,  Peptide: H,  Sift prediction: deleterious,  PolyPhen prediction:            benign
+Variation name:        rs148344428,  Alleles: G/A,  Alt allele: A,  Codon change: aGc/aAc,  AA change: S/N,  Peptide: N,  Sift prediction:   tolerated,  PolyPhen prediction:            benign
+Variation name:        rs143021274,  Alleles: C/G,  Alt allele: G,  Codon change: gCt/gGt,  AA change: A/G,  Peptide: G,  Sift prediction:   tolerated,  PolyPhen prediction:            benign
+Variation name:        rs191293085,  Alleles: G/A,  Alt allele: A,  Codon change: Gaa/Aaa,  AA change: E/K,  Peptide: K,  Sift prediction:   tolerated,  PolyPhen prediction: probably damaging
+Variation name:        rs200095319,  Alleles: A/C,  Alt allele: C,  Codon change: Att/Ctt,  AA change: I/L,  Peptide: L,  Sift prediction:   tolerated,  PolyPhen prediction:            benign
+Variation name:        rs144527066,  Alleles: G/A,  Alt allele: A,  Codon change: Gtg/Atg,  AA change: V/M,  Peptide: M,  Sift prediction: deleterious,  PolyPhen prediction: possibly damaging
+Variation name:        rs200923951,  Alleles: G/A,  Alt allele: A,  Codon change: acG/acA,  AA change: T/T,  Peptide: T,  Sift prediction:           -,  PolyPhen prediction:                 -
+Variation name:        rs200255491,  Alleles: A/G,  Alt allele: G,  Codon change: Atc/Gtc,  AA change: I/V,  Peptide: V,  Sift prediction:   tolerated,  PolyPhen prediction:            benign
+Variation name:        rs148503247,  Alleles: C/T,  Alt allele: T,  Codon change: taC/taT,  AA change: Y/Y,  Peptide: Y,  Sift prediction:           -,  PolyPhen prediction:                 -
+Variation name: TMP_ESP_12_2904344,  Alleles: G/T,  Alt allele: T,  Codon change: gcG/gcT,  AA change: A/A,  Peptide: A,  Sift prediction:           -,  PolyPhen prediction:                 -
+Variation name: TMP_ESP_12_2912322,  Alleles: G/A,  Alt allele: A,  Codon change: aaG/aaA,  AA change: K/K,  Peptide: K,  Sift prediction:           -,  PolyPhen prediction:                 -
+Variation name: TMP_ESP_12_2908271,  Alleles: T/A,  Alt allele: A,  Codon change: Tac/Aac,  AA change: Y/N,  Peptide: N,  Sift prediction:   tolerated,  PolyPhen prediction:            benign
+Variation name: TMP_ESP_12_2909707,  Alleles: A/T,  Alt allele: T,  Codon change: ctA/ctT,  AA change: L/L,  Peptide: L,  Sift prediction:           -,  PolyPhen prediction:                 -
+Variation name: TMP_ESP_12_2909019,  Alleles: T/C,  Alt allele: C,  Codon change: taT/taC,  AA change: Y/Y,  Peptide: Y,  Sift prediction:           -,  PolyPhen prediction:                 -
+Variation name:        rs113054259,  Alleles: G/A,  Alt allele: A,  Codon change: aaG/aaA,  AA change: K/K,  Peptide: K,  Sift prediction:           -,  PolyPhen prediction:                 -
+Variation name:        rs184543678,  Alleles: G/C,  Alt allele: C,  Codon change: caG/caC,  AA change: Q/H,  Peptide: H,  Sift prediction:   tolerated,  PolyPhen prediction:            benign
+Variation name:          rs1062478,  Alleles: G/A,  Alt allele: A,  Codon change: cGc/cAc,  AA change: R/H,  Peptide: H,  Sift prediction: deleterious,  PolyPhen prediction: possibly damaging
+Variation name: TMP_ESP_12_2910356,  Alleles: T/C,  Alt allele: C,  Codon change: tTt/tCt,  AA change: F/S,  Peptide: S,  Sift prediction:   tolerated,  PolyPhen prediction: probably damaging
+Variation name: TMP_ESP_12_2908367,  Alleles: C/T,  Alt allele: T,  Codon change: Cgc/Tgc,  AA change: R/C,  Peptide: C,  Sift prediction: deleterious,  PolyPhen prediction: probably damaging
+Variation name: TMP_ESP_12_2910361,  Alleles: C/T,  Alt allele: T,  Codon change: Ctg/Ttg,  AA change: L/L,  Peptide: L,  Sift prediction:           -,  PolyPhen prediction:                 -
+Variation name:        rs200798844,  Alleles: G/T,  Alt allele: T,  Codon change: gGt/gTt,  AA change: G/V,  Peptide: V,  Sift prediction: deleterious,  PolyPhen prediction: probably damaging
+Variation name: TMP_ESP_12_2904374,  Alleles: G/A,  Alt allele: A,  Codon change: gtG/gtA,  AA change: V/V,  Peptide: V,  Sift prediction:           -,  PolyPhen prediction:                 -
+Variation name:        rs141855441,  Alleles: C/T,  Alt allele: T,  Codon change: Cgc/Tgc,  AA change: R/C,  Peptide: C,  Sift prediction:   tolerated,  PolyPhen prediction:            benign
+Variation name:        rs200925573,  Alleles: C/T,  Alt allele: T,  Codon change: gcC/gcT,  AA change: A/A,  Peptide: A,  Sift prediction:           -,  PolyPhen prediction:                 -
+Variation name:        rs139894092,  Alleles: C/G,  Alt allele: G,  Codon change: ggC/ggG,  AA change: G/G,  Peptide: G,  Sift prediction:           -,  PolyPhen prediction:                 -
+Variation name:        rs199617718,  Alleles: G/A,  Alt allele: A,  Codon change: cGg/cAg,  AA change: R/Q,  Peptide: Q,  Sift prediction:   tolerated,  PolyPhen prediction: probably damaging
+Variation name:        rs144630885,  Alleles: A/G,  Alt allele: G,  Codon change: aAt/aGt,  AA change: N/S,  Peptide: S,  Sift prediction:   tolerated,  PolyPhen prediction:            benign
+Variation name:        rs143403049,  Alleles: A/G,  Alt allele: G,  Codon change: Aag/Gag,  AA change: K/E,  Peptide: E,  Sift prediction:   tolerated,  PolyPhen prediction:            benign
+Variation name:        rs140792244,  Alleles: G/A,  Alt allele: A,  Codon change: ctG/ctA,  AA change: L/L,  Peptide: L,  Sift prediction:           -,  PolyPhen prediction:                 -
+Variation name: TMP_ESP_12_2904311,  Alleles: A/G,  Alt allele: G,  Codon change: acA/acG,  AA change: T/T,  Peptide: T,  Sift prediction:           -,  PolyPhen prediction:                 -
+Variation name:        rs142587247,  Alleles: A/C,  Alt allele: C,  Codon change: gAg/gCg,  AA change: E/A,  Peptide: A,  Sift prediction: deleterious,  PolyPhen prediction: possibly damaging
+Variation name:        rs199520088,  Alleles: A/C,  Alt allele: C,  Codon change: tAc/tCc,  AA change: Y/S,  Peptide: S,  Sift prediction: deleterious,  PolyPhen prediction: probably damaging
+Variation name: TMP_ESP_12_2910390,  Alleles: G/A,  Alt allele: A,  Codon change: ctG/ctA,  AA change: L/L,  Peptide: L,  Sift prediction:           -,  PolyPhen prediction:                 -
+Variation name: TMP_ESP_12_2912396,  Alleles: G/A,  Alt allele: A,  Codon change: aGc/aAc,  AA change: S/N,  Peptide: N,  Sift prediction:   tolerated,  PolyPhen prediction:            benign
+Variation name: TMP_ESP_12_2909269,  Alleles: G/A,  Alt allele: A,  Codon change: cGg/cAg,  AA change: R/Q,  Peptide: Q,  Sift prediction: deleterious,  PolyPhen prediction:            benign
+Variation name: TMP_ESP_12_2910420,  Alleles: G/A,  Alt allele: A,  Codon change: aaG/aaA,  AA change: K/K,  Peptide: K,  Sift prediction:           -,  PolyPhen prediction:                 -
+Variation name: TMP_ESP_12_2908279,  Alleles: C/T,  Alt allele: T,  Codon change: gaC/gaT,  AA change: D/D,  Peptide: D,  Sift prediction:           -,  PolyPhen prediction:                 -
+Variation name:          rs1042228,  Alleles: A/C,  Alt allele: C,  Codon change: Act/Cct,  AA change: T/P,  Peptide: P,  Sift prediction:   tolerated,  PolyPhen prediction:            benign
+Variation name:        rs201879189,  Alleles: G/A,  Alt allele: A,  Codon change: cGg/cAg,  AA change: R/Q,  Peptide: Q,  Sift prediction:   tolerated,  PolyPhen prediction:            benign

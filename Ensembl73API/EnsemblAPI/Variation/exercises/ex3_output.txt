@@ -1,0 +1,2639 @@
+Genotype=C|C	Individual=NA06990 (Female)	PERLEGEN
+Genotype=C|C	Individual=NA07019 (Female)	PERLEGEN
+Genotype=G|G	Individual=NA07348 (Female)	PERLEGEN
+Genotype=G|G	Individual=NA07349 (Male)	PERLEGEN
+Genotype=C|C	Individual=526_GM12560(M) (Male)	PERLEGEN
+Genotype=G|G	Individual=NA17201 (Male)	PERLEGEN
+Genotype=G|G	Individual=NA17103 (Male)	PERLEGEN
+Genotype=G|G	Individual=NA17104 (Male)	PERLEGEN
+Genotype=G|G	Individual=NA17106 (Male)	PERLEGEN
+Genotype=G|G	Individual=NA17107 (Male)	PERLEGEN
+Genotype=G|G	Individual=NA17108 (Male)	PERLEGEN
+Genotype=G|G	Individual=NA17111 (Male)	PERLEGEN
+Genotype=G|G	Individual=NA17112 (Female)	PERLEGEN
+Genotype=G|G	Individual=NA17114 (Male)	PERLEGEN
+Genotype=G|G	Individual=NA17115 (Male)	PERLEGEN
+Genotype=C|G	Individual=NA17102 (Male)	PERLEGEN
+Genotype=C|G	Individual=NA17105 (Male)	PERLEGEN
+Genotype=C|G	Individual=NA17109 (Male)	PERLEGEN
+Genotype=C|G	Individual=NA17110 (Female)	PERLEGEN
+Genotype=C|G	Individual=NA17113 (Female)	PERLEGEN
+Genotype=C|G	Individual=NA17116 (Female)	PERLEGEN
+Genotype=C|G	Individual=NA17133 (Female)	PERLEGEN
+Genotype=C|C	Individual=NA10830 (Male)	PERLEGEN
+Genotype=C|G	Individual=NA10831 (Female)	PERLEGEN
+Genotype=G|G	Individual=NA10842 (Male)	PERLEGEN
+Genotype=C|G	Individual=NA10843 (Female)	PERLEGEN
+Genotype=C|C	Individual=NA10844 (Female)	PERLEGEN
+Genotype=C|C	Individual=NA10845 (Male)	PERLEGEN
+Genotype=C|C	Individual=NA10848 (Male)	PERLEGEN
+Genotype=C|C	Individual=NA10850 (Female)	PERLEGEN
+Genotype=G|G	Individual=NA10851 (Male)	PERLEGEN
+Genotype=C|C	Individual=NA10852 (Female)	PERLEGEN
+Genotype=C|G	Individual=NA10853 (Male)	PERLEGEN
+Genotype=C|C	Individual=NA10854 (Female)	PERLEGEN
+Genotype=C|G	Individual=NA10857 (Male)	PERLEGEN
+Genotype=C|C	Individual=NA10858 (Male)	PERLEGEN
+Genotype=C|C	Individual=NA10860 (Male)	PERLEGEN
+Genotype=C|G	Individual=NA10861 (Female)	PERLEGEN
+Genotype=G|G	Individual=NA12547 (Male)	PERLEGEN
+Genotype=C|G	Individual=NA12548 (Female)	PERLEGEN
+Genotype=G|G	Individual=NA17745 (Unknown)	PERLEGEN
+Genotype=G|G	Individual=NA17747 (Unknown)	PERLEGEN
+Genotype=G|G	Individual=NA17757 (Unknown)	PERLEGEN
+Genotype=C|G	Individual=NA17744 (Unknown)	PERLEGEN
+Genotype=C|G	Individual=NA17746 (Unknown)	PERLEGEN
+Genotype=C|G	Individual=NA17749 (Unknown)	PERLEGEN
+Genotype=C|G	Individual=NA17752 (Unknown)	PERLEGEN
+Genotype=C|G	Individual=NA17753 (Unknown)	PERLEGEN
+Genotype=C|C	Individual=NA17754 (Unknown)	PERLEGEN
+Genotype=C|C	Individual=NA17755 (Unknown)	PERLEGEN
+Genotype=C|G	Individual=NA17756 (Unknown)	PERLEGEN
+Genotype=C|G	Individual=NA17759 (Unknown)	PERLEGEN
+Genotype=C|C	Individual=NA17761 (Unknown)	PERLEGEN
+Genotype=C|G	Individual=NA17135 (Female)	PERLEGEN
+Genotype=C|C	Individual=NA17138 (Female)	PERLEGEN
+Genotype=C|G	Individual=NA17139 (Female)	PERLEGEN
+Genotype=C|C	Individual=NA17733 (Unknown)	PERLEGEN
+Genotype=C|G	Individual=NA17734 (Unknown)	PERLEGEN
+Genotype=C|G	Individual=NA17735 (Unknown)	PERLEGEN
+Genotype=C|G	Individual=NA17736 (Unknown)	PERLEGEN
+Genotype=C|G	Individual=NA17737 (Unknown)	PERLEGEN
+Genotype=C|G	Individual=NA17740 (Unknown)	PERLEGEN
+Genotype=C|C	Individual=NA17741 (Unknown)	PERLEGEN
+Genotype=G|G	Individual=NA17134 (Female)	PERLEGEN
+Genotype=G|G	Individual=NA17136 (Female)	PERLEGEN
+Genotype=G|G	Individual=NA17137 (Female)	PERLEGEN
+Genotype=G|G	Individual=NA17140 (Female)	PERLEGEN
+Genotype=G|G	Individual=NA17738 (Unknown)	PERLEGEN
+Genotype=G|G	Individual=NA17739 (Unknown)	PERLEGEN
+Genotype=G|G	Individual=NA17742 (Unknown)	PERLEGEN
+Genotype=G|G	Individual=NA17743 (Unknown)	PERLEGEN
+Genotype=C|G	Individual=YOR117.01 (Female)	AFFY
+Genotype=C|G	Individual=YOR117.03 (Male)	AFFY
+Genotype=C|G	Individual=CH18526 (Female)	AFFY
+Genotype=C|G	Individual=CH18524 (Male)	AFFY
+Genotype=G|G	Individual=YOR117.02 (Female)	AFFY
+Genotype=G|G	Individual=JA18949 (Female)	AFFY
+Genotype=G|G	Individual=JA18956 (Female)	AFFY
+Genotype=C|G	Individual=JA18948 (Male)	AFFY
+Genotype=C|G	Individual=JA18952 (Male)	AFFY
+Genotype=C|G	Individual=JA18964 (Female)	AFFY
+Genotype=C|G	Individual=CEPH1454.15 (Female)	AFFY
+Genotype=C|G	Individual=CEPH1459.01 (Male)	AFFY
+Genotype=C|G	Individual=CEPH1459.02 (Female)	AFFY
+Genotype=C|G	Individual=CEPH1459.09 (Male)	AFFY
+Genotype=C|G	Individual=CEPH1459.10 (Female)	AFFY
+Genotype=C|C	Individual=CH18624 (Male)	AFFY
+Genotype=C|G	Individual=CH18623 (Male)	AFFY
+Genotype=C|G	Individual=CH18576 (Female)	AFFY
+Genotype=C|G	Individual=CH18577 (Female)	AFFY
+Genotype=C|G	Individual=CH18579 (Female)	AFFY
+Genotype=C|C	Individual=CEPH1347.14 (Male)	AFFY
+Genotype=C|C	Individual=CEPH1362.13 (Male)	AFFY
+Genotype=C|C	Individual=CEPH1362.14 (Female)	AFFY
+Genotype=C|G	Individual=CEPH1349.14 (Female)	AFFY
+Genotype=G|G	Individual=CEPH1347.15 (Female)	AFFY
+Genotype=C|C	Individual=CEPH1408.13 (Female)	AFFY
+Genotype=C|G	Individual=CEPH1375.12 (Female)	AFFY
+Genotype=C|G	Individual=CEPH1334.13 (Female)	AFFY
+Genotype=C|G	Individual=CEPH1416.11 (Male)	AFFY
+Genotype=C|C	Individual=JA18953 (Male)	AFFY
+Genotype=C|C	Individual=JA18968 (Female)	AFFY
+Genotype=C|G	Individual=JA18959 (Male)	AFFY
+Genotype=C|G	Individual=JA18969 (Female)	AFFY
+Genotype=C|G	Individual=JA18960 (Male)	AFFY
+Genotype=G|G	Individual=JA18976 (Female)	AFFY
+Genotype=G|G	Individual=JA18970 (Male)	AFFY
+Genotype=C|C	Individual=JA18975 (Female)	AFFY
+Genotype=C|C	Individual=JA18978 (Female)	AFFY
+Genotype=C|G	Individual=JA18967 (Male)	AFFY
+Genotype=C|C	Individual=CEPH1447.09 (Male)	AFFY
+Genotype=C|C	Individual=CEPH1447.12 (Female)	AFFY
+Genotype=C|G	Individual=CEPH1447.02 (Female)	AFFY
+Genotype=G|G	Individual=CEPH1447.10 (Female)	AFFY
+Genotype=G|G	Individual=CEPH1447.11 (Male)	AFFY
+Genotype=C|G	Individual=CH18572 (Male)	AFFY
+Genotype=C|G	Individual=CH18609 (Male)	AFFY
+Genotype=C|G	Individual=CH18550 (Female)	AFFY
+Genotype=G|G	Individual=CH18545 (Female)	AFFY
+Genotype=G|G	Individual=CH18547 (Female)	AFFY
+Genotype=C|C	Individual=CH18564 (Female)	AFFY
+Genotype=C|G	Individual=CH18608 (Male)	AFFY
+Genotype=C|G	Individual=CH18611 (Male)	AFFY
+Genotype=C|G	Individual=CH18555 (Female)	AFFY
+Genotype=G|G	Individual=CH18552 (Female)	AFFY
+Genotype=C|C	Individual=NA10830 (Male)	AFFY
+Genotype=C|G	Individual=JA19007 (Male)	AFFY
+Genotype=G|G	Individual=NA07348 (Female)	AFFY
+Genotype=G|G	Individual=CEPH1345.12 (Male)	AFFY
+Genotype=G|G	Individual=JA19003 (Female)	AFFY
+Genotype=G|G	Individual=CH18570 (Female)	AFFY
+Genotype=C|C	Individual=CH18566 (Female)	AFFY
+Genotype=C|C	Individual=CH18612 (Male)	AFFY
+Genotype=C|G	Individual=CH18563 (Male)	AFFY
+Genotype=C|G	Individual=CH18571 (Female)	AFFY
+Genotype=G|G	Individual=CH18622 (Male)	AFFY
+Genotype=C|C	Individual=CH18594 (Female)	AFFY
+Genotype=C|G	Individual=CH18620 (Male)	AFFY
+Genotype=C|G	Individual=CH18621 (Male)	AFFY
+Genotype=C|G	Individual=CH18573 (Female)	AFFY
+Genotype=C|C	Individual=JA18974 (Male)	AFFY
+Genotype=C|G	Individual=JA18980 (Female)	AFFY
+Genotype=C|G	Individual=JA18995 (Male)	AFFY
+Genotype=C|G	Individual=JA18981 (Female)	AFFY
+Genotype=C|G	Individual=JA18971 (Male)	AFFY
+Genotype=C|G	Individual=YOR050.03 (Male)	AFFY
+Genotype=G|G	Individual=YOR050.02 (Female)	AFFY
+Genotype=G|G	Individual=YOR051.01 (Male)	AFFY
+Genotype=G|G	Individual=YOR051.02 (Female)	AFFY
+Genotype=G|G	Individual=YOR051.03 (Male)	AFFY
+Genotype=C|C	Individual=CEPH1349.13 (Male)	AFFY
+Genotype=C|G	Individual=CEPH1350.10 (Male)	AFFY
+Genotype=C|G	Individual=CEPH1350.11 (Female)	AFFY
+Genotype=C|G	Individual=CEPH1350.12 (Male)	AFFY
+Genotype=C|G	Individual=CEPH1350.13 (Female)	AFFY
+Genotype=C|G	Individual=CH18529 (Female)	AFFY
+Genotype=C|G	Individual=CH18558 (Male)	AFFY
+Genotype=G|G	Individual=CH18532 (Female)	AFFY
+Genotype=G|G	Individual=CH18561 (Male)	AFFY
+Genotype=G|G	Individual=CH18562 (Male)	AFFY
+Genotype=C|C	Individual=JA18998 (Female)	AFFY
+Genotype=C|G	Individual=JA18997 (Female)	AFFY
+Genotype=C|G	Individual=JA19000 (Male)	AFFY
+Genotype=C|G	Individual=JA18999 (Female)	AFFY
+Genotype=G|G	Individual=JA19005 (Male)	AFFY
+Genotype=C|C	Individual=JA18945 (Male)	AFFY
+Genotype=C|G	Individual=JA18951 (Female)	AFFY
+Genotype=C|G	Individual=JA18944 (Male)	AFFY
+Genotype=G|G	Individual=JA18943 (Male)	AFFY
+Genotype=G|G	Individual=JA18947 (Female)	AFFY
+Genotype=C|C	Individual=CEPH1416.01 (Male)	AFFY
+Genotype=C|C	Individual=CEPH1420.02 (Female)	AFFY
+Genotype=C|G	Individual=NA10831 (Female)	AFFY
+Genotype=G|G	Individual=CEPH1420.01 (Male)	AFFY
+Genotype=G|G	Individual=CEPH1334.01 (Male)	AFFY
+Genotype=C|C	Individual=CEPH1358.11 (Male)	AFFY
+Genotype=C|G	Individual=CEPH1340.12 (Female)	AFFY
+Genotype=C|G	Individual=CEPH1345.13 (Female)	AFFY
+Genotype=C|G	Individual=CEPH1358.01 (Male)	AFFY
+Genotype=G|G	Individual=CEPH1341.12 (Female)	AFFY
+Genotype=C|G	Individual=YOR017.02 (Female)	AFFY
+Genotype=C|G	Individual=YOR017.03 (Male)	AFFY
+Genotype=C|G	Individual=YOR018.01 (Male)	AFFY
+Genotype=G|G	Individual=YOR016.03 (Male)	AFFY
+Genotype=G|G	Individual=YOR017.01 (Male)	AFFY
+Genotype=G|G	Individual=YOR071.02 (Female)	AFFY
+Genotype=G|G	Individual=YOR071.03 (Male)	AFFY
+Genotype=G|G	Individual=YOR072.01 (Male)	AFFY
+Genotype=G|G	Individual=YOR072.02 (Female)	AFFY
+Genotype=G|G	Individual=YOR072.03 (Male)	AFFY
+Genotype=G|G	Individual=CH18605 (Male)	AFFY
+Genotype=G|G	Individual=CH18542 (Female)	AFFY
+Genotype=C|C	Individual=CH18540 (Female)	AFFY
+Genotype=C|G	Individual=CH18537 (Female)	AFFY
+Genotype=C|G	Individual=CH18603 (Male)	AFFY
+Genotype=G|G	Individual=YOR056.01 (Male)	AFFY
+Genotype=G|G	Individual=YOR056.02 (Female)	AFFY
+Genotype=G|G	Individual=YOR056.03 (Male)	AFFY
+Genotype=G|G	Individual=YOR058.01 (Female)	AFFY
+Genotype=G|G	Individual=YOR058.02 (Female)	AFFY
+Genotype=C|G	Individual=YOR018.03 (Male)	AFFY
+Genotype=G|G	Individual=YOR018.02 (Female)	AFFY
+Genotype=G|G	Individual=YOR023.01 (Male)	AFFY
+Genotype=G|G	Individual=YOR023.02 (Female)	AFFY
+Genotype=G|G	Individual=YOR023.03 (Male)	AFFY
+Genotype=C|C	Individual=YOR060.01 (Male)	AFFY
+Genotype=C|G	Individual=YOR060.02 (Female)	AFFY
+Genotype=C|G	Individual=YOR060.03 (Male)	AFFY
+Genotype=G|G	Individual=YOR058.03 (Male)	AFFY
+Genotype=G|G	Individual=YOR071.01 (Male)	AFFY
+Genotype=C|C	Individual=CEPH1341.13 (Male)	AFFY
+Genotype=G|G	Individual=CEPH1341.14 (Female)	AFFY
+Genotype=G|G	Individual=CEPH1340.10 (Female)	AFFY
+Genotype=C|G	Individual=CEPH1341.02 (Female)	AFFY
+Genotype=C|G	Individual=CEPH1340.09 (Male)	AFFY
+Genotype=G|G	Individual=YOR042.02 (Female)	AFFY
+Genotype=C|G	Individual=YOR042.03 (Male)	AFFY
+Genotype=G|G	Individual=YOR043.01 (Male)	AFFY
+Genotype=G|G	Individual=YOR043.02 (Female)	AFFY
+Genotype=G|G	Individual=YOR043.03 (Male)	AFFY
+Genotype=C|C	Individual=CEPH1454.01 (Male)	AFFY
+Genotype=C|C	Individual=CEPH1454.12 (Male)	AFFY
+Genotype=C|G	Individual=CEPH1454.02 (Female)	AFFY
+Genotype=C|G	Individual=CEPH1454.13 (Female)	AFFY
+Genotype=C|G	Individual=CEPH1454.14 (Male)	AFFY
+Genotype=C|C	Individual=NA10854 (Female)	AFFY
+Genotype=C|C	Individual=CEPH1350.02 (Female)	AFFY
+Genotype=C|G	Individual=CEPH1350.01 (Male)	AFFY
+Genotype=G|G	Individual=CEPH1334.02 (Female)	AFFY
+Genotype=G|G	Individual=NA10851 (Male)	AFFY
+Genotype=C|G	Individual=615_CL6 (Female)	AFFY
+Genotype=C|G	Individual=CEPH1346.11 (Male)	AFFY
+Genotype=C|G	Individual=CEPH1344.12 (Male)	AFFY
+Genotype=G|G	Individual=CEPH1346.12 (Female)	AFFY
+Genotype=G|G	Individual=CEPH1344.13 (Female)	AFFY
+Genotype=C|C	Individual=CH18637 (Male)	AFFY
+Genotype=C|G	Individual=JA18942 (Female)	AFFY
+Genotype=C|G	Individual=CH18636 (Male)	AFFY
+Genotype=G|G	Individual=CH18593 (Female)	AFFY
+Genotype=G|G	Individual=JA18940 (Male)	AFFY
+Genotype=C|G	Individual=YOR004.01 (Male)	AFFY
+Genotype=C|G	Individual=YOR004.02 (Female)	AFFY
+Genotype=G|G	Individual=YOR024.01 (Male)	AFFY
+Genotype=G|G	Individual=YOR024.02 (Female)	AFFY
+Genotype=G|G	Individual=YOR024.03 (Male)	AFFY
+Genotype=G|G	Individual=YOR028.01 (Male)	AFFY
+Genotype=G|G	Individual=YOR028.02 (Female)	AFFY
+Genotype=G|G	Individual=YOR077.03 (Male)	AFFY
+Genotype=G|G	Individual=YOR101.01 (Female)	AFFY
+Genotype=G|G	Individual=YOR101.02 (Female)	AFFY
+Genotype=G|G	Individual=YOR101.03 (Male)	AFFY
+Genotype=G|G	Individual=YOR105.01 (Female)	AFFY
+Genotype=C|G	Individual=YOR074.02 (Female)	AFFY
+Genotype=C|G	Individual=YOR077.01 (Female)	AFFY
+Genotype=C|G	Individual=YOR077.02 (Female)	AFFY
+Genotype=G|G	Individual=YOR074.01 (Male)	AFFY
+Genotype=G|G	Individual=YOR074.03 (Male)	AFFY
+Genotype=C|G	Individual=CEPH1358.12 (Female)	AFFY
+Genotype=C|G	Individual=CEPH1444.02 (Female)	AFFY
+Genotype=C|C	Individual=CEPH1463.16 (Female)	AFFY
+Genotype=G|G	Individual=CEPH1459.12 (Female)	AFFY
+Genotype=C|G	Individual=CEPH1459.11 (Male)	AFFY
+Genotype=C|G	Individual=CEPH1463.02 (Female)	AFFY
+Genotype=C|G	Individual=CEPH1463.15 (Male)	AFFY
+Genotype=C|G	Individual=YOR009.02 (Female)	AFFY
+Genotype=C|G	Individual=YOR012.02 (Female)	AFFY
+Genotype=G|G	Individual=YOR009.03 (Male)	AFFY
+Genotype=G|G	Individual=YOR012.01 (Male)	AFFY
+Genotype=G|G	Individual=YOR012.03 (Male)	AFFY
+Genotype=C|G	Individual=YOR009.01 (Male)	AFFY
+Genotype=G|G	Individual=YOR004.03 (Male)	AFFY
+Genotype=G|G	Individual=YOR005.01 (Male)	AFFY
+Genotype=G|G	Individual=YOR005.02 (Female)	AFFY
+Genotype=G|G	Individual=YOR005.03 (Male)	AFFY
+Genotype=G|G	Individual=YOR045.01 (Female)	AFFY
+Genotype=G|G	Individual=YOR045.02 (Female)	AFFY
+Genotype=G|G	Individual=YOR045.03 (Male)	AFFY
+Genotype=C|G	Individual=YOR047.01 (Male)	AFFY
+Genotype=G|G	Individual=YOR047.02 (Female)	AFFY
+Genotype=C|C	Individual=CEPH1362.16 (Female)	AFFY
+Genotype=C|G	Individual=CEPH1362.15 (Male)	AFFY
+Genotype=C|G	Individual=CEPH1420.11 (Male)	AFFY
+Genotype=G|G	Individual=CEPH1420.09 (Male)	AFFY
+Genotype=G|G	Individual=615_CL5 (Female)	AFFY
+Genotype=C|G	Individual=YOR013.01 (Male)	AFFY
+Genotype=C|G	Individual=YOR013.03 (Male)	AFFY
+Genotype=C|G	Individual=YOR016.01 (Male)	AFFY
+Genotype=C|G	Individual=YOR016.02 (Female)	AFFY
+Genotype=G|G	Individual=YOR013.02 (Female)	AFFY
+Genotype=C|C	Individual=615_CL8 (Female)	AFFY
+Genotype=C|G	Individual=CEPH1416.12 (Female)	AFFY
+Genotype=C|G	Individual=CEPH1375.11 (Male)	AFFY
+Genotype=C|G	Individual=CEPH1447.01 (Male)	AFFY
+Genotype=G|G	Individual=CEPH1444.13 (Male)	AFFY
+Genotype=C|C	Individual=NA07019 (Female)	AFFY
+Genotype=C|G	Individual=CEPH1340.11 (Male)	AFFY
+Genotype=C|G	Individual=CEPH1341.11 (Male)	AFFY
+Genotype=G|G	Individual=CEPH1340.01 (Male)	AFFY
+Genotype=G|G	Individual=CEPH1341.01 (Male)	AFFY
+Genotype=C|G	Individual=YOR105.02 (Female)	AFFY
+Genotype=C|G	Individual=YOR105.03 (Male)	AFFY
+Genotype=G|G	Individual=YOR112.01 (Male)	AFFY
+Genotype=G|G	Individual=YOR112.02 (Female)	AFFY
+Genotype=G|G	Individual=YOR112.03 (Male)	AFFY
+Genotype=G|G	Individual=JA18987 (Female)	AFFY
+Genotype=C|G	Individual=JA18990 (Male)	AFFY
+Genotype=C|C	Individual=JA18991 (Female)	AFFY
+Genotype=C|C	Individual=JA18994 (Male)	AFFY
+Genotype=C|C	Individual=JA18992 (Female)	AFFY
+Genotype=C|C	Individual=CH18582 (Female)	AFFY
+Genotype=C|C	Individual=CH18635 (Male)	AFFY
+Genotype=C|C	Individual=CH18592 (Female)	AFFY
+Genotype=C|G	Individual=CH18633 (Male)	AFFY
+Genotype=G|G	Individual=CH18632 (Male)	AFFY
+Genotype=C|G	Individual=YOR048.01 (Male)	AFFY
+Genotype=C|G	Individual=YOR048.02 (Female)	AFFY
+Genotype=C|C	Individual=YOR047.03 (Male)	AFFY
+Genotype=G|G	Individual=YOR048.03 (Male)	AFFY
+Genotype=G|G	Individual=YOR050.01 (Male)	AFFY
+Genotype=G|G	Individual=JA18961 (Male)	AFFY
+Genotype=C|C	Individual=JA18972 (Female)	AFFY
+Genotype=C|C	Individual=JA18965 (Male)	AFFY
+Genotype=C|G	Individual=JA18973 (Female)	AFFY
+Genotype=C|G	Individual=JA18966 (Male)	AFFY
+Genotype=C|C	Individual=NA10860 (Male)	AFFY
+Genotype=C|G	Individual=NA10857 (Male)	AFFY
+Genotype=C|G	Individual=CEPH1347.02 (Female)	AFFY
+Genotype=C|G	Individual=NA10861 (Female)	AFFY
+Genotype=C|G	Individual=CEPH1375.02 (Female)	AFFY
+Genotype=C|G	Individual=CEPH1334.10 (Male)	AFFY
+Genotype=C|G	Individual=CEPH1334.11 (Female)	AFFY
+Genotype=C|G	Individual=CEPH1334.12 (Male)	AFFY
+Genotype=C|G	Individual=CEPH1408.10 (Male)	AFFY
+Genotype=G|G	Individual=CEPH1408.12 (Male)	AFFY
+Genotype=C|G	Individual=YOR040.01 (Female)	AFFY
+Genotype=C|G	Individual=YOR040.02 (Female)	AFFY
+Genotype=C|G	Individual=YOR042.01 (Male)	AFFY
+Genotype=G|G	Individual=YOR028.03 (Male)	AFFY
+Genotype=G|G	Individual=YOR040.03 (Male)	AFFY
+Genotype=C|G	Individual=JA19012 (Male)	AFFY
+Genotype=C|G	Individual=109023 (Unknown)	AFFY
+Genotype=C|C	Individual=109023 (Unknown)	AFFY
+Genotype=C|G	Individual=109025 (Unknown)	AFFY
+Genotype=C|C	Individual=109022 (Unknown)	AFFY
+Genotype=C|G	Individual=YOR117.01 (Female)	HGSV
+Genotype=C|G	Individual=YOR117.03 (Male)	HGSV
+Genotype=C|G	Individual=CH18526 (Female)	HGSV
+Genotype=C|G	Individual=CH18524 (Male)	HGSV
+Genotype=G|G	Individual=YOR117.02 (Female)	HGSV
+Genotype=G|G	Individual=NA18934 (Male)	HGSV
+Genotype=G|G	Individual=NA18933 (Female)	HGSV
+Genotype=G|G	Individual=NA19180 (Female)	HGSV
+Genotype=G|G	Individual=NA19178 (Male)	HGSV
+Genotype=G|G	Individual=NA19179 (Female)	HGSV
+Genotype=G|G	Individual=NA19186 (Male)	HGSV
+Genotype=G|G	Individual=JA18949 (Female)	HGSV
+Genotype=G|G	Individual=JA18956 (Female)	HGSV
+Genotype=C|G	Individual=JA18948 (Male)	HGSV
+Genotype=C|G	Individual=JA18952 (Male)	HGSV
+Genotype=C|G	Individual=JA18964 (Female)	HGSV
+Genotype=C|G	Individual=NA21357 (Female)	HGSV
+Genotype=C|G	Individual=NA21371 (Female)	HGSV
+Genotype=C|G	Individual=NA21378 (Male)	HGSV
+Genotype=C|G	Individual=NA21417 (Male)	HGSV
+Genotype=C|G	Individual=NA21420 (Male)	HGSV
+Genotype=C|G	Individual=NA21421 (Female)	HGSV
+Genotype=G|G	Individual=NA21367 (Male)	HGSV
+Genotype=G|G	Individual=NA21368 (Female)	HGSV
+Genotype=G|G	Individual=NA21370 (Male)	HGSV
+Genotype=G|G	Individual=NA21379 (Female)	HGSV
+Genotype=G|G	Individual=NA21405 (Male)	HGSV
+Genotype=G|G	Individual=NA21408 (Male)	HGSV
+Genotype=G|G	Individual=NA21414 (Male)	HGSV
+Genotype=G|G	Individual=NA21415 (Female)	HGSV
+Genotype=G|G	Individual=NA21418 (Female)	HGSV
+Genotype=C|G	Individual=CEPH1454.15 (Female)	HGSV
+Genotype=C|G	Individual=CEPH1459.01 (Male)	HGSV
+Genotype=C|G	Individual=CEPH1459.02 (Female)	HGSV
+Genotype=C|G	Individual=CEPH1459.09 (Male)	HGSV
+Genotype=C|G	Individual=CEPH1459.10 (Female)	HGSV
+Genotype=C|G	Individual=CEPH1451.02 (Female)	HGSV
+Genotype=C|G	Individual=CEPH1456.01 (Male)	HGSV
+Genotype=C|G	Individual=CEPH1456.13 (Male)	HGSV
+Genotype=C|G	Individual=CEPH1456.14 (Female)	HGSV
+Genotype=G|G	Individual=CEPH1451.11 (Male)	HGSV
+Genotype=G|G	Individual=CEPH1451.12 (Female)	HGSV
+Genotype=C|G	Individual=NA19081 (Female)	HGSV
+Genotype=C|G	Individual=NA19083 (Male)	HGSV
+Genotype=C|G	Individual=NA19084 (Female)	HGSV
+Genotype=C|G	Individual=NA19085 (Male)	HGSV
+Genotype=C|G	Individual=NA19086 (Male)	HGSV
+Genotype=C|C	Individual=NA19087 (Female)	HGSV
+Genotype=C|G	Individual=NA18610 (Female)	HGSV
+Genotype=C|G	Individual=NA18614 (Female)	HGSV
+Genotype=C|G	Individual=NA18615 (Female)	HGSV
+Genotype=C|C	Individual=NA18602 (Female)	HGSV
+Genotype=G|G	Individual=NA18613 (Male)	HGSV
+Genotype=C|C	Individual=NA18616 (Female)	HGSV
+Genotype=G|G	Individual=NA19983 (Female)	HGSV
+Genotype=G|G	Individual=NA19982 (Male)	HGSV
+Genotype=G|G	Individual=NA19714 (Female)	HGSV
+Genotype=C|C	Individual=NA20126 (Male)	HGSV
+Genotype=G|G	Individual=NA20127 (Female)	HGSV
+Genotype=G|G	Individual=NA20277 (Female)	HGSV
+Genotype=G|G	Individual=NA20276 (Female)	HGSV
+Genotype=G|G	Individual=NA20279 (Male)	HGSV
+Genotype=G|G	Individual=NA20284 (Male)	HGSV
+Genotype=C|G	Individual=NA19713 (Female)	HGSV
+Genotype=C|G	Individual=NA19985 (Female)	HGSV
+Genotype=C|G	Individual=NA20128 (Female)	HGSV
+Genotype=C|G	Individual=NA20281 (Male)	HGSV
+Genotype=C|G	Individual=NA20282 (Female)	HGSV
+Genotype=C|G	Individual=NA20288 (Male)	HGSV
+Genotype=G|G	Individual=NA19705 (Male)	HGSV
+Genotype=G|G	Individual=NA19625 (Female)	HGSV
+Genotype=G|G	Individual=NA19704 (Female)	HGSV
+Genotype=G|G	Individual=NA19711 (Male)	HGSV
+Genotype=G|G	Individual=NA19700 (Male)	HGSV
+Genotype=G|G	Individual=NA19828 (Male)	HGSV
+Genotype=G|G	Individual=NA19818 (Male)	HGSV
+Genotype=G|G	Individual=NA19819 (Female)	HGSV
+Genotype=G|G	Individual=NA19836 (Female)	HGSV
+Genotype=G|G	Individual=NA19703 (Male)	HGSV
+Genotype=G|G	Individual=NA19834 (Male)	HGSV
+Genotype=C|G	Individual=NA19708 (Female)	HGSV
+Genotype=C|G	Individual=NA19712 (Female)	HGSV
+Genotype=C|G	Individual=NA19701 (Female)	HGSV
+Genotype=C|G	Individual=NA19702 (Male)	HGSV
+Genotype=C|G	Individual=CEPH1463.01 (Male)	HGSV
+Genotype=C|G	Individual=NA12347 (Male)	HGSV
+Genotype=C|G	Individual=NA12348 (Female)	HGSV
+Genotype=C|C	Individual=CEPH1463.13 (Male)	HGSV
+Genotype=G|G	Individual=CEPH1463.14 (Female)	HGSV
+Genotype=C|C	Individual=615_CL281 (Male)	HGSV
+Genotype=C|C	Individual=CH18624 (Male)	HGSV
+Genotype=C|G	Individual=CH18623 (Male)	HGSV
+Genotype=C|G	Individual=CH18576 (Female)	HGSV
+Genotype=C|G	Individual=CH18577 (Female)	HGSV
+Genotype=C|G	Individual=CH18579 (Female)	HGSV
+Genotype=C|G	Individual=NA21109 (Male)	HGSV
+Genotype=C|G	Individual=NA21111 (Male)	HGSV
+Genotype=C|G	Individual=NA21112 (Male)	HGSV
+Genotype=C|G	Individual=NA21113 (Male)	HGSV
+Genotype=C|G	Individual=NA21115 (Male)	HGSV
+Genotype=C|G	Individual=NA21118 (Male)	HGSV
+Genotype=C|G	Individual=NA21137 (Female)	HGSV
+Genotype=C|G	Individual=NA21141 (Female)	HGSV
+Genotype=C|C	Individual=NA21116 (Male)	HGSV
+Genotype=C|C	Individual=NA21117 (Male)	HGSV
+Genotype=C|C	Individual=NA21119 (Male)	HGSV
+Genotype=C|C	Individual=NA21123 (Male)	HGSV
+Genotype=C|C	Individual=NA21125 (Female)	HGSV
+Genotype=G|G	Individual=NA21142 (Female)	HGSV
+Genotype=G|G	Individual=NA21143 (Female)	HGSV
+Genotype=G|G	Individual=NA21144 (Female)	HGSV
+Genotype=C|G	Individual=CEPH1349.14 (Female)	HGSV
+Genotype=C|C	Individual=CEPH1347.14 (Male)	HGSV
+Genotype=G|G	Individual=CEPH1347.15 (Female)	HGSV
+Genotype=C|C	Individual=CEPH1362.13 (Male)	HGSV
+Genotype=C|C	Individual=CEPH1362.14 (Female)	HGSV
+Genotype=C|G	Individual=CEPH1375.12 (Female)	HGSV
+Genotype=C|G	Individual=CEPH1334.13 (Female)	HGSV
+Genotype=C|G	Individual=CEPH1416.11 (Male)	HGSV
+Genotype=C|C	Individual=CEPH1408.13 (Female)	HGSV
+Genotype=C|C	Individual=JA18953 (Male)	HGSV
+Genotype=C|C	Individual=JA18968 (Female)	HGSV
+Genotype=C|G	Individual=JA18959 (Male)	HGSV
+Genotype=C|G	Individual=JA18969 (Female)	HGSV
+Genotype=C|G	Individual=JA18960 (Male)	HGSV
+Genotype=C|G	Individual=NA21442 (Male)	HGSV
+Genotype=C|G	Individual=NA21441 (Female)	HGSV
+Genotype=C|G	Individual=NA21453 (Male)	HGSV
+Genotype=C|G	Individual=NA21475 (Male)	HGSV
+Genotype=C|G	Individual=NA21478 (Male)	HGSV
+Genotype=C|G	Individual=NA21479 (Female)	HGSV
+Genotype=G|G	Individual=NA21440 (Male)	HGSV
+Genotype=C|C	Individual=NA21455 (Female)	HGSV
+Genotype=C|C	Individual=NA21454 (Female)	HGSV
+Genotype=G|G	Individual=NA21477 (Male)	HGSV
+Genotype=G|G	Individual=NA21476 (Female)	HGSV
+Genotype=C|C	Individual=NA21480 (Female)	HGSV
+Genotype=G|G	Individual=NA21487 (Female)	HGSV
+Genotype=G|G	Individual=NA21485 (Male)	HGSV
+Genotype=G|G	Individual=NA21486 (Female)	HGSV
+Genotype=G|G	Individual=NA19772 (Male)	HGSV
+Genotype=G|G	Individual=NA19770 (Female)	HGSV
+Genotype=G|G	Individual=NA19777 (Male)	HGSV
+Genotype=G|G	Individual=NA19779 (Female)	HGSV
+Genotype=G|G	Individual=NA19784 (Male)	HGSV
+Genotype=G|G	Individual=NA19783 (Male)	HGSV
+Genotype=C|G	Individual=NA19771 (Male)	HGSV
+Genotype=C|G	Individual=NA19775 (Female)	HGSV
+Genotype=C|G	Individual=NA19774 (Male)	HGSV
+Genotype=C|G	Individual=NA19773 (Female)	HGSV
+Genotype=C|G	Individual=NA19778 (Male)	HGSV
+Genotype=C|G	Individual=NA19776 (Female)	HGSV
+Genotype=C|G	Individual=NA19781 (Female)	HGSV
+Genotype=C|G	Individual=NA19780 (Male)	HGSV
+Genotype=C|G	Individual=NA19782 (Female)	HGSV
+Genotype=C|G	Individual=NA19790 (Female)	HGSV
+Genotype=C|C	Individual=NA20899 (Female)	HGSV
+Genotype=G|G	Individual=NA20901 (Male)	HGSV
+Genotype=C|C	Individual=NA20904 (Male)	HGSV
+Genotype=G|G	Individual=NA20906 (Female)	HGSV
+Genotype=G|G	Individual=NA20909 (Male)	HGSV
+Genotype=G|G	Individual=NA20910 (Female)	HGSV
+Genotype=C|C	Individual=NA21086 (Female)	HGSV
+Genotype=C|G	Individual=NA20898 (Male)	HGSV
+Genotype=C|G	Individual=NA20900 (Female)	HGSV
+Genotype=C|G	Individual=NA20902 (Female)	HGSV
+Genotype=C|G	Individual=NA20903 (Male)	HGSV
+Genotype=C|G	Individual=NA20907 (Female)	HGSV
+Genotype=C|G	Individual=NA20908 (Female)	HGSV
+Genotype=C|G	Individual=NA20911 (Male)	HGSV
+Genotype=C|G	Individual=NA21088 (Female)	HGSV
+Genotype=C|G	Individual=NA21089 (Female)	HGSV
+Genotype=C|G	Individual=NA21682 (Male)	HGSV
+Genotype=C|G	Individual=NA21683 (Female)	HGSV
+Genotype=C|G	Individual=NA21689 (Male)	HGSV
+Genotype=C|G	Individual=NA21693 (Female)	HGSV
+Genotype=C|G	Individual=NA21722 (Male)	HGSV
+Genotype=C|G	Individual=NA21733 (Female)	HGSV
+Genotype=G|G	Individual=NA21620 (Female)	HGSV
+Genotype=G|G	Individual=NA21611 (Female)	HGSV
+Genotype=G|G	Individual=NA21631 (Male)	HGSV
+Genotype=G|G	Individual=NA21632 (Female)	HGSV
+Genotype=G|G	Individual=NA21650 (Female)	HGSV
+Genotype=G|G	Individual=NA21678 (Male)	HGSV
+Genotype=G|G	Individual=NA21719 (Male)	HGSV
+Genotype=G|G	Individual=NA21723 (Female)	HGSV
+Genotype=G|G	Individual=NA21768 (Female)	HGSV
+Genotype=C|C	Individual=JA18975 (Female)	HGSV
+Genotype=G|G	Individual=JA18976 (Female)	HGSV
+Genotype=C|C	Individual=JA18978 (Female)	HGSV
+Genotype=G|G	Individual=JA18970 (Male)	HGSV
+Genotype=C|G	Individual=JA18967 (Male)	HGSV
+Genotype=C|C	Individual=CEPH1447.09 (Male)	HGSV
+Genotype=G|G	Individual=CEPH1447.10 (Female)	HGSV
+Genotype=G|G	Individual=CEPH1447.11 (Male)	HGSV
+Genotype=C|C	Individual=CEPH1447.12 (Female)	HGSV
+Genotype=C|G	Individual=CEPH1447.02 (Female)	HGSV
+Genotype=C|G	Individual=NA21573 (Male)	HGSV
+Genotype=C|G	Individual=NA21574 (Female)	HGSV
+Genotype=C|G	Individual=NA21576 (Female)	HGSV
+Genotype=C|G	Individual=NA21616 (Male)	HGSV
+Genotype=G|G	Individual=NA21510 (Female)	HGSV
+Genotype=G|G	Individual=NA21613 (Female)	HGSV
+Genotype=G|G	Individual=NA21517 (Female)	HGSV
+Genotype=G|G	Individual=NA21575 (Male)	HGSV
+Genotype=C|C	Individual=NA21577 (Male)	HGSV
+Genotype=G|G	Individual=NA21578 (Female)	HGSV
+Genotype=G|G	Individual=NA21587 (Male)	HGSV
+Genotype=G|G	Individual=NA21596 (Male)	HGSV
+Genotype=G|G	Individual=NA21597 (Female)	HGSV
+Genotype=G|G	Individual=NA21617 (Female)	HGSV
+Genotype=G|G	Individual=NA21619 (Male)	HGSV
+Genotype=C|G	Individual=NA19473 (Female)	HGSV
+Genotype=C|G	Individual=NA21302 (Female)	HGSV
+Genotype=C|G	Individual=NA21301 (Male)	HGSV
+Genotype=C|G	Individual=NA21309 (Female)	HGSV
+Genotype=C|G	Individual=NA21307 (Male)	HGSV
+Genotype=C|G	Individual=NA21313 (Male)	HGSV
+Genotype=C|G	Individual=NA21362 (Female)	HGSV
+Genotype=C|G	Individual=NA21317 (Male)	HGSV
+Genotype=C|G	Individual=NA21316 (Male)	HGSV
+Genotype=G|G	Individual=NA19474 (Female)	HGSV
+Genotype=G|G	Individual=NA21303 (Female)	HGSV
+Genotype=G|G	Individual=NA21308 (Female)	HGSV
+Genotype=G|G	Individual=NA21311 (Male)	HGSV
+Genotype=G|G	Individual=NA21363 (Female)	HGSV
+Genotype=G|G	Individual=NA21312 (Male)	HGSV
+Genotype=G|G	Individual=CH18545 (Female)	HGSV
+Genotype=C|G	Individual=CH18572 (Male)	HGSV
+Genotype=C|G	Individual=CH18609 (Male)	HGSV
+Genotype=C|G	Individual=CH18550 (Female)	HGSV
+Genotype=C|G	Individual=NA20758 (Male)	HGSV
+Genotype=C|G	Individual=NA20759 (Male)	HGSV
+Genotype=C|G	Individual=NA20760 (Female)	HGSV
+Genotype=C|G	Individual=NA20766 (Female)	HGSV
+Genotype=C|G	Individual=NA20768 (Female)	HGSV
+Genotype=C|G	Individual=NA20769 (Female)	HGSV
+Genotype=C|G	Individual=NA20772 (Female)	HGSV
+Genotype=C|G	Individual=NA20773 (Female)	HGSV
+Genotype=C|G	Individual=NA20774 (Female)	HGSV
+Genotype=C|G	Individual=NA20775 (Female)	HGSV
+Genotype=C|G	Individual=NA20783 (Male)	HGSV
+Genotype=G|G	Individual=NA20761 (Female)	HGSV
+Genotype=C|C	Individual=NA20765 (Male)	HGSV
+Genotype=G|G	Individual=NA20770 (Male)	HGSV
+Genotype=C|C	Individual=NA20771 (Female)	HGSV
+Genotype=C|C	Individual=NA20778 (Male)	HGSV
+Genotype=C|G	Individual=NA20808 (Female)	HGSV
+Genotype=C|G	Individual=NA20809 (Male)	HGSV
+Genotype=C|G	Individual=NA20810 (Male)	HGSV
+Genotype=C|G	Individual=NA20816 (Male)	HGSV
+Genotype=C|G	Individual=NA20818 (Female)	HGSV
+Genotype=C|G	Individual=NA20828 (Female)	HGSV
+Genotype=G|G	Individual=NA20807 (Female)	HGSV
+Genotype=C|C	Individual=NA20811 (Male)	HGSV
+Genotype=G|G	Individual=NA20812 (Male)	HGSV
+Genotype=C|C	Individual=NA20813 (Female)	HGSV
+Genotype=C|C	Individual=NA20815 (Male)	HGSV
+Genotype=C|C	Individual=NA20819 (Female)	HGSV
+Genotype=G|G	Individual=NA20826 (Female)	HGSV
+Genotype=G|G	Individual=NA18484 (Female)	HGSV
+Genotype=G|G	Individual=CH18552 (Female)	HGSV
+Genotype=C|C	Individual=CH18564 (Female)	HGSV
+Genotype=C|G	Individual=CH18608 (Male)	HGSV
+Genotype=C|G	Individual=CH18611 (Male)	HGSV
+Genotype=C|G	Individual=CH18555 (Female)	HGSV
+Genotype=G|G	Individual=NA07348 (Female)	HGSV
+Genotype=G|G	Individual=CEPH1345.12 (Male)	HGSV
+Genotype=C|C	Individual=NA10830 (Male)	HGSV
+Genotype=C|G	Individual=JA19007 (Male)	HGSV
+Genotype=C|G	Individual=NA20543 (Male)	HGSV
+Genotype=C|G	Individual=NA20544 (Male)	HGSV
+Genotype=C|G	Individual=NA20582 (Female)	HGSV
+Genotype=C|G	Individual=NA20586 (Male)	HGSV
+Genotype=C|G	Individual=NA20589 (Female)	HGSV
+Genotype=C|G	Individual=NA20753 (Female)	HGSV
+Genotype=C|G	Individual=NA20755 (Male)	HGSV
+Genotype=C|G	Individual=NA20756 (Female)	HGSV
+Genotype=C|C	Individual=NA20540 (Female)	HGSV
+Genotype=G|G	Individual=NA20541 (Female)	HGSV
+Genotype=G|G	Individual=NA20542 (Female)	HGSV
+Genotype=C|C	Individual=NA20581 (Male)	HGSV
+Genotype=C|C	Individual=NA20588 (Male)	HGSV
+Genotype=G|G	Individual=NA20752 (Male)	HGSV
+Genotype=G|G	Individual=NA20754 (Male)	HGSV
+Genotype=G|G	Individual=NA20757 (Female)	HGSV
+Genotype=C|G	Individual=NA19788 (Female)	HGSV
+Genotype=C|G	Individual=NA19796 (Male)	HGSV
+Genotype=C|G	Individual=NA19795 (Male)	HGSV
+Genotype=C|G	Individual=NA20502 (Female)	HGSV
+Genotype=C|G	Individual=NA20504 (Female)	HGSV
+Genotype=C|G	Individual=NA20505 (Female)	HGSV
+Genotype=C|G	Individual=NA20508 (Female)	HGSV
+Genotype=C|G	Individual=NA20509 (Male)	HGSV
+Genotype=C|G	Individual=NA20510 (Male)	HGSV
+Genotype=C|G	Individual=NA20515 (Male)	HGSV
+Genotype=C|G	Individual=NA20516 (Male)	HGSV
+Genotype=C|G	Individual=NA20517 (Female)	HGSV
+Genotype=G|G	Individual=NA19789 (Male)	HGSV
+Genotype=G|G	Individual=NA19794 (Female)	HGSV
+Genotype=C|C	Individual=NA20506 (Female)	HGSV
+Genotype=C|C	Individual=NA20512 (Male)	HGSV
+Genotype=C|G	Individual=CEPH1423.13 (Male)	HGSV
+Genotype=C|G	Individual=615_CL2 (Female)	HGSV
+Genotype=C|C	Individual=CEPH1421.14 (Female)	HGSV
+Genotype=C|C	Individual=CEPH1421.02 (Female)	HGSV
+Genotype=C|C	Individual=CEPH1421.09 (Male)	HGSV
+Genotype=G|G	Individual=CEPH1421.10 (Female)	HGSV
+Genotype=C|C	Individual=CH18566 (Female)	HGSV
+Genotype=G|G	Individual=CH18570 (Female)	HGSV
+Genotype=C|C	Individual=CH18612 (Male)	HGSV
+Genotype=C|G	Individual=CH18563 (Male)	HGSV
+Genotype=C|G	Individual=CH18571 (Female)	HGSV
+Genotype=C|G	Individual=NA17962 (Female)	HGSV
+Genotype=C|G	Individual=NA17965 (Male)	HGSV
+Genotype=C|G	Individual=NA17967 (Male)	HGSV
+Genotype=C|G	Individual=CEPH13292.13 (Female)	HGSV
+Genotype=C|C	Individual=NA17966 (Female)	HGSV
+Genotype=G|G	Individual=NA17968 (Female)	HGSV
+Genotype=G|G	Individual=NA17969 (Male)	HGSV
+Genotype=C|C	Individual=NA17970 (Female)	HGSV
+Genotype=G|G	Individual=NA17972 (Male)	HGSV
+Genotype=C|C	Individual=CEPH13292.12 (Male)	HGSV
+Genotype=C|C	Individual=619_CL288 (Female)	HGSV
+Genotype=C|C	Individual=CH18594 (Female)	HGSV
+Genotype=G|G	Individual=CH18622 (Male)	HGSV
+Genotype=C|G	Individual=CH18620 (Male)	HGSV
+Genotype=C|G	Individual=CH18621 (Male)	HGSV
+Genotype=C|G	Individual=CH18573 (Female)	HGSV
+Genotype=C|C	Individual=JA18974 (Male)	HGSV
+Genotype=C|G	Individual=JA18980 (Female)	HGSV
+Genotype=C|G	Individual=JA18995 (Male)	HGSV
+Genotype=C|G	Individual=JA18981 (Female)	HGSV
+Genotype=C|G	Individual=JA18971 (Male)	HGSV
+Genotype=C|G	Individual=NA18641 (Female)	HGSV
+Genotype=C|G	Individual=NA18643 (Male)	HGSV
+Genotype=C|G	Individual=NA18645 (Male)	HGSV
+Genotype=C|G	Individual=NA18647 (Male)	HGSV
+Genotype=C|C	Individual=NA18642 (Female)	HGSV
+Genotype=G|G	Individual=NA18740 (Male)	HGSV
+Genotype=G|G	Individual=YOR050.02 (Female)	HGSV
+Genotype=G|G	Individual=YOR051.01 (Male)	HGSV
+Genotype=G|G	Individual=YOR051.02 (Female)	HGSV
+Genotype=G|G	Individual=YOR051.03 (Male)	HGSV
+Genotype=C|G	Individual=YOR050.03 (Male)	HGSV
+Genotype=G|G	Individual=NA19900 (Male)	HGSV
+Genotype=G|G	Individual=NA19904 (Male)	HGSV
+Genotype=G|G	Individual=NA19919 (Male)	HGSV
+Genotype=G|G	Individual=NA19908 (Male)	HGSV
+Genotype=G|G	Individual=NA19918 (Male)	HGSV
+Genotype=G|G	Individual=NA19916 (Male)	HGSV
+Genotype=G|G	Individual=NA20129 (Female)	HGSV
+Genotype=C|G	Individual=NA19835 (Female)	HGSV
+Genotype=C|G	Individual=NA19902 (Female)	HGSV
+Genotype=C|G	Individual=NA19901 (Female)	HGSV
+Genotype=C|G	Individual=NA19909 (Female)	HGSV
+Genotype=C|G	Individual=NA19915 (Male)	HGSV
+Genotype=C|G	Individual=NA19914 (Female)	HGSV
+Genotype=C|G	Individual=NA19917 (Female)	HGSV
+Genotype=C|G	Individual=NA19921 (Female)	HGSV
+Genotype=C|G	Individual=NA21344 (Male)	HGSV
+Genotype=C|G	Individual=NA21383 (Male)	HGSV
+Genotype=C|G	Individual=NA21381 (Male)	HGSV
+Genotype=C|G	Individual=NA21385 (Female)	HGSV
+Genotype=C|G	Individual=NA21389 (Male)	HGSV
+Genotype=G|G	Individual=NA21580 (Female)	HGSV
+Genotype=C|C	Individual=NA21366 (Male)	HGSV
+Genotype=C|C	Individual=NA21365 (Female)	HGSV
+Genotype=G|G	Individual=NA21361 (Female)	HGSV
+Genotype=G|G	Individual=NA21359 (Male)	HGSV
+Genotype=G|G	Individual=NA21360 (Female)	HGSV
+Genotype=G|G	Individual=NA21382 (Female)	HGSV
+Genotype=G|G	Individual=NA21386 (Female)	HGSV
+Genotype=G|G	Individual=NA21384 (Male)	HGSV
+Genotype=G|G	Individual=NA21387 (Male)	HGSV
+Genotype=C|G	Individual=NA18498 (Male)	HGSV
+Genotype=C|G	Individual=NA19107 (Male)	HGSV
+Genotype=G|G	Individual=NA18499 (Female)	HGSV
+Genotype=G|G	Individual=NA19109 (Female)	HGSV
+Genotype=G|G	Individual=NA19108 (Female)	HGSV
+Genotype=G|G	Individual=NA18869 (Male)	HGSV
+Genotype=C|G	Individual=NA10843 (Female)	HGSV
+Genotype=C|G	Individual=CEPH1424.11 (Male)	HGSV
+Genotype=C|G	Individual=615_CL3 (Female)	HGSV
+Genotype=G|G	Individual=CEPH1423.11 (Male)	HGSV
+Genotype=G|G	Individual=615_CL1 (Female)	HGSV
+Genotype=C|C	Individual=NA10845 (Male)	HGSV
+Genotype=C|C	Individual=CEPH1349.13 (Male)	HGSV
+Genotype=C|G	Individual=CEPH1350.10 (Male)	HGSV
+Genotype=C|G	Individual=CEPH1350.11 (Female)	HGSV
+Genotype=C|G	Individual=CEPH1350.12 (Male)	HGSV
+Genotype=C|G	Individual=CEPH1350.13 (Female)	HGSV
+Genotype=G|G	Individual=CH18532 (Female)	HGSV
+Genotype=G|G	Individual=CH18561 (Male)	HGSV
+Genotype=G|G	Individual=CH18562 (Male)	HGSV
+Genotype=C|G	Individual=CH18529 (Female)	HGSV
+Genotype=C|G	Individual=CH18558 (Male)	HGSV
+Genotype=C|G	Individual=CEPH1346.13 (Male)	HGSV
+Genotype=C|G	Individual=NA10853 (Male)	HGSV
+Genotype=G|G	Individual=NA07349 (Male)	HGSV
+Genotype=G|G	Individual=CEPH1345.10 (Male)	HGSV
+Genotype=G|G	Individual=CEPH1345.11 (Female)	HGSV
+Genotype=C|C	Individual=NA10852 (Female)	HGSV
+Genotype=C|G	Individual=NA18748 (Male)	HGSV
+Genotype=C|C	Individual=NA18745 (Male)	HGSV
+Genotype=C|C	Individual=NA18747 (Male)	HGSV
+Genotype=C|C	Individual=NA18749 (Male)	HGSV
+Genotype=C|C	Individual=NA18757 (Male)	HGSV
+Genotype=C|C	Individual=NA18939 (Female)	HGSV
+Genotype=C|C	Individual=JA18998 (Female)	HGSV
+Genotype=G|G	Individual=JA19005 (Male)	HGSV
+Genotype=C|G	Individual=JA18997 (Female)	HGSV
+Genotype=C|G	Individual=JA19000 (Male)	HGSV
+Genotype=C|G	Individual=JA18999 (Female)	HGSV
+Genotype=C|G	Individual=NA12343 (Female)	HGSV
+Genotype=C|G	Individual=NA12340 (Male)	HGSV
+Genotype=G|G	Individual=NA12342 (Male)	HGSV
+Genotype=G|G	Individual=NA12336 (Female)	HGSV
+Genotype=C|C	Individual=NA12341 (Female)	HGSV
+Genotype=C|C	Individual=NA10850 (Female)	HGSV
+Genotype=G|G	Individual=NA19653 (Female)	HGSV
+Genotype=G|G	Individual=NA19656 (Female)	HGSV
+Genotype=G|G	Individual=NA19654 (Female)	HGSV
+Genotype=C|C	Individual=NA19662 (Female)	HGSV
+Genotype=C|C	Individual=NA19682 (Male)	HGSV
+Genotype=C|G	Individual=NA19652 (Male)	HGSV
+Genotype=C|G	Individual=NA19651 (Female)	HGSV
+Genotype=C|G	Individual=NA19659 (Female)	HGSV
+Genotype=C|G	Individual=NA19658 (Male)	HGSV
+Genotype=C|G	Individual=NA19657 (Female)	HGSV
+Genotype=C|G	Individual=NA19661 (Male)	HGSV
+Genotype=C|G	Individual=NA19660 (Female)	HGSV
+Genotype=C|G	Individual=NA19680 (Female)	HGSV
+Genotype=C|G	Individual=NA19679 (Male)	HGSV
+Genotype=C|G	Individual=NA19678 (Female)	HGSV
+Genotype=C|G	Individual=NA19683 (Female)	HGSV
+Genotype=G|G	Individual=NA19176 (Female)	HGSV
+Genotype=G|G	Individual=NA19183 (Female)	HGSV
+Genotype=G|G	Individual=NA19181 (Male)	HGSV
+Genotype=G|G	Individual=NA19182 (Female)	HGSV
+Genotype=G|G	Individual=NA19224 (Male)	HGSV
+Genotype=G|G	Individual=NA19226 (Male)	HGSV
+Genotype=G|G	Individual=JA18943 (Male)	HGSV
+Genotype=G|G	Individual=JA18947 (Female)	HGSV
+Genotype=C|C	Individual=JA18945 (Male)	HGSV
+Genotype=C|G	Individual=JA18951 (Female)	HGSV
+Genotype=C|G	Individual=JA18944 (Male)	HGSV
+Genotype=C|C	Individual=CEPH1416.01 (Male)	HGSV
+Genotype=G|G	Individual=CEPH1420.01 (Male)	HGSV
+Genotype=C|C	Individual=CEPH1420.02 (Female)	HGSV
+Genotype=G|G	Individual=CEPH1334.01 (Male)	HGSV
+Genotype=C|G	Individual=NA10831 (Female)	HGSV
+Genotype=G|G	Individual=NA19451 (Male)	HGSV
+Genotype=G|G	Individual=NA19452 (Male)	HGSV
+Genotype=G|G	Individual=NA19455 (Male)	HGSV
+Genotype=G|G	Individual=NA19457 (Female)	HGSV
+Genotype=G|G	Individual=NA19466 (Male)	HGSV
+Genotype=G|G	Individual=NA19467 (Female)	HGSV
+Genotype=G|G	Individual=NA19469 (Female)	HGSV
+Genotype=G|G	Individual=NA19470 (Female)	HGSV
+Genotype=G|G	Individual=NA19472 (Female)	HGSV
+Genotype=C|G	Individual=NA19449 (Female)	HGSV
+Genotype=C|G	Individual=NA19456 (Female)	HGSV
+Genotype=C|G	Individual=NA19462 (Female)	HGSV
+Genotype=C|G	Individual=NA19463 (Female)	HGSV
+Genotype=C|G	Individual=NA19468 (Female)	HGSV
+Genotype=C|G	Individual=NA19471 (Female)	HGSV
+Genotype=C|G	Individual=NA19031 (Male)	HGSV
+Genotype=C|G	Individual=NA19038 (Female)	HGSV
+Genotype=C|G	Individual=NA19041 (Male)	HGSV
+Genotype=C|G	Individual=NA19044 (Male)	HGSV
+Genotype=C|G	Individual=NA19308 (Male)	HGSV
+Genotype=C|G	Individual=NA19309 (Male)	HGSV
+Genotype=G|G	Individual=NA19027 (Male)	HGSV
+Genotype=G|G	Individual=NA19028 (Male)	HGSV
+Genotype=G|G	Individual=NA19035 (Male)	HGSV
+Genotype=G|G	Individual=NA19036 (Female)	HGSV
+Genotype=C|C	Individual=NA19046 (Male)	HGSV
+Genotype=G|G	Individual=NA19307 (Male)	HGSV
+Genotype=G|G	Individual=NA19310 (Female)	HGSV
+Genotype=G|G	Individual=NA19088 (Male)	HGSV
+Genotype=C|C	Individual=NA20854 (Female)	HGSV
+Genotype=C|C	Individual=NA20856 (Female)	HGSV
+Genotype=C|C	Individual=NA20858 (Male)	HGSV
+Genotype=G|G	Individual=NA20862 (Female)	HGSV
+Genotype=G|G	Individual=NA20866 (Male)	HGSV
+Genotype=G|G	Individual=NA20873 (Male)	HGSV
+Genotype=C|C	Individual=NA20877 (Female)	HGSV
+Genotype=C|G	Individual=NA20859 (Female)	HGSV
+Genotype=C|G	Individual=NA20861 (Male)	HGSV
+Genotype=C|G	Individual=NA20869 (Female)	HGSV
+Genotype=C|G	Individual=NA20870 (Male)	HGSV
+Genotype=C|G	Individual=NA20871 (Male)	HGSV
+Genotype=C|G	Individual=NA20872 (Female)	HGSV
+Genotype=C|G	Individual=NA20874 (Female)	HGSV
+Genotype=C|G	Individual=NA20875 (Female)	HGSV
+Genotype=C|G	Individual=NA20876 (Female)	HGSV
+Genotype=C|G	Individual=CEPH1340.12 (Female)	HGSV
+Genotype=C|G	Individual=CEPH1345.13 (Female)	HGSV
+Genotype=C|G	Individual=CEPH1358.01 (Male)	HGSV
+Genotype=G|G	Individual=CEPH1341.12 (Female)	HGSV
+Genotype=C|C	Individual=CEPH1358.11 (Male)	HGSV
+Genotype=G|G	Individual=NA17997 (Male)	HGSV
+Genotype=G|G	Individual=NA18106 (Male)	HGSV
+Genotype=G|G	Individual=NA18107 (Female)	HGSV
+Genotype=C|C	Individual=NA18108 (Female)	HGSV
+Genotype=C|C	Individual=NA18112 (Female)	HGSV
+Genotype=G|G	Individual=NA18120 (Male)	HGSV
+Genotype=C|G	Individual=NA17998 (Female)	HGSV
+Genotype=C|G	Individual=NA17999 (Male)	HGSV
+Genotype=C|G	Individual=NA18101 (Female)	HGSV
+Genotype=C|G	Individual=NA18102 (Male)	HGSV
+Genotype=C|G	Individual=NA18105 (Female)	HGSV
+Genotype=C|G	Individual=NA18109 (Female)	HGSV
+Genotype=C|G	Individual=NA18114 (Male)	HGSV
+Genotype=C|G	Individual=NA18117 (Male)	HGSV
+Genotype=C|G	Individual=NA18118 (Female)	HGSV
+Genotype=C|G	Individual=NA18122 (Male)	HGSV
+Genotype=C|G	Individual=NA18124 (Male)	HGSV
+Genotype=G|G	Individual=YOR017.01 (Male)	HGSV
+Genotype=C|G	Individual=YOR017.02 (Female)	HGSV
+Genotype=C|G	Individual=YOR017.03 (Male)	HGSV
+Genotype=C|G	Individual=YOR018.01 (Male)	HGSV
+Genotype=G|G	Individual=NA19225 (Female)	HGSV
+Genotype=G|G	Individual=NA19123 (Male)	HGSV
+Genotype=G|G	Individual=NA19121 (Male)	HGSV
+Genotype=G|G	Individual=NA19122 (Female)	HGSV
+Genotype=G|G	Individual=NA19151 (Female)	HGSV
+Genotype=G|G	Individual=NA19150 (Male)	HGSV
+Genotype=G|G	Individual=NA19431 (Female)	HGSV
+Genotype=G|G	Individual=NA19434 (Female)	HGSV
+Genotype=G|G	Individual=NA19435 (Female)	HGSV
+Genotype=G|G	Individual=NA19437 (Female)	HGSV
+Genotype=G|G	Individual=NA19439 (Female)	HGSV
+Genotype=G|G	Individual=NA19440 (Female)	HGSV
+Genotype=G|G	Individual=NA19443 (Male)	HGSV
+Genotype=G|G	Individual=NA19444 (Male)	HGSV
+Genotype=G|G	Individual=NA19446 (Female)	HGSV
+Genotype=C|G	Individual=NA19429 (Male)	HGSV
+Genotype=C|G	Individual=NA19430 (Male)	HGSV
+Genotype=C|G	Individual=NA19436 (Female)	HGSV
+Genotype=C|G	Individual=NA19438 (Female)	HGSV
+Genotype=C|G	Individual=NA19445 (Female)	HGSV
+Genotype=C|G	Individual=NA19448 (Male)	HGSV
+Genotype=G|G	Individual=NA19665 (Female)	HGSV
+Genotype=C|C	Individual=NA19716 (Female)	HGSV
+Genotype=G|G	Individual=NA19720 (Male)	HGSV
+Genotype=C|G	Individual=NA19681 (Female)	HGSV
+Genotype=C|G	Individual=NA19686 (Female)	HGSV
+Genotype=C|G	Individual=NA19685 (Male)	HGSV
+Genotype=C|G	Individual=NA19684 (Female)	HGSV
+Genotype=C|G	Individual=NA19664 (Male)	HGSV
+Genotype=C|G	Individual=NA19663 (Female)	HGSV
+Genotype=C|G	Individual=NA19718 (Female)	HGSV
+Genotype=C|G	Individual=NA19721 (Female)	HGSV
+Genotype=C|G	Individual=NA19719 (Female)	HGSV
+Genotype=C|G	Individual=NA19724 (Male)	HGSV
+Genotype=C|G	Individual=NA19723 (Male)	HGSV
+Genotype=C|G	Individual=NA19722 (Female)	HGSV
+Genotype=C|G	Individual=NA19727 (Male)	HGSV
+Genotype=G|G	Individual=YOR071.02 (Female)	HGSV
+Genotype=G|G	Individual=YOR071.03 (Male)	HGSV
+Genotype=G|G	Individual=YOR072.01 (Male)	HGSV
+Genotype=G|G	Individual=YOR072.02 (Female)	HGSV
+Genotype=G|G	Individual=YOR072.03 (Male)	HGSV
+Genotype=C|G	Individual=CEPH1349.11 (Male)	HGSV
+Genotype=C|G	Individual=NA12489 (Female)	HGSV
+Genotype=C|G	Individual=NA12383 (Female)	HGSV
+Genotype=G|G	Individual=NA12375 (Male)	HGSV
+Genotype=G|G	Individual=NA12546 (Male)	HGSV
+Genotype=G|G	Individual=NA12376 (Female)	HGSV
+Genotype=G|G	Individual=CH18605 (Male)	HGSV
+Genotype=G|G	Individual=CH18542 (Female)	HGSV
+Genotype=C|G	Individual=CH18537 (Female)	HGSV
+Genotype=C|G	Individual=CH18603 (Male)	HGSV
+Genotype=G|G	Individual=NA20332 (Female)	HGSV
+Genotype=G|G	Individual=NA20335 (Male)	HGSV
+Genotype=G|G	Individual=NA20334 (Female)	HGSV
+Genotype=G|G	Individual=NA20337 (Female)	HGSV
+Genotype=G|G	Individual=NA20336 (Female)	HGSV
+Genotype=G|G	Individual=NA20341 (Female)	HGSV
+Genotype=G|G	Individual=NA20343 (Male)	HGSV
+Genotype=G|G	Individual=NA20342 (Male)	HGSV
+Genotype=G|G	Individual=NA20346 (Male)	HGSV
+Genotype=C|G	Individual=NA20340 (Male)	HGSV
+Genotype=C|G	Individual=NA20345 (Male)	HGSV
+Genotype=C|G	Individual=NA20344 (Female)	HGSV
+Genotype=C|G	Individual=NA20347 (Male)	HGSV
+Genotype=C|G	Individual=NA20348 (Male)	HGSV
+Genotype=C|G	Individual=NA20350 (Male)	HGSV
+Genotype=C|G	Individual=NA18618 (Female)	HGSV
+Genotype=C|G	Individual=NA18627 (Female)	HGSV
+Genotype=C|C	Individual=NA18617 (Female)	HGSV
+Genotype=G|G	Individual=NA18619 (Female)	HGSV
+Genotype=G|G	Individual=NA18626 (Female)	HGSV
+Genotype=C|C	Individual=NA18628 (Female)	HGSV
+Genotype=C|G	Individual=CEPH1354.15 (Male)	HGSV
+Genotype=C|G	Individual=CEPH1354.16 (Female)	HGSV
+Genotype=C|G	Individual=CEPH1358.02 (Female)	HGSV
+Genotype=C|C	Individual=CEPH1354.02 (Female)	HGSV
+Genotype=C|C	Individual=CEPH1355.15 (Male)	HGSV
+Genotype=G|G	Individual=CEPH1358.14 (Female)	HGSV
+Genotype=C|G	Individual=NA20785 (Male)	HGSV
+Genotype=C|G	Individual=NA20786 (Female)	HGSV
+Genotype=C|G	Individual=NA20790 (Female)	HGSV
+Genotype=C|G	Individual=NA20792 (Male)	HGSV
+Genotype=C|G	Individual=NA20795 (Female)	HGSV
+Genotype=C|G	Individual=NA20797 (Female)	HGSV
+Genotype=C|G	Individual=NA20799 (Female)	HGSV
+Genotype=C|G	Individual=NA20800 (Female)	HGSV
+Genotype=C|G	Individual=NA20802 (Female)	HGSV
+Genotype=C|G	Individual=NA20803 (Male)	HGSV
+Genotype=C|G	Individual=NA20804 (Female)	HGSV
+Genotype=C|G	Individual=NA20806 (Male)	HGSV
+Genotype=C|C	Individual=NA20787 (Male)	HGSV
+Genotype=C|C	Individual=NA20796 (Male)	HGSV
+Genotype=G|G	Individual=NA20801 (Male)	HGSV
+Genotype=G|G	Individual=NA20805 (Male)	HGSV
+Genotype=C|G	Individual=NA19247 (Female)	HGSV
+Genotype=C|G	Individual=NA18559 (Male)	HGSV
+Genotype=C|G	Individual=NA18596 (Female)	HGSV
+Genotype=C|G	Individual=NA18599 (Female)	HGSV
+Genotype=G|G	Individual=NA18557 (Male)	HGSV
+Genotype=C|C	Individual=NA18595 (Female)	HGSV
+Genotype=C|C	Individual=NA18597 (Female)	HGSV
+Genotype=C|G	Individual=NA21448 (Male)	HGSV
+Genotype=C|G	Individual=NA21457 (Female)	HGSV
+Genotype=C|G	Individual=NA21519 (Male)	HGSV
+Genotype=C|G	Individual=NA21473 (Female)	HGSV
+Genotype=C|G	Individual=NA21582 (Male)	HGSV
+Genotype=C|G	Individual=NA21521 (Male)	HGSV
+Genotype=G|G	Individual=NA21434 (Female)	HGSV
+Genotype=G|G	Individual=NA21435 (Male)	HGSV
+Genotype=G|G	Individual=NA21436 (Female)	HGSV
+Genotype=G|G	Individual=NA21451 (Female)	HGSV
+Genotype=G|G	Individual=NA21491 (Female)	HGSV
+Genotype=G|G	Individual=NA21520 (Male)	HGSV
+Genotype=G|G	Individual=NA21528 (Male)	HGSV
+Genotype=C|C	Individual=NA21529 (Female)	HGSV
+Genotype=G|G	Individual=NA21509 (Male)	HGSV
+Genotype=G|G	Individual=YOR056.01 (Male)	HGSV
+Genotype=G|G	Individual=YOR056.02 (Female)	HGSV
+Genotype=G|G	Individual=YOR056.03 (Male)	HGSV
+Genotype=G|G	Individual=YOR058.01 (Female)	HGSV
+Genotype=G|G	Individual=YOR058.02 (Female)	HGSV
+Genotype=C|G	Individual=NA21636 (Female)	HGSV
+Genotype=C|G	Individual=NA21634 (Male)	HGSV
+Genotype=C|G	Individual=NA21718 (Male)	HGSV
+Genotype=C|G	Individual=NA21717 (Female)	HGSV
+Genotype=G|G	Individual=NA21601 (Female)	HGSV
+Genotype=G|G	Individual=NA21599 (Male)	HGSV
+Genotype=G|G	Individual=NA21600 (Female)	HGSV
+Genotype=G|G	Individual=NA21608 (Male)	HGSV
+Genotype=G|G	Individual=NA21614 (Male)	HGSV
+Genotype=G|G	Individual=NA21615 (Female)	HGSV
+Genotype=G|G	Individual=NA21635 (Female)	HGSV
+Genotype=G|G	Individual=NA21648 (Male)	HGSV
+Genotype=G|G	Individual=NA21647 (Male)	HGSV
+Genotype=G|G	Individual=NA21686 (Female)	HGSV
+Genotype=G|G	Individual=NA21716 (Male)	HGSV
+Genotype=C|C	Individual=NA19347 (Male)	HGSV
+Genotype=G|G	Individual=NA19371 (Male)	HGSV
+Genotype=G|G	Individual=NA19372 (Male)	HGSV
+Genotype=G|G	Individual=NA19373 (Male)	HGSV
+Genotype=G|G	Individual=NA19374 (Male)	HGSV
+Genotype=G|G	Individual=NA19375 (Male)	HGSV
+Genotype=G|G	Individual=NA19376 (Male)	HGSV
+Genotype=G|G	Individual=NA19377 (Female)	HGSV
+Genotype=G|G	Individual=NA19379 (Female)	HGSV
+Genotype=G|G	Individual=NA19380 (Male)	HGSV
+Genotype=G|G	Individual=NA19381 (Female)	HGSV
+Genotype=C|G	Individual=NA19350 (Male)	HGSV
+Genotype=C|G	Individual=NA19352 (Male)	HGSV
+Genotype=C|G	Individual=NA19359 (Male)	HGSV
+Genotype=C|G	Individual=NA19360 (Male)	HGSV
+Genotype=G|G	Individual=NA17975 (Male)	HGSV
+Genotype=C|C	Individual=NA17976 (Male)	HGSV
+Genotype=G|G	Individual=NA17979 (Male)	HGSV
+Genotype=C|C	Individual=NA17980 (Male)	HGSV
+Genotype=C|C	Individual=NA17982 (Female)	HGSV
+Genotype=C|C	Individual=NA17983 (Male)	HGSV
+Genotype=G|G	Individual=NA17987 (Female)	HGSV
+Genotype=G|G	Individual=NA17988 (Female)	HGSV
+Genotype=G|G	Individual=NA17989 (Male)	HGSV
+Genotype=C|C	Individual=NA17993 (Female)	HGSV
+Genotype=G|G	Individual=NA17995 (Female)	HGSV
+Genotype=C|G	Individual=NA17974 (Male)	HGSV
+Genotype=C|G	Individual=NA17977 (Female)	HGSV
+Genotype=C|G	Individual=NA17981 (Female)	HGSV
+Genotype=C|G	Individual=NA17986 (Male)	HGSV
+Genotype=C|G	Individual=NA17990 (Female)	HGSV
+Genotype=C|G	Individual=NA17996 (Female)	HGSV
+Genotype=G|G	Individual=NA19190 (Female)	HGSV
+Genotype=G|G	Individual=NA19237 (Female)	HGSV
+Genotype=C|G	Individual=NA19236 (Male)	HGSV
+Genotype=G|G	Individual=NA19235 (Female)	HGSV
+Genotype=G|G	Individual=NA19249 (Male)	HGSV
+Genotype=G|G	Individual=NA19248 (Male)	HGSV
+Genotype=G|G	Individual=YOR018.02 (Female)	HGSV
+Genotype=G|G	Individual=YOR023.01 (Male)	HGSV
+Genotype=G|G	Individual=YOR023.02 (Female)	HGSV
+Genotype=C|G	Individual=YOR018.03 (Male)	HGSV
+Genotype=G|G	Individual=YOR058.03 (Male)	HGSV
+Genotype=C|C	Individual=YOR060.01 (Male)	HGSV
+Genotype=G|G	Individual=YOR071.01 (Male)	HGSV
+Genotype=C|G	Individual=YOR060.02 (Female)	HGSV
+Genotype=C|G	Individual=YOR060.03 (Male)	HGSV
+Genotype=C|G	Individual=NA19146 (Male)	HGSV
+Genotype=C|G	Individual=NA19147 (Female)	HGSV
+Genotype=G|G	Individual=NA19149 (Female)	HGSV
+Genotype=G|G	Individual=NA19148 (Female)	HGSV
+Genotype=G|G	Individual=NA19115 (Female)	HGSV
+Genotype=G|G	Individual=NA19113 (Male)	HGSV
+Genotype=G|G	Individual=NA19382 (Male)	HGSV
+Genotype=G|G	Individual=NA19390 (Female)	HGSV
+Genotype=G|G	Individual=NA19391 (Female)	HGSV
+Genotype=C|C	Individual=NA19393 (Male)	HGSV
+Genotype=G|G	Individual=NA19394 (Male)	HGSV
+Genotype=G|G	Individual=NA19396 (Female)	HGSV
+Genotype=G|G	Individual=NA19397 (Male)	HGSV
+Genotype=G|G	Individual=NA19399 (Female)	HGSV
+Genotype=C|C	Individual=NA19403 (Female)	HGSV
+Genotype=C|G	Individual=NA19383 (Male)	HGSV
+Genotype=C|G	Individual=NA19384 (Male)	HGSV
+Genotype=C|G	Individual=NA19385 (Male)	HGSV
+Genotype=C|G	Individual=NA19398 (Female)	HGSV
+Genotype=C|G	Individual=NA19404 (Female)	HGSV
+Genotype=C|G	Individual=NA19428 (Male)	HGSV
+Genotype=C|G	Individual=NA21388 (Female)	HGSV
+Genotype=C|G	Individual=NA21424 (Female)	HGSV
+Genotype=G|G	Individual=NA21390 (Male)	HGSV
+Genotype=G|G	Individual=NA21391 (Female)	HGSV
+Genotype=G|G	Individual=NA21401 (Male)	HGSV
+Genotype=G|G	Individual=NA21399 (Male)	HGSV
+Genotype=G|G	Individual=NA21400 (Female)	HGSV
+Genotype=G|G	Individual=NA21404 (Female)	HGSV
+Genotype=G|G	Individual=NA21402 (Male)	HGSV
+Genotype=G|G	Individual=NA21403 (Female)	HGSV
+Genotype=G|G	Individual=NA21425 (Female)	HGSV
+Genotype=G|G	Individual=NA21423 (Male)	HGSV
+Genotype=G|G	Individual=NA21439 (Male)	HGSV
+Genotype=G|G	Individual=NA21447 (Male)	HGSV
+Genotype=G|G	Individual=NA21438 (Female)	HGSV
+Genotype=C|G	Individual=CEPH1341.02 (Female)	HGSV
+Genotype=C|G	Individual=CEPH1340.09 (Male)	HGSV
+Genotype=G|G	Individual=CEPH1341.14 (Female)	HGSV
+Genotype=C|C	Individual=CEPH1341.13 (Male)	HGSV
+Genotype=G|G	Individual=CEPH1340.10 (Female)	HGSV
+Genotype=G|G	Individual=YOR042.02 (Female)	HGSV
+Genotype=C|G	Individual=YOR042.03 (Male)	HGSV
+Genotype=G|G	Individual=YOR043.01 (Male)	HGSV
+Genotype=G|G	Individual=YOR043.02 (Female)	HGSV
+Genotype=G|G	Individual=YOR043.03 (Male)	HGSV
+Genotype=C|G	Individual=NA18630 (Female)	HGSV
+Genotype=C|G	Individual=NA18631 (Female)	HGSV
+Genotype=C|G	Individual=NA18639 (Male)	HGSV
+Genotype=C|G	Individual=NA18640 (Female)	HGSV
+Genotype=G|G	Individual=NA18634 (Female)	HGSV
+Genotype=C|C	Individual=NA18638 (Male)	HGSV
+Genotype=C|C	Individual=CEPH1454.01 (Male)	HGSV
+Genotype=C|C	Individual=CEPH1454.12 (Male)	HGSV
+Genotype=C|G	Individual=CEPH1454.02 (Female)	HGSV
+Genotype=C|G	Individual=CEPH1454.13 (Female)	HGSV
+Genotype=C|G	Individual=CEPH1454.14 (Male)	HGSV
+Genotype=C|C	Individual=NA19010 (Female)	HGSV
+Genotype=C|C	Individual=NA19054 (Female)	HGSV
+Genotype=C|C	Individual=NA19055 (Male)	HGSV
+Genotype=C|C	Individual=NA19056 (Male)	HGSV
+Genotype=G|G	Individual=NA19057 (Female)	HGSV
+Genotype=G|G	Individual=NA19058 (Male)	HGSV
+Genotype=C|C	Individual=CEPH1456.02 (Female)	HGSV
+Genotype=C|G	Individual=CEPH1456.11 (Male)	HGSV
+Genotype=C|G	Individual=CEPH1456.12 (Female)	HGSV
+Genotype=C|G	Individual=CEPH1458.12 (Male)	HGSV
+Genotype=C|G	Individual=CEPH1458.13 (Female)	HGSV
+Genotype=C|G	Individual=CEPH1458.02 (Female)	HGSV
+Genotype=C|G	Individual=CEPH1350.01 (Male)	HGSV
+Genotype=G|G	Individual=CEPH1334.02 (Female)	HGSV
+Genotype=C|C	Individual=NA10854 (Female)	HGSV
+Genotype=C|C	Individual=CEPH1350.02 (Female)	HGSV
+Genotype=C|G	Individual=NA18519 (Male)	HGSV
+Genotype=C|G	Individual=NA18875 (Female)	HGSV
+Genotype=C|G	Individual=NA18873 (Female)	HGSV
+Genotype=G|G	Individual=NA18520 (Female)	HGSV
+Genotype=G|G	Individual=NA18874 (Male)	HGSV
+Genotype=G|G	Individual=NA18911 (Male)	HGSV
+Genotype=G|G	Individual=CEPH1346.12 (Female)	HGSV
+Genotype=G|G	Individual=CEPH1344.13 (Female)	HGSV
+Genotype=C|G	Individual=615_CL6 (Female)	HGSV
+Genotype=C|G	Individual=CEPH1346.11 (Male)	HGSV
+Genotype=C|G	Individual=CEPH1344.12 (Male)	HGSV
+Genotype=G|G	Individual=CH18593 (Female)	HGSV
+Genotype=C|C	Individual=CH18637 (Male)	HGSV
+Genotype=G|G	Individual=JA18940 (Male)	HGSV
+Genotype=C|G	Individual=CH18636 (Male)	HGSV
+Genotype=C|G	Individual=JA18942 (Female)	HGSV
+Genotype=C|G	Individual=NA19215 (Female)	HGSV
+Genotype=C|G	Individual=NA19214 (Female)	HGSV
+Genotype=G|G	Individual=NA19118 (Female)	HGSV
+Genotype=G|G	Individual=NA19213 (Male)	HGSV
+Genotype=G|G	Individual=NA19191 (Male)	HGSV
+Genotype=G|G	Individual=NA19189 (Male)	HGSV
+Genotype=C|G	Individual=YOR004.01 (Male)	HGSV
+Genotype=G|G	Individual=NA21295 (Male)	HGSV
+Genotype=C|G	Individual=NA21333 (Female)	HGSV
+Genotype=G|G	Individual=NA21297 (Female)	HGSV
+Genotype=C|G	Individual=NA21300 (Female)	HGSV
+Genotype=G|G	Individual=NA21314 (Male)	HGSV
+Genotype=G|G	Individual=NA21364 (Female)	HGSV
+Genotype=G|G	Individual=NA21318 (Male)	HGSV
+Genotype=C|G	Individual=NA21685 (Male)	HGSV
+Genotype=C|G	Individual=NA21320 (Female)	HGSV
+Genotype=G|G	Individual=NA21336 (Female)	HGSV
+Genotype=G|G	Individual=NA21339 (Female)	HGSV
+Genotype=C|G	Individual=NA21352 (Male)	HGSV
+Genotype=C|G	Individual=NA21353 (Female)	HGSV
+Genotype=C|C	Individual=NA21355 (Male)	HGSV
+Genotype=C|G	Individual=NA21356 (Male)	HGSV
+Genotype=C|G	Individual=NA19075 (Male)	HGSV
+Genotype=C|G	Individual=NA19076 (Male)	HGSV
+Genotype=C|C	Individual=NA19077 (Female)	HGSV
+Genotype=G|G	Individual=NA19078 (Female)	HGSV
+Genotype=C|C	Individual=NA19079 (Male)	HGSV
+Genotype=G|G	Individual=NA19080 (Female)	HGSV
+Genotype=G|G	Individual=YOR024.01 (Male)	HGSV
+Genotype=G|G	Individual=YOR024.02 (Female)	HGSV
+Genotype=G|G	Individual=YOR024.03 (Male)	HGSV
+Genotype=G|G	Individual=YOR028.01 (Male)	HGSV
+Genotype=G|G	Individual=YOR028.02 (Female)	HGSV
+Genotype=G|G	Individual=YOR077.03 (Male)	HGSV
+Genotype=G|G	Individual=YOR101.01 (Female)	HGSV
+Genotype=G|G	Individual=YOR101.02 (Female)	HGSV
+Genotype=G|G	Individual=YOR101.03 (Male)	HGSV
+Genotype=G|G	Individual=YOR074.03 (Male)	HGSV
+Genotype=C|G	Individual=YOR074.02 (Female)	HGSV
+Genotype=C|G	Individual=YOR077.01 (Female)	HGSV
+Genotype=C|G	Individual=YOR077.02 (Female)	HGSV
+Genotype=C|G	Individual=CEPH1444.02 (Female)	HGSV
+Genotype=C|C	Individual=CEPH1463.16 (Female)	HGSV
+Genotype=C|G	Individual=CEPH1459.11 (Male)	HGSV
+Genotype=C|G	Individual=CEPH1463.02 (Female)	HGSV
+Genotype=C|G	Individual=CEPH1463.15 (Male)	HGSV
+Genotype=G|G	Individual=CEPH1459.12 (Female)	HGSV
+Genotype=C|G	Individual=YOR009.02 (Female)	HGSV
+Genotype=C|G	Individual=YOR012.02 (Female)	HGSV
+Genotype=G|G	Individual=YOR009.03 (Male)	HGSV
+Genotype=G|G	Individual=YOR012.01 (Male)	HGSV
+Genotype=G|G	Individual=YOR012.03 (Male)	HGSV
+Genotype=C|G	Individual=NA18868 (Male)	HGSV
+Genotype=G|G	Individual=NA18867 (Female)	HGSV
+Genotype=C|C	Individual=NA18509 (Male)	HGSV
+Genotype=C|G	Individual=NA18511 (Female)	HGSV
+Genotype=G|G	Individual=NA18510 (Male)	HGSV
+Genotype=C|G	Individual=NA18518 (Female)	HGSV
+Genotype=C|G	Individual=YOR009.01 (Male)	HGSV
+Genotype=G|G	Individual=YOR004.03 (Male)	HGSV
+Genotype=G|G	Individual=YOR005.01 (Male)	HGSV
+Genotype=G|G	Individual=YOR005.02 (Female)	HGSV
+Genotype=G|G	Individual=YOR005.03 (Male)	HGSV
+Genotype=G|G	Individual=YOR045.01 (Female)	HGSV
+Genotype=G|G	Individual=YOR045.02 (Female)	HGSV
+Genotype=G|G	Individual=YOR045.03 (Male)	HGSV
+Genotype=C|G	Individual=YOR047.01 (Male)	HGSV
+Genotype=G|G	Individual=YOR047.02 (Female)	HGSV
+Genotype=C|C	Individual=NA18136 (Male)	HGSV
+Genotype=C|C	Individual=NA18139 (Female)	HGSV
+Genotype=C|C	Individual=NA18140 (Female)	HGSV
+Genotype=C|C	Individual=NA18143 (Male)	HGSV
+Genotype=C|C	Individual=NA18144 (Female)	HGSV
+Genotype=C|G	Individual=NA18125 (Male)	HGSV
+Genotype=C|G	Individual=NA18127 (Male)	HGSV
+Genotype=C|G	Individual=NA18128 (Female)	HGSV
+Genotype=C|G	Individual=NA18129 (Female)	HGSV
+Genotype=C|G	Individual=NA18132 (Male)	HGSV
+Genotype=C|G	Individual=NA18134 (Female)	HGSV
+Genotype=C|G	Individual=NA18135 (Female)	HGSV
+Genotype=C|G	Individual=NA18146 (Female)	HGSV
+Genotype=G|G	Individual=NA18131 (Female)	HGSV
+Genotype=G|G	Individual=NA18133 (Male)	HGSV
+Genotype=G|G	Individual=NA18138 (Male)	HGSV
+Genotype=G|G	Individual=NA18141 (Male)	HGSV
+Genotype=G|G	Individual=NA21490 (Male)	HGSV
+Genotype=G|G	Individual=NA21488 (Male)	HGSV
+Genotype=C|G	Individual=NA21489 (Female)	HGSV
+Genotype=G|G	Individual=NA21494 (Female)	HGSV
+Genotype=G|G	Individual=NA21522 (Male)	HGSV
+Genotype=C|G	Individual=NA21493 (Female)	HGSV
+Genotype=C|C	Individual=NA21525 (Male)	HGSV
+Genotype=C|G	Individual=NA21523 (Male)	HGSV
+Genotype=C|G	Individual=NA21524 (Female)	HGSV
+Genotype=C|G	Individual=NA21527 (Male)	HGSV
+Genotype=C|G	Individual=NA21583 (Male)	HGSV
+Genotype=G|G	Individual=NA21526 (Female)	HGSV
+Genotype=C|G	Individual=NA21514 (Male)	HGSV
+Genotype=G|G	Individual=NA21512 (Male)	HGSV
+Genotype=C|G	Individual=NA21513 (Female)	HGSV
+Genotype=C|G	Individual=NA18946 (Female)	HGSV
+Genotype=C|G	Individual=NA18954 (Female)	HGSV
+Genotype=C|G	Individual=NA18955 (Male)	HGSV
+Genotype=C|G	Individual=NA18957 (Female)	HGSV
+Genotype=C|C	Individual=NA18962 (Male)	HGSV
+Genotype=C|C	Individual=NA18963 (Female)	HGSV
+Genotype=C|C	Individual=CEPH1362.16 (Female)	HGSV
+Genotype=G|G	Individual=CEPH1420.09 (Male)	HGSV
+Genotype=C|G	Individual=CEPH1362.15 (Male)	HGSV
+Genotype=C|G	Individual=CEPH1420.11 (Male)	HGSV
+Genotype=G|G	Individual=NA18977 (Male)	HGSV
+Genotype=G|G	Individual=NA18979 (Female)	HGSV
+Genotype=C|G	Individual=NA18993 (Female)	HGSV
+Genotype=C|G	Individual=NA19001 (Female)	HGSV
+Genotype=C|G	Individual=NA19002 (Female)	HGSV
+Genotype=G|G	Individual=NA19009 (Male)	HGSV
+Genotype=G|G	Individual=NA19184 (Male)	HGSV
+Genotype=G|G	Individual=NA19185 (Female)	HGSV
+Genotype=C|G	Individual=NA19097 (Female)	HGSV
+Genotype=G|G	Individual=NA19096 (Male)	HGSV
+Genotype=C|G	Individual=NA19095 (Female)	HGSV
+Genotype=C|C	Individual=NA19175 (Male)	HGSV
+Genotype=C|G	Individual=NA19726 (Male)	HGSV
+Genotype=C|C	Individual=NA19725 (Female)	HGSV
+Genotype=C|G	Individual=NA19748 (Female)	HGSV
+Genotype=C|C	Individual=NA19747 (Male)	HGSV
+Genotype=G|G	Individual=NA19746 (Female)	HGSV
+Genotype=C|C	Individual=NA19751 (Male)	HGSV
+Genotype=C|C	Individual=NA19750 (Male)	HGSV
+Genotype=C|C	Individual=NA19749 (Female)	HGSV
+Genotype=C|G	Individual=NA19757 (Male)	HGSV
+Genotype=C|C	Individual=NA19756 (Male)	HGSV
+Genotype=C|G	Individual=NA19755 (Female)	HGSV
+Genotype=C|C	Individual=NA19760 (Female)	HGSV
+Genotype=C|G	Individual=NA19759 (Male)	HGSV
+Genotype=C|C	Individual=NA19763 (Female)	HGSV
+Genotype=C|C	Individual=NA19762 (Male)	HGSV
+Genotype=C|C	Individual=NA19761 (Female)	HGSV
+Genotype=G|G	Individual=YOR013.02 (Female)	HGSV
+Genotype=C|G	Individual=YOR013.01 (Male)	HGSV
+Genotype=C|G	Individual=YOR013.03 (Male)	HGSV
+Genotype=G|G	Individual=CEPH1444.13 (Male)	HGSV
+Genotype=C|C	Individual=615_CL8 (Female)	HGSV
+Genotype=C|G	Individual=CEPH1416.12 (Female)	HGSV
+Genotype=C|G	Individual=CEPH1375.11 (Male)	HGSV
+Genotype=C|G	Individual=CEPH1447.01 (Male)	HGSV
+Genotype=C|G	Individual=CEPH1377.01 (Male)	HGSV
+Genotype=G|G	Individual=CEPH1377.12 (Male)	HGSV
+Genotype=G|G	Individual=CEPH1377.13 (Female)	HGSV
+Genotype=G|G	Individual=CEPH1377.02 (Female)	HGSV
+Genotype=C|C	Individual=CEPH1377.10 (Male)	HGSV
+Genotype=G|G	Individual=CEPH1377.11 (Female)	HGSV
+Genotype=C|G	Individual=NA12739 (Male)	HGSV
+Genotype=G|G	Individual=CEPH1444.11 (Male)	HGSV
+Genotype=C|C	Individual=615_CL7 (Female)	HGSV
+Genotype=G|G	Individual=CEPH1451.01 (Male)	HGSV
+Genotype=C|G	Individual=CEPH1451.13 (Male)	HGSV
+Genotype=G|G	Individual=CEPH1451.14 (Female)	HGSV
+Genotype=G|G	Individual=CEPH1340.01 (Male)	HGSV
+Genotype=C|G	Individual=CEPH1340.11 (Male)	HGSV
+Genotype=C|G	Individual=CEPH1418.12 (Female)	HGSV
+Genotype=C|G	Individual=CEPH1421.13 (Male)	HGSV
+Genotype=G|G	Individual=CEPH1418.01 (Male)	HGSV
+Genotype=G|G	Individual=CEPH1418.14 (Female)	HGSV
+Genotype=G|G	Individual=CEPH1418.02 (Female)	HGSV
+Genotype=G|G	Individual=CEPH1418.11 (Male)	HGSV
+Genotype=C|G	Individual=NA21091 (Male)	HGSV
+Genotype=C|G	Individual=NA21094 (Male)	HGSV
+Genotype=C|G	Individual=NA21097 (Female)	HGSV
+Genotype=C|G	Individual=NA21099 (Male)	HGSV
+Genotype=C|G	Individual=NA21101 (Female)	HGSV
+Genotype=C|G	Individual=NA21105 (Male)	HGSV
+Genotype=C|G	Individual=NA21107 (Male)	HGSV
+Genotype=C|G	Individual=NA21108 (Female)	HGSV
+Genotype=G|G	Individual=NA21090 (Male)	HGSV
+Genotype=G|G	Individual=NA21092 (Male)	HGSV
+Genotype=G|G	Individual=NA21098 (Male)	HGSV
+Genotype=C|C	Individual=NA21100 (Male)	HGSV
+Genotype=G|G	Individual=NA21102 (Female)	HGSV
+Genotype=G|G	Individual=NA21103 (Female)	HGSV
+Genotype=G|G	Individual=NA21104 (Male)	HGSV
+Genotype=G|G	Individual=NA21106 (Female)	HGSV
+Genotype=C|G	Individual=NA18930 (Female)	HGSV
+Genotype=C|G	Individual=NA18917 (Male)	HGSV
+Genotype=C|G	Individual=NA18925 (Male)	HGSV
+Genotype=G|G	Individual=NA18910 (Male)	HGSV
+Genotype=G|G	Individual=NA18909 (Female)	HGSV
+Genotype=G|G	Individual=NA18916 (Female)	HGSV
+Genotype=G|G	Individual=YOR112.01 (Male)	HGSV
+Genotype=G|G	Individual=YOR112.02 (Female)	HGSV
+Genotype=G|G	Individual=YOR112.03 (Male)	HGSV
+Genotype=C|G	Individual=YOR105.02 (Female)	HGSV
+Genotype=C|G	Individual=YOR105.03 (Male)	HGSV
+Genotype=G|G	Individual=JA18987 (Female)	HGSV
+Genotype=C|G	Individual=JA18990 (Male)	HGSV
+Genotype=C|C	Individual=JA18991 (Female)	HGSV
+Genotype=C|C	Individual=JA18994 (Male)	HGSV
+Genotype=G|G	Individual=NA20881 (Female)	HGSV
+Genotype=G|G	Individual=NA20885 (Male)	HGSV
+Genotype=C|C	Individual=NA20887 (Male)	HGSV
+Genotype=C|C	Individual=NA20888 (Female)	HGSV
+Genotype=C|C	Individual=NA20891 (Male)	HGSV
+Genotype=G|G	Individual=NA20892 (Female)	HGSV
+Genotype=C|G	Individual=NA20879 (Female)	HGSV
+Genotype=C|G	Individual=NA20882 (Female)	HGSV
+Genotype=C|G	Individual=NA20883 (Male)	HGSV
+Genotype=C|G	Individual=NA20884 (Male)	HGSV
+Genotype=C|G	Individual=NA20889 (Male)	HGSV
+Genotype=C|G	Individual=NA20890 (Male)	HGSV
+Genotype=C|G	Individual=NA20894 (Female)	HGSV
+Genotype=C|G	Individual=NA20895 (Male)	HGSV
+Genotype=C|G	Individual=NA20896 (Female)	HGSV
+Genotype=C|G	Individual=NA20897 (Male)	HGSV
+Genotype=C|C	Individual=NA20322 (Female)	HGSV
+Genotype=C|G	Individual=NA20287 (Female)	HGSV
+Genotype=C|G	Individual=NA20292 (Female)	HGSV
+Genotype=C|G	Individual=NA20291 (Male)	HGSV
+Genotype=C|G	Individual=NA20294 (Female)	HGSV
+Genotype=C|G	Individual=NA20297 (Male)	HGSV
+Genotype=C|G	Individual=NA20302 (Male)	HGSV
+Genotype=C|G	Individual=NA20301 (Female)	HGSV
+Genotype=C|G	Individual=NA20319 (Female)	HGSV
+Genotype=C|G	Individual=NA20317 (Female)	HGSV
+Genotype=G|G	Individual=NA20290 (Female)	HGSV
+Genotype=G|G	Individual=NA20289 (Female)	HGSV
+Genotype=G|G	Individual=NA20295 (Male)	HGSV
+Genotype=G|G	Individual=NA20300 (Female)	HGSV
+Genotype=G|G	Individual=NA20333 (Female)	HGSV
+Genotype=G|G	Individual=NA19311 (Male)	HGSV
+Genotype=G|G	Individual=NA19313 (Female)	HGSV
+Genotype=G|G	Individual=NA19314 (Female)	HGSV
+Genotype=G|G	Individual=NA19315 (Female)	HGSV
+Genotype=G|G	Individual=NA19316 (Female)	HGSV
+Genotype=G|G	Individual=NA19317 (Male)	HGSV
+Genotype=G|G	Individual=NA19327 (Female)	HGSV
+Genotype=G|G	Individual=NA19328 (Female)	HGSV
+Genotype=G|G	Individual=NA19346 (Male)	HGSV
+Genotype=C|G	Individual=NA19318 (Male)	HGSV
+Genotype=C|G	Individual=NA19319 (Male)	HGSV
+Genotype=C|G	Individual=NA19321 (Female)	HGSV
+Genotype=C|G	Individual=NA19324 (Female)	HGSV
+Genotype=C|G	Individual=NA19332 (Female)	HGSV
+Genotype=C|G	Individual=NA19334 (Male)	HGSV
+Genotype=C|G	Individual=NA20522 (Female)	HGSV
+Genotype=C|G	Individual=NA20524 (Male)	HGSV
+Genotype=C|G	Individual=NA20527 (Male)	HGSV
+Genotype=C|G	Individual=NA20528 (Male)	HGSV
+Genotype=C|G	Individual=NA20529 (Female)	HGSV
+Genotype=C|G	Individual=NA20530 (Female)	HGSV
+Genotype=C|G	Individual=NA20531 (Female)	HGSV
+Genotype=C|G	Individual=NA20535 (Female)	HGSV
+Genotype=C|G	Individual=NA20538 (Male)	HGSV
+Genotype=C|C	Individual=NA20519 (Male)	HGSV
+Genotype=C|C	Individual=NA20520 (Male)	HGSV
+Genotype=C|C	Individual=NA20525 (Male)	HGSV
+Genotype=C|C	Individual=NA20534 (Male)	HGSV
+Genotype=G|G	Individual=NA20518 (Male)	HGSV
+Genotype=G|G	Individual=NA20521 (Male)	HGSV
+Genotype=G|G	Individual=NA20539 (Male)	HGSV
+Genotype=G|G	Individual=CH18632 (Male)	HGSV
+Genotype=C|C	Individual=CH18582 (Female)	HGSV
+Genotype=C|C	Individual=CH18635 (Male)	HGSV
+Genotype=C|C	Individual=CH18592 (Female)	HGSV
+Genotype=C|G	Individual=CH18633 (Male)	HGSV
+Genotype=C|G	Individual=NA19256 (Male)	HGSV
+Genotype=C|G	Individual=NA19117 (Male)	HGSV
+Genotype=G|G	Individual=NA19114 (Female)	HGSV
+Genotype=G|G	Individual=NA19258 (Male)	HGSV
+Genotype=G|G	Individual=NA19257 (Female)	HGSV
+Genotype=G|G	Individual=NA19174 (Male)	HGSV
+Genotype=C|C	Individual=YOR047.03 (Male)	HGSV
+Genotype=C|G	Individual=YOR048.02 (Female)	HGSV
+Genotype=G|G	Individual=YOR048.03 (Male)	HGSV
+Genotype=G|G	Individual=YOR050.01 (Male)	HGSV
+Genotype=C|G	Individual=NA18534 (Male)	HGSV
+Genotype=C|G	Individual=NA18536 (Male)	HGSV
+Genotype=C|G	Individual=NA18544 (Male)	HGSV
+Genotype=C|G	Individual=NA18546 (Male)	HGSV
+Genotype=G|G	Individual=NA18543 (Male)	HGSV
+Genotype=G|G	Individual=NA18548 (Male)	HGSV
+Genotype=G|G	Individual=NA18670 (Female)	HGSV
+Genotype=C|C	Individual=NA18674 (Male)	HGSV
+Genotype=G|G	Individual=NA18682 (Male)	HGSV
+Genotype=C|C	Individual=NA18685 (Male)	HGSV
+Genotype=C|C	Individual=NA18689 (Male)	HGSV
+Genotype=C|G	Individual=NA18694 (Female)	HGSV
+Genotype=G|G	Individual=NA18696 (Female)	HGSV
+Genotype=C|G	Individual=NA18702 (Female)	HGSV
+Genotype=C|C	Individual=NA18704 (Female)	HGSV
+Genotype=C|G	Individual=NA20845 (Male)	HGSV
+Genotype=G|G	Individual=NA20846 (Male)	HGSV
+Genotype=C|G	Individual=NA20847 (Female)	HGSV
+Genotype=C|C	Individual=NA20849 (Female)	HGSV
+Genotype=C|G	Individual=NA20850 (Male)	HGSV
+Genotype=C|G	Individual=NA20851 (Female)	HGSV
+Genotype=C|G	Individual=NA20852 (Male)	HGSV
+Genotype=C|C	Individual=NA20853 (Female)	HGSV
+Genotype=G|G	Individual=JA18961 (Male)	HGSV
+Genotype=C|C	Individual=JA18972 (Female)	HGSV
+Genotype=C|C	Individual=JA18965 (Male)	HGSV
+Genotype=C|G	Individual=JA18973 (Female)	HGSV
+Genotype=C|G	Individual=JA18966 (Male)	HGSV
+Genotype=C|G	Individual=CEPH1347.02 (Female)	HGSV
+Genotype=C|G	Individual=NA10861 (Female)	HGSV
+Genotype=C|G	Individual=CEPH1375.02 (Female)	HGSV
+Genotype=C|G	Individual=NA18486 (Male)	HGSV
+Genotype=C|G	Individual=NA18485 (Male)	HGSV
+Genotype=C|G	Individual=NA18489 (Female)	HGSV
+Genotype=G|G	Individual=NA18488 (Female)	HGSV
+Genotype=G|G	Individual=NA18487 (Male)	HGSV
+Genotype=G|G	Individual=NA18497 (Male)	HGSV
+Genotype=C|G	Individual=NA19066 (Male)	HGSV
+Genotype=C|G	Individual=NA19072 (Male)	HGSV
+Genotype=C|C	Individual=NA19067 (Male)	HGSV
+Genotype=C|C	Individual=NA19068 (Male)	HGSV
+Genotype=C|C	Individual=NA19070 (Male)	HGSV
+Genotype=C|C	Individual=NA19074 (Female)	HGSV
+Genotype=G|G	Individual=NA18923 (Male)	HGSV
+Genotype=C|G	Individual=NA18924 (Female)	HGSV
+Genotype=G|G	Individual=NA19199 (Female)	HGSV
+Genotype=G|G	Individual=NA19198 (Male)	HGSV
+Genotype=G|G	Individual=NA19197 (Female)	HGSV
+Genotype=G|G	Individual=NA18935 (Male)	HGSV
+Genotype=C|G	Individual=NA19650 (Male)	HGSV
+Genotype=C|G	Individual=NA19649 (Male)	HGSV
+Genotype=C|G	Individual=NA19671 (Female)	HGSV
+Genotype=C|G	Individual=NA19669 (Female)	HGSV
+Genotype=C|G	Individual=NA19677 (Female)	HGSV
+Genotype=C|G	Individual=NA19676 (Male)	HGSV
+Genotype=C|G	Individual=NA21739 (Male)	HGSV
+Genotype=C|G	Individual=NA21741 (Male)	HGSV
+Genotype=G|G	Individual=NA19670 (Male)	HGSV
+Genotype=G|G	Individual=NA19675 (Female)	HGSV
+Genotype=G|G	Individual=NA21776 (Female)	HGSV
+Genotype=G|G	Individual=NA21784 (Female)	HGSV
+Genotype=G|G	Individual=NA21825 (Female)	HGSV
+Genotype=G|G	Individual=NA21826 (Female)	HGSV
+Genotype=G|G	Individual=NA21738 (Male)	HGSV
+Genotype=G|G	Individual=NA21740 (Male)	HGSV
+Genotype=G|G	Individual=CEPH1408.12 (Male)	HGSV
+Genotype=C|G	Individual=CEPH1334.10 (Male)	HGSV
+Genotype=C|G	Individual=CEPH1334.11 (Female)	HGSV
+Genotype=C|G	Individual=CEPH1334.12 (Male)	HGSV
+Genotype=C|G	Individual=CEPH1408.10 (Male)	HGSV
+Genotype=C|G	Individual=526_GM06995(M) (Male)	HGSV
+Genotype=C|G	Individual=CEPH13291.10 (Male)	HGSV
+Genotype=G|G	Individual=CEPH13291.12 (Male)	HGSV
+Genotype=G|G	Individual=CEPH13291.13 (Female)	HGSV
+Genotype=G|G	Individual=615_CL286 (Female)	HGSV
+Genotype=C|C	Individual=CEPH13291.11 (Female)	HGSV
+Genotype=C|G	Individual=YOR040.01 (Female)	HGSV
+Genotype=C|G	Individual=YOR040.02 (Female)	HGSV
+Genotype=C|G	Individual=YOR042.01 (Male)	HGSV
+Genotype=G|G	Individual=YOR028.03 (Male)	HGSV
+Genotype=C|G	Individual=NA20349 (Male)	HGSV
+Genotype=C|G	Individual=NA20356 (Male)	HGSV
+Genotype=C|G	Individual=NA20357 (Female)	HGSV
+Genotype=C|G	Individual=NA20364 (Female)	HGSV
+Genotype=C|G	Individual=NA20363 (Female)	HGSV
+Genotype=C|G	Individual=CEPH13293.12 (Male)	HGSV
+Genotype=C|G	Individual=CEPH13293.13 (Female)	HGSV
+Genotype=C|G	Individual=NA12335 (Male)	HGSV
+Genotype=G|G	Individual=NA20358 (Male)	HGSV
+Genotype=G|G	Individual=NA20360 (Male)	HGSV
+Genotype=G|G	Individual=NA20359 (Female)	HGSV
+Genotype=C|G	Individual=NA18148 (Female)	HGSV
+Genotype=C|G	Individual=NA18149 (Male)	HGSV
+Genotype=C|G	Individual=NA18150 (Female)	HGSV
+Genotype=C|G	Individual=NA18153 (Female)	HGSV
+Genotype=C|G	Individual=NA18154 (Female)	HGSV
+Genotype=C|G	Individual=NA18156 (Male)	HGSV
+Genotype=C|G	Individual=NA18160 (Male)	HGSV
+Genotype=C|G	Individual=NA18161 (Female)	HGSV
+Genotype=C|G	Individual=NA18162 (Female)	HGSV
+Genotype=C|C	Individual=NA18147 (Male)	HGSV
+Genotype=G|G	Individual=NA18151 (Female)	HGSV
+Genotype=G|G	Individual=NA18152 (Male)	HGSV
+Genotype=C|C	Individual=NA18155 (Male)	HGSV
+Genotype=G|G	Individual=NA18157 (Female)	HGSV
+Genotype=G|G	Individual=NA18158 (Male)	HGSV
+Genotype=C|C	Individual=NA18159 (Female)	HGSV
+Genotype=C|C	Individual=NA18166 (Male)	HGSV
+Genotype=C|G	Individual=NA19059 (Female)	HGSV
+Genotype=C|G	Individual=NA19060 (Male)	HGSV
+Genotype=C|G	Individual=NA19064 (Female)	HGSV
+Genotype=C|C	Individual=NA19062 (Male)	HGSV
+Genotype=C|C	Individual=NA19063 (Male)	HGSV
+Genotype=G|G	Individual=NA19065 (Female)	HGSV
+Genotype=C|G	Individual=J. CRAIG VENTER (Unknown)	HUMANGENOME_JCVI
+Genotype=C|C	Individual=HUDD (Male)	ENSEMBL
+Genotype=G|G	Individual=HUCC (Male)	ENSEMBL
+Genotype=C|G	Individual=VENTER (Male)	ENSEMBL
+Genotype=C|G	Individual=WATSON (Male)	ENSEMBL
+Genotype=C|G	Individual=CEPH1340.11 (Male)	COMPLETE_GENOMICS
+Genotype=C|G	Individual=YOR117.01 (Female)	COMPLETE_GENOMICS
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00096 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00097 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00099 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG00100 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG00101 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00102 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG00103 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00104 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00106 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00108 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG00109 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG00110 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00111 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00112 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG00113 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00114 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00116 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00117 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00118 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG00119 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00120 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00121 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG00122 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00123 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00124 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00125 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00126 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00127 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00128 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00129 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00130 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00131 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00133 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00134 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00135 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00136 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00137 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00138 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00139 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00140 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00141 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00142 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00143 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00146 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00148 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG00149 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00150 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00151 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00152 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00154 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00155 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00156 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00158 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00159 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00160 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00171 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00173 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00174 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00176 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00177 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00178 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG00179 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00180 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00182 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00183 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00185 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00186 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG00187 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00188 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00189 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00190 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG00231 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00232 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00233 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00234 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00235 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00236 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00237 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00238 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG00239 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00240 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00242 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00243 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00244 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00245 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00246 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00247 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00249 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00250 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00251 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00252 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00253 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00254 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG00255 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG00256 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG00257 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00258 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00259 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG00260 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00261 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG00262 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG00263 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00264 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG00265 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00266 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG00267 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00268 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00269 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00270 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00271 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00272 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00273 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00274 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00275 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00276 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00277 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00278 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00280 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00281 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00282 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00284 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00285 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00306 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG00309 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00310 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00311 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00312 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00313 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00315 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00318 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00319 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00320 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00321 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00323 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00324 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00325 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG00326 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG00327 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG00328 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00329 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00330 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00331 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00332 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00334 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00335 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00336 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00337 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00338 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG00339 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00341 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00342 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG00343 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00344 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00345 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00346 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG00349 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00350 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG00351 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00353 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00355 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00356 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00357 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00358 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG00359 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00360 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG00361 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00362 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00364 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00366 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG00367 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00369 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00372 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00373 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00375 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00376 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00377 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00378 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00381 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00382 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00383 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00384 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00403 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00404 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG00406 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00407 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG00418 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00419 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG00421 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00422 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG00427 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00428 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00436 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG00437 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00442 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG00443 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00445 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG00446 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00448 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00449 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG00451 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00452 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00457 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00458 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00463 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00464 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00472 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00473 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00475 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00476 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00478 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG00479 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00500 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00501 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG00512 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00513 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00524 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00525 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00530 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG00531 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00533 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00534 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00536 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00537 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00542 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00543 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG00553 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00554 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00556 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00557 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG00559 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00560 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00565 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG00566 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00577 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00578 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG00580 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG00581 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00583 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00584 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG00589 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00590 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00592 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG00593 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00595 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00596 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00607 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG00608 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00610 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00611 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG00613 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00614 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00619 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00620 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00625 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00626 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG00628 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00629 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG00634 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG00635 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00637 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00638 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00640 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00641 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00650 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00651 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00653 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00654 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00656 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00657 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG00662 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00663 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00671 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00672 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00683 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00684 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00689 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG00690 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG00692 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG00693 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00698 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG00699 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG00701 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00702 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00704 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00705 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00707 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00708 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00731 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG00732 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00734 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG00736 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG00737 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG00740 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG01047 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG01048 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG01051 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG01052 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG01055 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG01060 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG01061 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG01066 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG01067 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG01069 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG01070 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG01072 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG01073 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG01075 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG01079 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG01080 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG01082 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG01083 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG01085 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG01095 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG01097 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG01098 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG01101 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG01102 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG01104 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG01105 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG01107 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG01108 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG01112 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG01113 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG01124 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG01125 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG01133 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG01134 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG01136 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG01137 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG01140 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG01148 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG01149 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG01167 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG01168 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG01170 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG01171 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG01173 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG01174 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG01176 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG01183 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG01187 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG01188 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG01190 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG01191 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG01197 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG01198 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG01204 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG01250 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG01251 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG01257 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG01259 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG01271 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG01272 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG01274 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG01275 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG01277 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG01278 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG01334 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG01342 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG01344 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG01345 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG01350 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG01351 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG01353 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG01354 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG01356 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG01357 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG01359 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG01360 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG01365 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG01366 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG01374 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG01375 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG01377 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG01378 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG01383 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG01384 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG01389 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG01390 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG01437 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG01440 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG01441 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG01455 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG01456 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG01461 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG01462 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG01465 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG01488 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG01489 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG01491 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG01492 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG01494 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG01495 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG01497 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG01498 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG01515 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG01516 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG01518 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG01519 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG01521 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG01522 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG01550 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG01551 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG01617 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:HG01618 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG01619 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:HG01620 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG01623 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG01624 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:HG01625 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:HG01626 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA06984 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA06986 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA06989 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA06994 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA07000 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA07037 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA07048 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA07051 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA07056 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA07347 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA07357 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA10847 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA10851 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA11829 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA11830 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA11831 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA11843 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA11892 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA11893 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA11894 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA11919 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA11920 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA11930 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA11931 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA11932 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA11933 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA11992 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA11993 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA11994 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA11995 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA12003 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA12004 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA12006 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA12043 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA12044 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA12045 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA12046 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA12058 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA12144 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA12154 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA12155 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA12249 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA12272 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA12273 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA12275 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA12282 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA12283 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA12286 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA12287 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA12340 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA12341 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA12342 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA12347 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA12348 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA12383 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA12399 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA12400 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA12413 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA12489 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA12546 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA12716 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA12717 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA12718 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA12748 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA12749 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA12750 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA12751 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA12761 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA12763 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA12775 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA12777 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA12778 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA12812 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA12814 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA12815 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA12827 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA12829 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA12830 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA12842 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA12843 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA12872 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA12873 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA12874 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA12889 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA12890 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA18486 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA18487 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA18489 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA18498 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA18499 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA18501 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA18502 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA18504 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA18505 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA18507 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA18508 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA18510 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA18511 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA18516 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA18517 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA18519 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA18520 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA18522 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA18523 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA18525 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA18526 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA18527 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA18528 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA18530 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA18532 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA18534 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA18535 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA18536 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA18537 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA18538 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA18539 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA18541 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA18542 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA18543 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA18544 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA18545 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA18546 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA18547 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA18548 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA18549 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA18550 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA18552 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA18553 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA18555 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA18557 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA18558 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA18559 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA18560 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA18561 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA18562 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA18563 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA18564 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA18565 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA18566 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA18567 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA18570 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA18571 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA18572 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA18573 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA18574 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA18576 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA18577 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA18579 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA18582 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA18592 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA18593 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA18595 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA18596 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA18597 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA18599 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA18602 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA18603 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA18605 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA18606 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA18608 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA18609 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA18610 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA18611 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA18612 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA18613 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA18614 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA18615 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA18616 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA18617 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA18618 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA18619 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA18620 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA18621 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA18622 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA18623 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA18624 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA18626 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA18627 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA18628 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA18630 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA18631 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA18632 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA18633 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA18634 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA18635 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA18636 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA18637 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA18638 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA18639 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA18640 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA18641 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA18642 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA18643 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA18645 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA18647 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA18740 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA18745 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA18747 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA18748 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA18749 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA18757 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA18853 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA18856 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA18858 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA18861 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA18867 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA18868 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA18870 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA18871 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA18873 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA18874 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA18907 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA18908 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA18909 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA18910 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA18912 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA18916 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA18917 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA18923 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA18924 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA18933 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA18934 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA18939 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA18940 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA18941 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA18942 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA18943 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA18944 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA18945 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA18946 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA18947 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA18948 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA18949 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA18950 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA18951 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA18952 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA18953 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA18954 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA18956 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA18957 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA18959 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA18960 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA18961 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA18962 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA18963 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA18964 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA18965 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA18966 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA18968 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA18971 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA18973 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA18974 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA18975 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA18976 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA18977 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA18978 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA18980 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA18981 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA18982 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA18983 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA18984 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA18985 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA18986 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA18987 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA18988 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA18989 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA18990 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA18992 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA18994 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA18995 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA18998 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA18999 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA19000 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA19002 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19003 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19004 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19005 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA19007 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19009 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA19010 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA19012 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19020 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19028 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19035 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19036 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA19038 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA19041 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA19044 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA19046 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA19054 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA19055 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA19056 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19057 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19058 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA19059 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA19060 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA19062 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA19063 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA19064 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19065 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA19066 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA19067 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA19068 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA19070 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA19072 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA19074 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA19075 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA19076 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA19077 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19078 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA19079 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19080 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA19081 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19082 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA19083 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA19084 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA19085 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA19087 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19088 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA19093 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA19095 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19096 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA19098 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA19099 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19102 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA19107 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19108 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19113 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19114 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA19116 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA19117 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19118 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA19119 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19121 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA19129 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19130 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19131 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19137 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19138 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA19146 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA19147 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19149 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19150 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19152 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19160 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA19171 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19172 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA19175 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19185 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19189 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19190 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19197 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19198 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19200 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA19204 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19207 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19209 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19213 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19222 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19223 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19225 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19235 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA19236 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA19247 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19248 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA19256 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19257 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19307 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA19308 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA19309 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19310 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19311 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA19312 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19313 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19315 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19316 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19317 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA19318 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA19319 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA19321 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA19324 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19327 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19328 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19331 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA19332 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA19334 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19338 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19346 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA19347 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA19350 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA19351 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA19352 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19355 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA19359 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA19360 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19371 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19372 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19373 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19374 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19375 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19376 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19377 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19379 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19380 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19381 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19382 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA19383 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA19384 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA19385 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19390 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19391 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA19393 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19394 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA19395 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19396 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19397 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA19398 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19399 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA19401 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA19403 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA19404 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA19428 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA19429 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA19430 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19431 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19434 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19435 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA19436 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19437 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA19438 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19439 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19440 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19443 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19444 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA19445 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19446 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA19448 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA19449 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19451 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19452 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19453 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19455 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA19456 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19457 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19461 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA19462 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA19463 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19466 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19467 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA19468 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19469 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19470 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA19471 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19472 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA19473 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19474 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19625 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19648 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA19651 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA19652 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19654 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA19655 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA19657 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA19660 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA19661 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA19663 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA19664 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA19672 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19675 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA19676 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA19678 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA19679 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA19681 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA19682 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA19684 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA19685 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19700 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA19701 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19703 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19704 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA19707 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19711 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA19712 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA19713 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA19716 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19717 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA19719 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19720 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA19722 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA19723 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA19725 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA19726 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA19728 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA19729 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA19731 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA19732 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA19734 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19735 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA19737 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA19738 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA19740 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA19741 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19746 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA19747 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA19749 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA19750 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA19752 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA19753 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA19755 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA19756 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA19758 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA19759 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA19761 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA19762 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA19764 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19770 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA19771 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA19773 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA19774 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA19776 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19777 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19779 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA19780 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA19782 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19783 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19785 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA19786 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA19788 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19789 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19794 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA19795 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19818 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19819 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19834 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA19835 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19900 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA19901 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19904 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19908 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA19909 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA19914 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19916 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA19917 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19920 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA19921 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19922 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19923 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19982 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA19984 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA19985 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA20126 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA20127 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA20276 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA20278 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA20281 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA20282 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA20287 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA20289 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA20291 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA20294 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA20296 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA20298 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA20299 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA20314 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA20317 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA20322 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA20332 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA20334 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA20336 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA20339 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA20340 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA20341 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA20342 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA20344 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA20346 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA20348 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA20351 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA20356 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA20357 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA20359 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA20363 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA20412 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA20414 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA20502 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA20503 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA20504 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA20505 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA20506 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA20507 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA20508 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA20509 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA20510 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA20512 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA20513 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA20515 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA20516 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA20517 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA20518 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA20519 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA20520 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA20521 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA20522 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA20524 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA20525 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA20527 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA20528 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA20529 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA20530 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA20531 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA20532 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA20533 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA20534 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA20535 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA20536 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA20537 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA20538 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA20539 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA20540 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA20541 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA20542 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA20543 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA20544 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA20581 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA20582 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA20585 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA20586 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA20588 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA20589 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA20752 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA20753 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA20754 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA20755 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA20756 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA20757 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA20758 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA20759 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA20760 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA20761 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA20765 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA20766 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA20768 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA20769 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA20770 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA20771 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA20772 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA20773 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA20774 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA20775 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA20778 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA20783 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA20785 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA20786 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA20787 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA20790 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA20792 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA20795 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA20796 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA20797 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA20798 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA20799 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA20800 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA20801 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA20802 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA20803 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA20804 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA20805 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA20806 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA20807 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA20808 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA20809 (Male)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA20810 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA20811 (Male)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA20812 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA20813 (Female)	
+Genotype=C|G	Individual=1000GENOMES:phase_1:NA20814 (Male)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA20815 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA20816 (Male)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA20818 (Female)	
+Genotype=C|C	Individual=1000GENOMES:phase_1:NA20819 (Female)	
+Genotype=G|G	Individual=1000GENOMES:phase_1:NA20826 (Female)	
+Genotype=G|C	Individual=1000GENOMES:phase_1:NA20828 (Female)	
+Genotype=C|G	Individual=1000GENOMES:pilot_2_trio:NA19239 (Male)	
+Genotype=G|G	Individual=1000GENOMES:pilot_2_trio:NA19238 (Female)	
+Genotype=C|G	Individual=1000GENOMES:pilot_2_trio:NA19240 (Female)	
+Genotype=G|C	Individual=1000GENOMES:pilot_2_trio:NA12891 (Male)	
+Genotype=C|C	Individual=1000GENOMES:pilot_2_trio:NA12892 (Female)	
+Genotype=G|C	Individual=1000GENOMES:pilot_2_trio:NA12878 (Female)	
+Genotype=G|C	Individual=AK1 (Male)	
+Genotype=C|G	Individual=Misha Angrist (Male)	
+Genotype=C|G	Individual=Rosalynn Gill (Female)	
+Genotype=C|C	Individual=SJK (Male)	
+Genotype=C|G	Individual=YH (Male)	
+Genotype=C|G	Individual=Stephen Quake (Male)	

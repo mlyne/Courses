@@ -1,0 +1,108 @@
+rs2234693	PMID=22808109	year=2012 title=Significant role of estrogen and progesterone receptor sequence variants in gallbladder cancer predisposition: a multi-analytical strategy.
+rs2234693	PMID=23072920	year=2013 title=Genetic markers of bone and joint health and physical capability in older adults: the HALCyon programme.
+rs2234693	PMID=16199553	year=2005 title=The oestrogen receptor alpha gene is linked and/or associated with age of menarche in different ethnic groups.
+rs2234693	PMID=20846920	year=2011 title=Selected estrogen receptor 1 and androgen receptor gene polymorphisms in relation to risk of breast cancer and fibrocystic breast conditions among Chinese women.
+rs2234693	PMID=20965156	year=2011 title=Oophorectomy, menopause, estrogen treatment, and cognitive aging: clinical evidence for a window of opportunity.
+rs2234693	PMID=21454829	year=2011 title=Evaluation of functional genetic variants for breast cancer risk: results from the Shanghai breast cancer study.
+rs2234693	PMID=18000088	year=2008 title=Ovulatory response to treatment of polycystic ovary syndrome is associated with a polymorphism in the STK11 gene.
+rs2234693	PMID=22654856	year=2012 title=Tissue-Specific Effects of Loss of Estrogen during Menopause and Aging.
+rs2234693	PMID=21092186	year=2010 title=Polymorphisms in genes involved in the estrogen pathway and mammographic density.
+rs2234693	PMID=18424448	year=2008 title=Variants in the estrogen receptor alpha gene and its mRNA contribute to risk for schizophrenia.
+rs2234693	PMID=23497414	year=2013 title=Association of estrogen receptor alpha gene polymorphism with age at onset, general psychopathology symptoms, and therapeutic effect of schizophrenia.
+rs2234693	PMID=22695700	year=2012 title=The genetic epidemiology of idiopathic scoliosis.
+rs2234693	PMID=16504171	year=2006 title=No role for estrogen receptor 1 gene intron 1 Pvu II and exon 4 C325G polymorphisms in migraine susceptibility.
+rs2234693	PMID=21958689	year=2011 title=Genetic variation in the sex hormone metabolic pathway and endometriosis risk: an evaluation of candidate genes.
+rs2234693	PMID=21085187	year=2011 title=Comprehensive association analysis of candidate genes for generalized vitiligo supports XBP1, FOXP3, and TSLP.
+rs2234693	PMID=19126777	year=2009 title=Association of ESR1 gene tagging SNPs with breast cancer risk.
+rs2234693	PMID=20172949	year=2010 title=Polymorphisms of estrogen receptors and risk of biliary tract cancers and gallstones: a population-based study in Shanghai, China.
+rs2234693	PMID=18271972	year=2008 title=ESR1 and EGF genetic variation in relation to breast cancer risk and survival.
+rs2234693	PMID=18990228	year=2008 title=Estrogen receptor alpha gene polymorphism and endometrial cancer risk--a case-control study.
+rs2234693	PMID=18408366	year=2008 title=Estrogen receptor-alpha variants increase risk of Alzheimer's disease in women with Down syndrome.
+rs2234693	PMID=19102639	year=2009 title=Long-term effects of bilateral oophorectomy on brain aging: unanswered questions from the Mayo Clinic Cohort Study of Oophorectomy and Aging.
+rs2234693	PMID=18805939	year=2009 title=Functional genetic polymorphisms and female reproductive disorders: part II--endometriosis.
+rs2234693	PMID=18603647	year=2008 title=Functional genetic polymorphisms and female reproductive disorders: Part I: Polycystic ovary syndrome and ovarian response.
+rs2234693	PMID=18159244	year=2007 title=Genome wide association (GWA) study for early onset extreme obesity supports the role of fat mass and obesity associated gene (FTO) variants.
+rs2234693	PMID=18787887	year=2008 title=Genetic variation in candidate osteoporosis genes, bone mineral density, and fracture risk: the study of osteoporotic fractures.
+rs2234693	PMID=16949394	year=2006 title=Cognitive functioning and sex steroid hormone gene polymorphisms in women at midlife.
+rs2234693	PMID=18579753	year=2008 title=Vascular actions of estrogens: functional implications.
+rs2234693	PMID=19630952	year=2009 title=Sex steroid metabolism polymorphisms and mammographic density in pre- and early perimenopausal women.
+rs2234693	PMID=18728166	year=2008 title=Association studies of common variants in 10 hypogonadotropic hypogonadism genes with age at menarche.
+rs2234693	PMID=19194457	year=2009 title=Association between arterial stiffness and variations in oestrogen-related genes.
+rs2234693	PMID=18592033	year=2008 title=Sex steroid-related candidate genes in psychiatric disorders.
+rs2234693	PMID=21300759	year=2011 title=EGFR L858R mutation and polymorphisms of genes related to estrogen biosynthesis and metabolism in never-smoking female lung adenocarcinoma patients.
+rs2234693	PMID=19080622	year=2008 title=Is calmodulin 1 gene/estrogen receptor-alpha gene polymorphisms correlated with double curve pattern of adolescent idiopathic scoliosis?].
+rs2234693	PMID=18285546	year=2008 title=A PAI-1 (SERPINE1) polymorphism predicts osteonecrosis in children with acute lymphoblastic leukemia: a report from the Children's Oncology Group.
+rs2234693	PMID=20015871	year=2010 title=Pharmacogenetic risk factors for altered bone mineral density and body composition in pediatric acute lymphoblastic leukemia.
+rs2234693	PMID=17903296	year=2007 title=Genome-wide association with bone mass and geometry in the Framingham Heart Study.
+rs2234693	PMID=19934104	year=2010 title=Radiographic severity of knee osteoarthritis is conditional on interleukin 1 receptor antagonist gene variations.
+rs2234693	PMID=20586553	year=2011 title=Polymorphisms in ESR1, ESR2 and HSD17B1 genes are associated with fertility status in endometriosis.
+rs2234693	PMID=20237151	year=2010 title=Field synopsis and synthesis of genetic association studies in osteoarthritis: the CUMAGAS-OSTEO information system.
+rs2234693	PMID=19608186	year=2009 title=Qualitative assessment of previous evidence and an updated meta-analysis confirms lack of association between the ESR1 rs2234693 (PvuII) variant and coronary heart disease in men and women.
+rs2234693	PMID=18053221	year=2007 title=Impact of estrogen receptor gene polymorphisms and mRNA levels on obesity and lipolysis--a cohort study.
+rs2234693	PMID=18445666	year=2008 title=Variation in estrogen-related genes associated with cardiovascular phenotypes and circulating estradiol, testosterone, and dehydroepiandrosterone sulfate levels.
+rs2234693	PMID=21106711	year=2011 title=Estrogen receptor α and aromatase polymorphisms affect risk, prognosis, and therapeutic outcome in men with castration-resistant prostate cancer treated with docetaxel-based therapy.
+rs2234693	PMID=18450649	year=2008 title=ESR1 polymorphism is associated with plasma lipid and apolipoprotein levels in Caucasians of the Rochester Family Heart Study.
+rs2234693	PMID=19319135	year=2009 title=Common genetic variability in ESR1 and EGF in relation to endometrial cancer risk and survival.
+rs2234693	PMID=18305958	year=2008 title=Comprehensive evaluation of the estrogen receptor alpha gene reveals further evidence for association with type 2 diabetes enriched for nephropathy in an African American population.
+rs2234693	PMID=18350145	year=2008 title=Association of the estrogen receptor 1 (ESR1) gene with body height in adult males from two Swedish population cohorts.
+rs2234693	PMID=16949384	year=2006 title=Endogenous estradiol and its association with estrogen receptor gene polymorphisms.
+rs2234693	PMID=16949390	year=2006 title=Sex steroid hormone polymorphisms, high-density lipoprotein cholesterol, and apolipoprotein A-1 from the Study of Women's Health Across the Nation (SWAN).
+rs2234693	PMID=16949392	year=2006 title=The association of bone mineral density with estrogen receptor gene polymorphisms.
+rs2234693	PMID=22311020	year=2012 title=Evaluation of ERα and VDR gene polymorphisms in relation to bone mineral density in Turkish postmenopausal women.
+rs2234693	PMID=22418777	year=2012 title=Estrogen-related genes and their contribution to racial differences in breast cancer risk.
+rs2234693	PMID=17268813	year=2007 title=Estrogen receptor alpha haplotypes and breast cancer risk in older Caucasian women.
+rs2234693	PMID=19654868	year=2009 title=Genetic polymorphisms of estrogen receptors alpha and beta and the risk of developing prostate cancer.
+rs2234693	PMID=19321582	year=2009 title=The protective association of high plasma enterolactone with breast cancer is reasonably robust in women with polymorphisms in the estrogen receptor alpha and beta genes.
+rs2234693	PMID=19219042	year=2009 title=Genome-wide association study identifies a new breast cancer susceptibility locus at 6q25.1.
+rs2234693	PMID=19438492	year=2009 title=Estrogen receptor polymorphisms and the risk of endometrial cancer.
+rs2234693	PMID=19884274	year=2009 title=The relationship of estrogen receptor-alpha and -beta genes with osteoarthritis of the hand.
+rs2234693	PMID=21528353	year=2011 title=Genetic variants of 6q25 and breast cancer susceptibility: a two-stage fine mapping study in a Chinese population.
+rs2234693	PMID=19673915	year=2010 title=Role of the oestrogen receptor (ESR1 PvuII and ESR1 325 C->G) and progesterone receptor (PROGINS) polymorphisms in genetic susceptibility to migraine in a North Indian population.
+rs2234693	PMID=20417295	year=2010 title=Common variations in estrogen-related genes are associated with severe large-joint osteoarthritis: a multicenter genetic and functional study.
+rs2234693	PMID=19760036	year=2010 title=Potentially functional polymorphisms in ESR1 and breast cancer risk: a meta-analysis.
+rs2234693	PMID=19032032	year=2009 title=Associations of the estrogen receptors 1 and 2 gene polymorphisms with the metabolic syndrome in women.
+rs2234693	PMID=17540666	year=2007 title=Allelic estrogen receptor 1 (ESR1) gene variants predict the outcome of ovarian stimulation in in vitro fertilization.
+rs2234693	PMID=19298602	year=2009 title=Isoflavone, polymorphisms in estrogen receptor genes and breast cancer risk in case-control studies in Japanese, Japanese Brazilians and non-Japanese Brazilians.
+rs2234693	PMID=19927160	year=2010 title=Association between ESR1 and ESR2 gene polymorphisms and hyperlipidemia in Chinese Han postmenopausal women.
+rs2234693	PMID=21570196	year=2011 title=Estrogen receptor gene variants are associated with anxiety disorders in older women.
+rs2234693	PMID=21762042	year=2011 title=Oestrogen receptor polymorphisms in female patients with rheumatoid arthritis.
+rs2234693	PMID=21804148	year=2011 title=Oestrogen receptor polymorphisms and late-life depression.
+rs2234693	PMID=22228197	year=2012 title=Estrogen receptors alpha (rs2234693 and rs9340799), and beta (rs4986938 and rs1256049) genes polymorphism in prostate cancer: evidence for association with risk and histopathological tumor characteristics in Iranian men.
+rs2234693	PMID=22324545	year=2012 title=Are polymorphisms in oestrogen receptors genes associated with lipid levels in response to hormone therapy?
+rs2234693	PMID=15217512	year=2004 title=Oestrogen receptor alpha gene haplotype and postmenopausal breast cancer risk: a case control study.
+rs2234693	PMID=19375130	year=2009 title=Estrogen receptor 1 gene polymorphisms and decreased risk of obesity in women.
+rs2234693	PMID=20046055	year=2010 title=Association of the G2014G genotype in estrogen receptor 1 gene with failure of the mifepristone-induced termination of early pregnancy.
+rs2234693	PMID=20383761	year=2010 title=Estrogen receptor alpha polymorphisms and the risk of malignancies.
+rs2234693	PMID=22011627	year=2012 title=Genetic polymorphisms in estrogen receptors and sexual dimorphism in fat redistribution in HIV-infected patients on HAART.
+rs2234693	PMID=19578917	year=2009 title=Association of ER-alpha gene polymorphism with metabolic phenotypes in Chinese Hans.
+rs2234693	PMID=16144952	year=2005 title=Sex-specific association between estrogen receptor-alpha gene variation and measures of adiposity: the Framingham Heart Study.
+rs2234693	PMID=17372038	year=2007 title=Age-related changes in echocardiographic measurements: association with variation in the estrogen receptor-alpha gene.
+rs2234693	PMID=18385916	year=2008 title=Estrogen receptor alpha polymorphism is associated with pelvic organ prolapse risk.
+rs2234693	PMID=21837769	year=2011 title=A cis-acting regulatory variation of the estrogen receptor α (ESR1) gene is associated with hepatitis B virus-related liver cirrhosis.
+rs2234693	PMID=22328322	year=2012 title=Interaction between ESRα polymorphisms and environmental factors in osteoporosis.
+rs2234693	PMID=15523071	year=2004 title=Differential genetic effects of ESR1 gene polymorphisms on osteoporosis outcomes.
+rs2234693	PMID=16179580	year=2005 title=Estrogen receptor alpha gene variation and the risk of stroke.
+rs2234693	PMID=16203927	year=2005 title=No replication of association between estrogen receptor alpha gene polymorphisms and susceptibility to myocardial infarction in a large sample of patients of European descent.
+rs2234693	PMID=16551651	year=2006 title=The association of oestrogen receptor alpha-haplotypes with cardiovascular risk factors in the British Women's Heart and Health Study.
+rs2234693	PMID=16949387	year=2006 title=Menstrual cycle markers of ovarian aging and sex steroid hormone genotypes.
+rs2234693	PMID=17105837	year=2007 title=Estrogen receptor alpha regulates area-adjusted bone mineral content in late pubertal girls.
+rs2234693	PMID=17405848	year=2007 title=Effect of an estrogen receptor-alpha intron 4 polymorphism on fat mass in 11-year-old children.
+rs2234693	PMID=17409042	year=2007 title=Effects of the interaction between lean tissue mass and estrogen receptor alpha gene polymorphism on bone mineral density in middle-aged and elderly Japanese.
+rs2234693	PMID=18619437	year=2009 title=MUC1 and estrogen receptor alpha gene polymorphisms in dry eye patients.
+rs2234693	PMID=19082882	year=2009 title=Estrogen receptor genotype is associated with risk of venous thromboembolism during tamoxifen therapy.
+rs2234693	PMID=19200973	year=2010 title=Alleles and haplotypes of the estrogen receptor alpha gene are associated with an increased risk of spontaneous abortion.
+rs2234693	PMID=19386104	year=2009 title=Age-specific effects of estrogen receptors' polymorphisms on the bone traits in healthy fertile women: the BONTURNO study.
+rs2234693	PMID=19386276	year=2009 title=A functional polymorphism in estrogen receptor alpha gene is associated with Japanese methamphetamine induced psychosis.
+rs2234693	PMID=19473078	year=2009 title=Estrogen receptor beta gene variant is associated with vascular dementia in elderly women.
+rs2234693	PMID=19793653	year=2009 title=Oestrogen receptor alpha gene intronic polymorphisms and autoimmune myasthenia gravis in Caucasian women.
+rs2234693	PMID=20080857	year=2010 title=Endothelial function, but not carotid intima-media thickness, is affected early in menopause and is associated with severity of hot flushes.
+rs2234693	PMID=20095908	year=2010 title=Estrogen receptor-1 genetic polymorphisms for the risk of premature ovarian failure and early menopause.
+rs2234693	PMID=20674091	year=2012 title=Estrogen receptor alpha gene variants are associated with Alzheimer's disease.
+rs2234693	PMID=20732949	year=2012 title=Gender-specific reduction of estrogen-sensitive small RNA, miR-30b, in subjects with schizophrenia.
+rs2234693	PMID=20961965	year=2011 title=Differential association of juvenile and adult systemic lupus erythematosus with genetic variants of oestrogen receptors alpha and beta.
+rs2234693	PMID=21262040	year=2011 title=Reported early family environment covaries with menarcheal age as a function of polymorphic variation in estrogen receptor-α.
+rs2234693	PMID=21445546	year=2012 title=Analysis of estrogen receptor alpha gene haplotype in Mexican mestizo patients with primary osteoarthritis of the knee.
+rs2234693	PMID=23577061	year=2013 title=Multi-analytic approach elucidates significant role of hormonal and hepatocanalicular transporter genetic variants in gallstone disease in north Indian population.
+rs2234693	PMID=22205149	year=2012 title=Treatment with hormone therapy and calcitriol did not affect depression in older postmenopausal women:  no interaction with estrogen and vitamin D receptor genotype polymorphisms.
+rs3730070	PMID=18187665	year=2008 title=Identification of genetic polymorphisms associated with risk for pulmonary hypertension in sickle cell disease.
+rs3730070	PMID=20401335	year=2009 title=Sickle Cell Disease in the Post Genomic Era: A Monogenic Disease with a Polygenic Phenotype.
