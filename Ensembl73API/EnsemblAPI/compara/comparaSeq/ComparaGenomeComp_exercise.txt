@@ -1,0 +1,53 @@
+Cambridge - Dec 2013
+GenomeDB
+A GenomeDB is used to link the Compara database to each of the Core species databases.
+1. Print the name, assembly version and genebuild version for all the GenomeDBs in the compara db
+Hint: First you will need a GenomeDB adaptor. Then use the fetch_all() method from the GenomeDB adaptor to bring back GenomeDB objects (these will be returned as an array-ref). Then get the name, assembly version and genebuild version from these GenomeDB objects.
+Solution [OUTPUT] [CODE]
+DnaFrag
+A DnaFrag represents a top-level SeqRegion in the Compara database.
+1. Print all the chromosomes (DnaFrags) for chimp
+Hint: First you will need a DnaFrag adaptor. Then use the fetch_all_by_GenomeDB_region() from the adaptor to bring back all the dnafrag objects associated with a region (the region you want is "chromosome").
+Solution [OUTPUT] [CODE]
+MethodLinkSpeciesSet
+The MethodLinkSpeciesSet is a central component in the Compara database, it stores information connecting the various analyses (method_types) with a set of species.
+1.a Print the total number of MethodLinkSpeciesSet entries stored in the database.
+Hint: use the MethodLinkSpeciesSet adaptor fetch_all method.
+1.b Print a unique list of method_types and a count of their number in the database.
+Hint: With the MethodLinkSpeciesSet adaptor use the method->type method to get all the method_type (analysis) entries in the database. In order to get a unique set of method_types, use the returned values from the "method->type" method as keys in a hash (and increment this for the total number of entries of that type).
+Solution [OUTPUT] [CODE]
+2. Print a list of the species and their internal ids (dbIDs) for the 13 eutherian mammals EPO alignments
+Hint: use the MethodLinkSpeciesSet adaptor fetch_by_method_link_type_species_set_name method, and then the MethodLinkSpeciesSet (object) species_set_obj()->genome_dbs method (this brings back a list-ref of genome_db objects). The method_link_type is "EPO" and the species_set_name is "mammals".
+Solution [OUTPUT] [CODE]
+GenomicAlignBlock
+A GenomicAlignBlock represents an alignment between two or more pieces of genomic DNA. Every piece of DNA is represented by a GenomicAlign.
+1. Print the LASTZ_NET alignments for pig chromosome 15 with cow (using pig coordinates 105734307-105739335 as reference).
+Hint: use the MethodLinkSpeciesSet adaptor fetch_by_method_link_type_registry_aliases method (eg. $mlss_adaptor->fetch_by_method_link_type_registry_aliases("LASTZ_NET", ["pig", "cow"])).
+you will need a *core* slice for pig chromosome 15.
+get a GenomicAlignBlock adaptor and use the fetch_all_by_MethodLinkSpeciesSet_Slice method to retrieve the genomic_align_block object(s).
+use the GenomicAlignBlock restrict_between_reference_positions method to "restrict" the genomic_align_block object between base pairs 105734307 and 105739335.
+finally print the alignment using the GenomicAlignBlock object get_SimpleAlign() method (use AlignIO to format the output alignment).
+Solution [OUTPUT] [CODE]
+2. Change the above example so that it prints the alignments for the 13 eutherian mammals EPO
+Hint: use the MethodLinkSpeciesSet adaptor fetch_by_method_link_type_species_set_name method (the method_link_type is "EPO" and the species_set_name is "mammals").
+Solution [OUTPUT] [CODE1]	 [CODE2]
+3. Print the constrained element alignments from the above pig locus (use the constrained elements generated from the mammalian 36way alignments)
+Hint: you will need a MethodLinkSpeciseSet adaptor and use it with the fetch_by_method_link_type_species_set_name method (the method_link_type is "GERP_CONSTRAINED_ELEMENT" and the species_set_name is "mammals") to get a methodLinkSpeciesSet object for constrained_elements. You will also need a ConstrainedElement adaptor, which you can use with the method fetch_all_by_MethodLinkSpeciesSet_Slice (you have just got the "MethodLinkSpeciesSet" object for constrained_elements but you will also need a slice (and hence it's adaptor)) to get a list-ref of constrained_elements. For each constrained_element object in this list-ref use the get_SimpleAlign() method to print the alignments.
+Solution [OUTPUT]
+Synteny
+1. Print the pig-cow syntenic map for pig chromosome 15
+Hint: you will need the MethodLinkSpeciesSet adaptor for pig-cow synteny, (the method_like_type is "SYNTENY", eg. $pig_cow_synteny_mlss = $mlss_a->fetch_by_method_link_type_registry_aliases("SYNTENY", ["pig", "cow"])). You will need the DnaFrag adaptor and use it to get a DnaFrag object for pig chromosome 15 (use the fetch_by_GenomeDB_and_name method from the DnaFrag adaptor (eg. fetch_by_GenomeDB_and_name($pig_genome_db, "15")). Use this DnaFrag object as a parameter for the "SyntenyRegion" adaptor (use the fetch_all_by_MethodLinkSpeciesSet_DnaFrag method eg. $synteny_region_adaptor->fetch_all_by_MethodLinkSpeciesSet_DnaFrag($pig_cow_synteny_mlss, $pig_dnafrag_15)). Then use the get_all_DnaFragRegions method from each synteny_region object to bring back a set of DnafragRegion object pairs (eg. $these_dnafrag_regions = $this_synteny_region->get_all_DnaFragRegions()), this brings back a list-ref of DnaFragRegion objects, and from these you can get various data-object information (eg. $this_dnafrag_region->dnafrag->genome_db->name, $this_dnafrag_region->slice->name).
+Solution [OUTPUT]
+AlignSlice examples
+1. Print the nucleotide bases and assembly positions for both the pig myostatin (MSTN) gene and it's bovine ortholog where the aligned sequences differ.
+Hint: you will need the methodLinkSpeciesSet for the mammals EPO alignments.
+Get a core gene object for "MSTN", from this get the canonical transcript object.
+From the canonical transcript get a list_ref of exons.
+For each exon get a slice object, also get an align_slice object (use fetch_by_Slice_MethodLinkSpeciesSet()).
+From each align_slice object get a (compara) slice object (this is a slice based on the alignment, not the assembly), this is an align_slice slice object (use ' align_slice->get_all_Slices("sus_scrofa")' and repeat for cow).
+From each align_slice slice object (one each for pig and cow) get the aligned sequence.
+Split the aligned sequences into bases and compare them.
+For those bases which differ between pig and cow print their identities and assembly positions for both species.
+Solution [OUTPUT]
+2. Print the codons associated with a set of SNPs (from a reference genome (human)) for all species which have pairwise alignments and CDSs in homologous regions.
+Hint: you will need to know the names of the relevant pairwise alignment types eg. 'BLASTZ_NET', 'LASTZ_NET', 'TRANSLATED_BLAT_NET' and use a core Bio::EnsEMBL::TranscriptMapper object.

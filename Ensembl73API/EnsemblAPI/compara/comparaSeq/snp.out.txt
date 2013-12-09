@@ -1,0 +1,81 @@
+# > cat input.file
+## X:6161 is intergenic (so no results) 
+X       6161
+## 19:11624606 is in a gene but not exonic
+19      11624606
+## 19:11629984 is located in the start codon of a gene
+19      11629984
+## 19:11624619 is an example of a codon split between exons
+19      11624619
+
+# > perl snp.pl input.file
+
+##############	homo_sapiens	X	6161
+##############	homo_sapiens	19	11624606
+##############	homo_sapiens	19	11629984
+[ ATG ]		homo_sapiens	19:11629984	
+[ ATG ]		equus_caballus	7:48830258	
+[ ATG ]		tursiops_truncatus	GeneScaffold_3533:163633	
+[ ATG ]		pteropus_vampyrus	GeneScaffold_3147:89820	
+[ ATG ]		macaca_mulatta	19:11344378	
+[ ATG ]		mustela_putorius_furo	GL896921.1:2133514	
+[ ATG ]		otolemur_garnettii	GL873646.1:2573942	
+[ ATG ]		pan_troglodytes	19:11747907	
+[ ATG ]		ailuropoda_melanoleuca	GL195044.1:20631	
+[ ATG ]		callithrix_jacchus	22:10955918	
+[ ATG ]		gorilla_gorilla	19:11736356	
+[ ATG ]		bos_taurus	7:17090867	
+[ ATG ]		felis_catus	A2:8483999	
+[ ATG ]		canis_familiaris	20:49857417	
+[ ATG ]		rattus_norvegicus	8:23148055	
+[ ATG ]		ictidomys_tridecemlineatus	JH393469.1:1556123	
+[ ATG ]		nomascus_leucogenys	GL397381.1:2840210	
+[ ATG ]		myotis_lucifugus	GL430350:284437	
+[ ATG ]		oryctolagus_cuniculus	GL019632:11682	
+[ ATG ]		mus_musculus	9:22078242	
+[ ATG ]		sus_scrofa	2:70516004	
+##############	homo_sapiens	19	11624619
+[ G ]	[ GT ]		homo_sapiens	19:11624619	
+[ G ]	[ GC ]		cavia_porcellus	scaffold_226:649352	
+[ G ]	[ GG ]		ochotona_princeps	scaffold_25938:5758	
+[ G ]	[ NN ]		sorex_araneus	GeneScaffold_2826:8781	
+[ G ]	[ GG ]		equus_caballus	7:48833859	
+[ G ]	[ GG ]		vicugna_pacos	GeneScaffold_2294:121363	
+[ G ]	[ GG ]		tursiops_truncatus	GeneScaffold_3533:158939	
+[ G ]	[ GG ]		procavia_capensis	GeneScaffold_6886:89430	
+[ G ]	[ NN ]		macropus_eugenii	GeneScaffold_3966:3736	
+[ G ]	[ GG ]		loxodonta_africana	scaffold_26:32283049	
+[ G ]	[ GG ]		echinops_telfairi	GeneScaffold_1760:78902	
+[ G ]	[ GG ]		monodelphis_domestica	3:429495969	
+[ G ]	[ GC ]		dipodomys_ordii	scaffold_17186:27773	
+[ G ]	[ GG ]		microcebus_murinus	GeneScaffold_1724:9391	
+[ G ]	[ GA ]		ornithorhynchus_anatinus	Contig12816:12248	
+[ G ]	[ GG ]		pteropus_vampyrus	GeneScaffold_3147:86693	
+[ G ]	[ GT ]		macaca_mulatta	19:11338331	
+[ G ]	[ GC ]		mustela_putorius_furo	GL896921.1:2137683	
+[ G ]	[ GG ]		otolemur_garnettii	GL873646.1:2579153	
+[ G ]	[ GC ]		ailuropoda_melanoleuca	GL195044.1:17146	
+[ G ]	[ GG ]		callithrix_jacchus	22:10949413	
+[ G ]	[ GT ]		gorilla_gorilla	19:11730986	
+[ G ]	[ GG ]		bos_taurus	7:17087956	
+[ G ]	[ AC ]		felis_catus	A2:8479829	
+[ G ]	[ GT ]		canis_familiaris	20:49861127	
+[ G ]	[ GA ]		rattus_norvegicus	8:23143811	
+[ G ]	[ GA ]		ictidomys_tridecemlineatus	JH393469.1:1554004	
+[ G ]	[ GT ]		nomascus_leucogenys	GL397381.1:2834567	
+[ G ]	[ GG ]		sarcophilus_harrisii	GL841402.1:145190	
+[ G ]	[ GG ]		myotis_lucifugus	GL430350:289557	
+[ G ]	[ GG ]		oryctolagus_cuniculus	GL019632:12858	
+[ G ]	[ GG ]		mus_musculus	9:22076228	
+[ G ]	[ GG ]		sus_scrofa	2:70511454	
+[ G ]	[ GT ]		oreochromis_niloticus	GL831430.1:140976	
+[ G ]	[ GC ]		petromyzon_marinus	GL481864:11730	
+[ G ]	[ GC ]		gasterosteus_aculeatus	scaffold_47:735423	
+[ G ]	[ GC ]		latimeria_chalumnae	JH126757.1:1987832	
+[ G ]	[ GT ]		danio_rerio	7:19059794	
+[ G ]	[ GT ]		oryzias_latipes	18:28712806	
+[ GGG ]		xenopus_tropicalis	GL173084.1:257842	
+[ G ]	[ GT ]		anolis_carolinensis	2:78619176	
+[ G ]	[ GT ]		takifugu_rubripes	scaffold_108:846412	
+[ G ]	[ GT ]		tetraodon_nigroviridis	Un_random:25411128	
+

@@ -1,0 +1,5 @@
+# set up an AlignIO to format SimpleAlign output
+my $alignIO = Bio::AlignIO->newFh(-interleaved => 0,
+                                  -fh => \*STDOUT,
+                                  -format => 'clustalw',
+                                  -idlength => 20);

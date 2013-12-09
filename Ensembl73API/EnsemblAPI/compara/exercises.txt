@@ -1,0 +1,115 @@
+
+Workshops > Cambridge, Dec 2013 > Exercises
+
+ This workshop is related to the version 73 of the Ensembl (API / data)
+Members
+The members are used to handle external proteomic data. The GeneMember object encapsulates Ensembl core genes (ENSEMBLGENE), whereas SeqMember deals with Ensembl Core Translations (ENSEMBLPEP), Ensembl Core Transcripts (ENSEMBLTRANS) and UniProt Protein records (Uniprot/SWISSPROT and Uniprot/SPTREMBL).
+
+Print the sequence of the member corresponding to SwissProt protein O93279
+Create a script which gets the Bio::EnsEMBL::Compara::SeqMember for the SwissProt protein O93279 (← this is a stable ID !). Print its sequence.
+
+Hint: Use the fetch_by_source_stable_id() method from the Bio::EnsEMBL::Compara::DBSQL::SeqMemberAdaptor. The source in this case will be "Uniprot/SWISSPROT"
+
+Find and print the sequence of all the peptide members corresponding to the human protein-coding gene(s) FRAS1
+Create a script which gets the Bio::EnsEMBL::Compara::GeneMember for the human protein-coding gene(s) FRAS1. Print its attributes using the print_member() method. Get all the peptide members and print them as well. Print the sequence of these members.
+
+Hint: Get the FRAS1 gene from the human Ensembl Core database and get its stable id. Use the fetch_by_source_stable_id() method from the Bio::EnsEMBL::Compara::DBSQL::GeneMemberAdaptor. The source in this case will be "ENSEMBLGENE". Then, use the get_all_SeqMembers() method from the Bio::EnsEMBL::Compara::GeneMember module.
+
+Family
+A Family represents a cluster of closely related genes or proteins. Every family contains a set of members.
+
+Get the multiple alignment corresponding to the family with the stable id ENSFM00250000006121
+Create a script which gets the Bio::EnsEMBL::Compara::Family with the stable id ENSFM00250000006121 and print the underlying alignments.
+
+Hint: You may use the fetch_by_stable_id() method from the Bio::EnsEMBL::Compara::DBSQL::FamilyAdaptor. For the Bio::EnsEMBL::Compara::Family you find, use the description() and description_score() methods for getting an idea of the function of the gene in that family. You can also use the get_SimpleAlign() method in order to get the underlying alignment. In order to print the alignment, the best is to use the Bio::AlignIO module:
+
+my $simple_align = $this_family->get_SimpleAlign();
+my $alignIO = Bio::AlignIO->newFh(-format => 'clustalw');
+print $alignIO $simple_align;
+Get the families predicted for the human gene ENSG00000139618
+Create a script which gets the Bio::EnsEMBL::Compara::GeneMember for the human gene ENSG00000139618, fetches all the families for this gene and print the underlying lists of members.
+
+Hint: You may use the fetch_all_by_Member() method from the Bio::EnsEMBL::Compara::DBSQL::FamilyAdaptor. For every Bio::EnsEMBL::Compara::Family you find, use the description() and description_score() methods for getting an idea of the function of the gene in that family. You can also use the get_all_Members() method in order to get the underlying member objects (both genes and peptides). A gene might belong to several families through different transcripts.
+
+GeneTree
+Gene trees are built using the canonical transcript of each gene.
+
+Get the protein tree with the stable id ENSGT00390000003602
+Create a script which gets the Bio::EnsEMBL::Compara::GeneTree for the tree with the stable id ENSGT00390000003602. Use the newick_format(), the nhx_format(), or the print_tree() methods to display the tree.
+
+Print all the members of the tree containing the human ncRNA gene ENSG00000238344
+Create a script which gets the Bio::EnsEMBL::Compara::GeneMember for the human gene ENSG00000238344. Get the corresponding gene tree and print its leaves. In other words, you will print all the homologues of the human gene.
+
+Hint: Get the tree for this gene member by calling fetch_default_for_Member(). Use the get_all_Members() method to retrieve the list of all the leaves (members), and print their stable ID.
+
+Homology
+Homology objects represent both Orthologues and Paralogues predictions. Predictions are inferred from protein trees.
+
+Get all the predicted homologues for the human gene ENSG00000229314
+Create a script which gets the Bio::EnsEMBL::Compara::GeneMember for the human gene ENSG00000229314, fetches all the homologies for this gene and print the members for each of them.
+
+Hint: You may use the fetch_all_by_Member() method from the Bio::EnsEMBL::Compara::DBSQL::HomologyAdaptor. For every Bio::EnsEMBL::Compara::Homology you find, use the description() method for getting the type of homology and the get_all_GeneMembers() method in order to get the underlying GeneMember objects.
+
+Count the number of "one2one" homologues between human and mouse
+Create a script which retrieves and counts the Bio::EnsEMBL::Compara::Homology homologies with 'ortholog_one2one' as description, between human and mouse.
+
+Hint: You may use the fetch_all_by_MethodLinkSpeciesSet() method from the Bio::EnsEMBL::Compara::DBSQL::HomologyAdaptor. You will need a MethodLinkSpeciesSet object describing the desired combination of species and type of request (copy-paste the code below). For every Bio::EnsEMBL::Compara::Homology you find, use the description() method for getting the type of homology.
+
+my $mlss_adaptor = $reg->get_adaptor('Multi', 'compara', 'MethodLinkSpeciesSet');
+my $this_mlss = $mlss_adaptor->fetch_by_method_link_type_registry_aliases('ENSEMBL_ORTHOLOGUES', ['human', 'mouse']);
+Find the human orthologues of ENSMUSG00000004843 and ENSMUSG00000025746. For each homology, display the alignment and the dn value. Comment on the divergence
+Create a script which gets the Bio::EnsEMBL::Compara::GeneMember for the two mouse genes ENSMUSG00000004843 and ENSMUSG00000025746, fetches their orthologues in human and print the alignment as long as the dn value.
+
+Hint: You may use the fetch_all_by_Member_paired_species() method from the Bio::EnsEMBL::Compara::DBSQL::HomologyAdaptor. The species name shall be passed in a "compara way" (e.g. scientific name in lower case, with an underscore). For every Bio::EnsEMBL::Compara::Homology you find, use the print_homology() method for getting the general description of the homology and the dn() method in order to get the non-synonymous rate. The pairwise alignment is, again, returned by get_SimpleAlign().
+
+Extra exercise
+This exercise mixes concepts from all the gene-based resources
+
+Get the Compara member for the human gene SAFB
+fetch_all_by_external_name() returns an array of 1 element, here
+
+Get the (relevant) family for this gene
+Get the gene tree for this gene
+Compare the list of genes. Which are common / specific ?
+you can call get_all_GeneMembers() on any Bio::EnsEMBL::Compara::AlignedMemberSet
+
+Hint: You may use the following code to compare the contents of two AlignedMemberSet
+
+sub compare_family_tree {
+    my ($fam, $tree) = @_;
+
+    my $in_fam = 0;
+    my $in_tree = 0;
+    my $in_both = 0;
+
+    my %genes_in_family = ();
+    foreach my $gene (@{$fam->get_all_GeneMembers}) {
+        $genes_in_family{$gene->stable_id} = 1;
+    }
+    foreach my $gene (@{$tree->get_all_GeneMembers}) {
+        if (exists $genes_in_family{$gene->stable_id}) {
+            print $gene->stable_id." is in both the tree and the family\n";
+            delete $genes_in_family{$gene->stable_id};
+            $in_both++;
+        } else {
+            print $gene->stable_id." is only in the tree\n";
+            $in_tree++;
+        }
+    }
+    # The genes that are in the tree have been removed
+    # The remaining keys are thus specific to the family
+    foreach my $gene_stable_id (keys %genes_in_family) {
+        print $gene_stable_id." is only in the family\n";
+        $in_fam++;
+    }
+    print "Summary: $in_both in both, $in_fam in the family only, $in_tree in the tree only\n";
+}
+Get the SAFB subtree for the taxon Sarcopterygii, and compare the list of genes to the family
+You have to traverse the tree structure from the root node ($tree->root()); either recursively with children(), or iteratively (advised) with get_all_nodes(), until you find a node $node such as $node->taxon->name() eq 'Sarcopterygii'. You have to check that the sub-tree does contain SAFB (there can be another subtree of the same taxon in the gene tree). You can make an AlignedMemberSet object from a tree node simply by calling $node->get_AlignedMemberSet
+
+In this subtree, list the duplications, their taxon names, and their confidence scores
+You can use the same technique as above to traverse the tree. You can find the duplications by doing $node->node_type() eq 'duplication' and their confidence score with $node->duplication_confidence_score()
+
+Still in this subtree, list, for each non-human species, the closest orthologue
+You can get the percentage of identity of a gene that is part of an Homology this way: $gene->perc_id. In an Homology object that is fetched from a query gene, the query gene is always the first member, and the target gene the second.
+

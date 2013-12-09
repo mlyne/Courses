@@ -1,0 +1,8 @@
+# X:6161 is intergenic (so no results) 
+X       6161
+# 19:11624606 is in a gene but not exonic
+19      11624606
+# 19:11629984 is located in the start codon of a gene
+19      11629984
+# 19:11624619 is an example of a codon split between exons
+19      11624619

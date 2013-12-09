@@ -1,0 +1,27 @@
+For pan_troglodytes :
+Chromsome 1 contains 228333871 bp.
+Chromsome 10 contains 133524379 bp.
+Chromsome 11 contains 133121534 bp.
+Chromsome 12 contains 134246214 bp.
+Chromsome 13 contains 115123233 bp.
+Chromsome 14 contains 106544938 bp.
+Chromsome 15 contains 99548318 bp.
+Chromsome 16 contains 89983829 bp.
+Chromsome 17 contains 82630442 bp.
+Chromsome 18 contains 76611499 bp.
+Chromsome 19 contains 63644993 bp.
+Chromsome 20 contains 61729293 bp.
+Chromsome 21 contains 32799110 bp.
+Chromsome 22 contains 49737984 bp.
+Chromsome 2A contains 113622374 bp.
+Chromsome 2B contains 247518478 bp.
+Chromsome 3 contains 202329955 bp.
+Chromsome 4 contains 193495092 bp.
+Chromsome 5 contains 182651097 bp.
+Chromsome 6 contains 172623881 bp.
+Chromsome 7 contains 161824586 bp.
+Chromsome 8 contains 143986469 bp.
+Chromsome 9 contains 137840987 bp.
+Chromsome MT contains 16554 bp.
+Chromsome X contains 156848144 bp.
+Chromsome Y contains 26342871 bp.

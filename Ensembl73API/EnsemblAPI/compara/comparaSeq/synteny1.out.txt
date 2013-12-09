@@ -1,0 +1,86 @@
+bos_taurus: chromosome:UMD3.1:2:44869733:63727915:1
+sus_scrofa: chromosome:Sscrofa10.2:15:2:20585060:1
+
+bos_taurus: chromosome:UMD3.1:2:63727912:66739798:1
+sus_scrofa: chromosome:Sscrofa10.2:15:20587440:23646852:1
+
+bos_taurus: chromosome:UMD3.1:2:66690421:71574760:1
+sus_scrofa: chromosome:Sscrofa10.2:15:23653725:28589591:1
+
+bos_taurus: chromosome:UMD3.1:2:5016480:5415825:1
+sus_scrofa: chromosome:Sscrofa10.2:15:28714243:29059852:1
+
+bos_taurus: chromosome:UMD3.1:2:71584142:79602991:1
+sus_scrofa: chromosome:Sscrofa10.2:15:29229744:36995597:1
+
+bos_taurus: chromosome:UMD3.1:21:59847447:60418842:-1
+sus_scrofa: chromosome:Sscrofa10.2:15:37046349:37711800:1
+
+bos_taurus: chromosome:UMD3.1:27:125454:5320942:1
+sus_scrofa: chromosome:Sscrofa10.2:15:37811315:43321578:1
+
+bos_taurus: chromosome:UMD3.1:X:101150434:101361413:1
+sus_scrofa: chromosome:Sscrofa10.2:15:43472079:43577971:1
+
+bos_taurus: chromosome:UMD3.1:27:6241236:15348486:1
+sus_scrofa: chromosome:Sscrofa10.2:15:43920508:53943136:1
+
+bos_taurus: chromosome:UMD3.1:27:24253146:34629830:-1
+sus_scrofa: chromosome:Sscrofa10.2:15:53993603:63471795:1
+
+bos_taurus: chromosome:UMD3.1:2:409200:4836599:1
+sus_scrofa: chromosome:Sscrofa10.2:15:63774735:66461000:1
+
+bos_taurus: chromosome:UMD3.1:2:5456761:44038538:-1
+sus_scrofa: chromosome:Sscrofa10.2:15:66632034:106720184:1
+
+bos_taurus: chromosome:UMD3.1:2:79682129:108200598:1
+sus_scrofa: chromosome:Sscrofa10.2:15:106720494:134691633:1
+
+bos_taurus: chromosome:UMD3.1:2:112270410:112501335:-1
+sus_scrofa: chromosome:Sscrofa10.2:15:134742223:134999285:1
+
+bos_taurus: chromosome:UMD3.1:2:108416003:112270172:1
+sus_scrofa: chromosome:Sscrofa10.2:15:135058162:139059876:1
+
+bos_taurus: chromosome:UMD3.1:2:112705037:113379015:1
+sus_scrofa: chromosome:Sscrofa10.2:15:139063774:139630478:1
+
+bos_taurus: chromosome:UMD3.1:2:113220744:115753515:1
+sus_scrofa: chromosome:Sscrofa10.2:15:139634300:141944814:1
+
+bos_taurus: chromosome:UMD3.1:2:115702493:118370242:1
+sus_scrofa: chromosome:Sscrofa10.2:15:141995106:144603284:1
+
+bos_taurus: chromosome:UMD3.1:2:118775941:121037768:1
+sus_scrofa: chromosome:Sscrofa10.2:15:144670685:147062535:1
+
+bos_taurus: chromosome:UMD3.1:3:112995172:118799884:1
+sus_scrofa: chromosome:Sscrofa10.2:15:147062536:152666466:1
+
+bos_taurus: chromosome:UMD3.1:3:118931943:119236640:-1
+sus_scrofa: chromosome:Sscrofa10.2:15:152883961:153035692:1
+
+bos_taurus: chromosome:UMD3.1:23:17048836:17203629:-1
+sus_scrofa: chromosome:Sscrofa10.2:15:153116536:153255546:1
+
+bos_taurus: chromosome:UMD3.1:3:119014445:119974968:1
+sus_scrofa: chromosome:Sscrofa10.2:15:153315407:154195781:1
+
+bos_taurus: chromosome:UMD3.1:3:119947890:120194202:1
+sus_scrofa: chromosome:Sscrofa10.2:15:154209340:154375783:1
+
+bos_taurus: chromosome:UMD3.1:3:120694796:120931957:1
+sus_scrofa: chromosome:Sscrofa10.2:15:154902358:155103886:1
+
+bos_taurus: chromosome:UMD3.1:8:65833778:66031029:1
+sus_scrofa: chromosome:Sscrofa10.2:15:155194154:155323785:1
+
+bos_taurus: chromosome:UMD3.1:2:1435858:2357129:1
+sus_scrofa: chromosome:Sscrofa10.2:15:155841721:156634648:1
+
+bos_taurus: chromosome:UMD3.1:2:44103339:44932408:-1
+sus_scrofa: chromosome:Sscrofa10.2:15:156930947:157460852:1
+
+bos_taurus: chromosome:UMD3.1:3:120504933:120694390:1
+sus_scrofa: chromosome:Sscrofa10.2:15:157511730:157681621:1

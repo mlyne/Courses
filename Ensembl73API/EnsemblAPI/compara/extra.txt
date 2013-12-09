@@ -1,0 +1,566 @@
+ensembl ENSG00000160633: scaffold attachment factor B [Source:HGNC Symbol;Acc:10520]
+   ENSEMBLGENE ENSG00000160633(8033766)	19 : 5623046-5668489
+Family: SCAFFOLD ATTACHMENT FACTOR SAF (description score = 100)
+
+Tree: ENSGT00730000110777, 163 members
+ENSXETG00000008755 is in both the tree and the family
+ENSXMAG00000003458 is in both the tree and the family
+ENSMMUG00000022200 is only in the tree
+ENSMLUG00000000742 is only in the tree
+ENSCPOG00000026322 is in both the tree and the family
+ENSCHOG00000003208 is in both the tree and the family
+ENSCHOG00000001125 is only in the tree
+ENSFCAG00000011834 is in both the tree and the family
+ENSPCAG00000006475 is in both the tree and the family
+ENSNLEG00000013551 is in both the tree and the family
+ENSAPLG00000005780 is in both the tree and the family
+ENSMODG00000008794 is only in the tree
+ENSGACG00000011385 is in both the tree and the family
+ENSPPYG00000009427 is in both the tree and the family
+ENSAMEG00000004537 is only in the tree
+ENSECAG00000018659 is in both the tree and the family
+ENSACAG00000015120 is only in the tree
+ENSLAFG00000003840 is in both the tree and the family
+ENSCAFG00000018803 is in both the tree and the family
+ENSPMAG00000008206 is in both the tree and the family
+ENSACAG00000016928 is in both the tree and the family
+ENSNLEG00000011440 is only in the tree
+ENSMPUG00000004229 is only in the tree
+ENSMEUG00000015230 is only in the tree
+ENSPVAG00000004902 is in both the tree and the family
+ENSDORG00000016199 is in both the tree and the family
+ENSMGAG00000005313 is only in the tree
+ENSOGAG00000006855 is in both the tree and the family
+ENSMODG00000001236 is in both the tree and the family
+ENSPVAG00000015056 is only in the tree
+ENSCPOG00000011394 is in both the tree and the family
+ENSSSCG00000013523 is in both the tree and the family
+ENSONIG00000005838 is only in the tree
+ENSLACG00000018090 is in both the tree and the family
+ENSFALG00000013881 is in both the tree and the family
+ENSSSCG00000004590 is only in the tree
+ENSSTOG00000000584 is only in the tree
+ENSEEUG00000000580 is only in the tree
+ENSTTRG00000013585 is in both the tree and the family
+ENSPPYG00000006515 is only in the tree
+ENSMPUG00000006106 is in both the tree and the family
+ENSDARG00000052728 is only in the tree
+ENSOCUG00000014628 is in both the tree and the family
+ENSGALG00000001948 is in both the tree and the family
+ENSTGUG00000000489 is in both the tree and the family
+ENSG00000160633 is in both the tree and the family
+ENSTNIG00000003883 is in both the tree and the family
+ENSBTAG00000007875 is in both the tree and the family
+ENSSARG00000010156 is only in the tree
+ENSRNOG00000050543 is in both the tree and the family
+ENSTBEG00000013124 is in both the tree and the family
+ENSOGAG00000027769 is in both the tree and the family
+ENSMLUG00000001081 is in both the tree and the family
+ENSTSYG00000013581 is only in the tree
+ENSGGOG00000015093 is in both the tree and the family
+ENSRNOG00000049511 is in both the tree and the family
+ENSCAFG00000018814 is in both the tree and the family
+ENSCJAG00000020395 is only in the tree
+ENSETEG00000008003 is only in the tree
+ENSTSYG00000001851 is in both the tree and the family
+ENSAPLG00000013025 is only in the tree
+ENSCJAG00000017081 is in both the tree and the family
+ENSTNIG00000009334 is only in the tree
+ENSPTRG00000010334 is in both the tree and the family
+ENSMMUG00000017968 is in both the tree and the family
+ENSCJAG00000017205 is in both the tree and the family
+ENSECAG00000018978 is in both the tree and the family
+ENSOCUG00000003327 is only in the tree
+ENSLACG00000005234 is only in the tree
+ENSXMAG00000014466 is only in the tree
+ENSCPOG00000026109 is only in the tree
+ENSPSIG00000009367 is in both the tree and the family
+ENSOANG00000011319 is in both the tree and the family
+ENSGACG00000015814 is only in the tree
+ENSMODG00000001178 is in both the tree and the family
+ENSDARG00000020467 is in both the tree and the family
+ENSG00000130254 is in both the tree and the family
+ENSSARG00000000649 is in both the tree and the family
+ENSAPLG00000006355 is in both the tree and the family
+ENSLAFG00000003836 is in both the tree and the family
+ENSOPRG00000011523 is in both the tree and the family
+ENSTGUG00000000502 is in both the tree and the family
+ENSECAG00000011267 is only in the tree
+ENSSTOG00000002758 is in both the tree and the family
+ENSTNIG00000015470 is in both the tree and the family
+ENSPCAG00000006352 is in both the tree and the family
+ENSBTAG00000011319 is only in the tree
+ENSOGAG00000011297 is only in the tree
+ENSOCUG00000001592 is in both the tree and the family
+ENSMUSG00000032212 is only in the tree
+ENSTTRG00000005246 is only in the tree
+ENSOANG00000013644 is in both the tree and the family
+ENSMMUG00000017970 is in both the tree and the family
+ENSFCAG00000004826 is only in the tree
+ENSGALG00000013365 is in both the tree and the family
+ENSTGUG00000006017 is only in the tree
+ENSVPAG00000008606 is only in the tree
+ENSVPAG00000012043 is in both the tree and the family
+ENSDORG00000007463 is only in the tree
+ENSGMOG00000015455 is only in the tree
+ENSGALG00000004192 is only in the tree
+ENSPPYG00000009428 is in both the tree and the family
+ENSDNOG00000002975 is only in the tree
+ENSCAFG00000016586 is only in the tree
+ENSTTRG00000013588 is in both the tree and the family
+ENSMLUG00000001050 is in both the tree and the family
+ENSLAFG00000017922 is only in the tree
+ENSOPRG00000011561 is in both the tree and the family
+ENSRNOG00000013708 is only in the tree
+ENSFALG00000013882 is in both the tree and the family
+ENSGMOG00000014280 is in both the tree and the family
+ENSSHAG00000012703 is in both the tree and the family
+ENSPSIG00000005489 is only in the tree
+ENSAMEG00000012254 is in both the tree and the family
+ENSPTRG00000007121 is only in the tree
+ENSMODG00000020311 is only in the tree
+ENSPTRG00000010335 is in both the tree and the family
+ENSMUSG00000042625 is in both the tree and the family
+ENSMGAG00000001101 is in both the tree and the family
+ENSSHAG00000015395 is only in the tree
+ENSSSCG00000013522 is in both the tree and the family
+ENSETEG00000018679 is in both the tree and the family
+ENSOANG00000031579 is in both the tree and the family
+ENSOANG00000002184 is in both the tree and the family
+ENSG00000137776 is only in the tree
+ENSVPAG00000012041 is in both the tree and the family
+ENSGGOG00000015109 is in both the tree and the family
+ENSSARG00000010475 is in both the tree and the family
+ENSACAG00000016893 is in both the tree and the family
+ENSTRUG00000003567 is in both the tree and the family
+FBgn0039229 is only in the tree
+ENSTBEG00000012709 is in both the tree and the family
+ENSPCAG00000013482 is only in the tree
+ENSXETG00000010840 is only in the tree
+ENSDORG00000016200 is in both the tree and the family
+ENSMICG00000013069 is only in the tree
+ENSOANG00000012311 is only in the tree
+ENSMGAG00000001051 is in both the tree and the family
+ENSSSCG00000004592 is only in the tree
+ENSORLG00000008161 is only in the tree
+ENSORLG00000016989 is in both the tree and the family
+ENSBTAG00000035584 is in both the tree and the family
+ENSBTAG00000001790 is in both the tree and the family
+ENSFCAG00000011835 is in both the tree and the family
+ENSETEG00000016756 is in both the tree and the family
+ENSPVAG00000004913 is in both the tree and the family
+ENSPSIG00000011679 is in both the tree and the family
+ENSDNOG00000015746 is in both the tree and the family
+ENSSHAG00000012954 is in both the tree and the family
+ENSMPUG00000006123 is in both the tree and the family
+ENSTBEG00000000945 is only in the tree
+ENSCHOG00000010684 is in both the tree and the family
+ENSSTOG00000002783 is in both the tree and the family
+ENSMUSG00000071054 is in both the tree and the family
+ENSAMEG00000012146 is in both the tree and the family
+ENSTRUG00000017767 is only in the tree
+ENSMEUG00000002456 is in both the tree and the family
+ENSONIG00000002318 is in both the tree and the family
+ENSNLEG00000013514 is in both the tree and the family
+ENSGGOG00000015866 is only in the tree
+ENSMICG00000008739 is in both the tree and the family
+ENSMICG00000008711 is in both the tree and the family
+ENSFALG00000012285 is only in the tree
+ENSPSIG00000009357 is only in the family
+Summary: 104 in both, 1 in the family only, 59 in the tree only
+The subtree is: (B=28 T=Sarcopterygii 2772400 5,378)
+(B=28 T=Sarcopterygii 2772400 5,378)
+|----------(B=12 T=Tetrapoda 2772401 6,375)
+|          |--------(B=2 T=Amniota 2772402 7,372)
+|          |        |--(B=2 T=Sauria 2772662 8,61)
+|          |        |  |------(Dup SIS=100 B=46 T=Testudines + Archosauria group 2772664 9,54)
+|          |        |  |      |--(B=45 T=Testudines + Archosauria group 2772667 10,31)
+|          |        |  |      |  |------(B=0 T=Neognathae 2772670 11,28)
+|          |        |  |      |  |      |---(B=17 T=Neognathae 2772673 12,25)
+|          |        |  |      |  |      |   |---------(B=89 T=Phasianidae 2772675 13,18)
+|          |        |  |      |  |      |   |         |--(556660 14,15) gallus_gallus ENSGALG00000001948 SAFB2 28:1289385-1302977
+|          |        |  |      |  |      |   |         |-----------(556754 16,17) meleagris_gallopavo ENSMGAG00000001051  30:649165-663094
+|          |        |  |      |  |      |   |---------(B=100 T=Passeriformes 2772679 19,24)
+|          |        |  |      |  |      |             |--(556661 20,21) taeniopygia_guttata ENSTGUG00000000489  28:2615918-2631771
+|          |        |  |      |  |      |             |----(556651 22,23) ficedula_albicollis ENSFALG00000013881  JH603288.1:1584602-1599025
+|          |        |  |      |  |      |-------(556695 26,27) anas_platyrhynchos ENSAPLG00000006355  KB743098.1:247043-261708
+|          |        |  |      |  |----------(556763 29,30) pelodiscus_sinensis ENSPSIG00000011679  JH204952.1:231632-261761
+|          |        |  |      |------(B=61 T=Testudines + Archosauria group 2772684 32,53)
+|          |        |  |             |-------(B=94 T=Neognathae 2772687 33,50)
+|          |        |  |             |       |-(B=94 T=Neognathae 2772690 34,43)
+|          |        |  |             |       | |--------(B=100 T=Phasianidae 2772692 35,40)
+|          |        |  |             |       | |        |--(556711 36,37) gallus_gallus ENSGALG00000013365 SAFB2 28:1274595-1288936
+|          |        |  |             |       | |        |---(556735 38,39) meleagris_gallopavo ENSMGAG00000001101  30:668433-681412
+|          |        |  |             |       | |-----(556627 41,42) anas_platyrhynchos ENSAPLG00000005780  KB743098.1:228723-244714
+|          |        |  |             |       |---------(B=100 T=Passeriformes 2772698 44,49)
+|          |        |  |             |                 |--(556726 45,46) ficedula_albicollis ENSFALG00000013882  JH603288.1:1600472-1624065
+|          |        |  |             |                 |----(556698 47,48) taeniopygia_guttata ENSTGUG00000000502  28:2632159-2650097
+|          |        |  |             |----------(556688 51,52) pelodiscus_sinensis ENSPSIG00000009367  JH204952.1:181897-231795
+|          |        |  |------------------------------(Dup SIS=100 B=100 T=Anolis carolinensis 2772705 55,60)
+|          |        |                                 |-----------------------(556745 56,57) anolis_carolinensis ENSACAG00000016893  GL343717.1:6762-34210
+|          |        |                                 |------------------------------------(556637 58,59) anolis_carolinensis ENSACAG00000016928  GL343717.1:44007-85821
+|          |        |-------(DUP SIS=7 B=0 T=Mammalia 2772403 62,371)
+|          |                |---(B=0 T=Mammalia 2772406 63,360)
+|          |                |   |(Dup SIS=100 B=0 T=Ornithorhynchus anatinus 2772654 64,73)
+|          |                |   ||-------------------(Dup SIS=100 B=87 T=Ornithorhynchus anatinus 2772658 65,70)
+|          |                |   ||                   |------(556708 66,67) ornithorhynchus_anatinus ENSOANG00000013644  Contig22562:4402-11606
+|          |                |   ||                   |-------------(556689 68,69) ornithorhynchus_anatinus ENSOANG00000011319  Contig24672:1961-9769
+|          |                |   ||------------------(556739 71,72) ornithorhynchus_anatinus ENSOANG00000031579  Contig4812:23151-41214
+|          |                |   |-(B=0 T=Theria 2772407 74,359)
+|          |                |     |---------(B=80 T=Marsupialia 2772649 75,84)
+|          |                |     |         |--(B=80 T=Marsupialia 2772650 76,81)
+|          |                |     |         |  |---(556691 77,78) monodelphis_domestica ENSMODG00000001178  3:443004712-443045821
+|          |                |     |         |  |----(556728 79,80) sarcophilus_harrisii ENSSHAG00000012703  GL841412.1:1084569-1122822
+|          |                |     |         |---(556773 82,83) macropus_eugenii ENSMEUG00000002456  GeneScaffold_3975:10387-44359
+|          |                |     |-----------(DUP SIS=94 B=57 T=Eutheria 2772408 85,358)
+|          |                |                 |------------(B=8 T=Eutheria 2772464 86,227)
+|          |                |                 |            |-(B=0 T=Eutheria 2772475 87,216)
+|          |                |                 |            | |-(B=0 T=Eutheria 2772483 88,209)
+|          |                |                 |            | | |--(B=0 T=Euarchontoglires 2772552 89,158)
+|          |                |                 |            | | |  |--(B=22 T=Primates 2772556 90,127)
+|          |                |                 |            | | |  |  |-(B=22 T=Haplorrhini 2772560 91,120)
+|          |                |                 |            | | |  |  | |---(B=100 T=Simiiformes 2772566 92,117)
+|          |                |                 |            | | |  |  | |   |-(B=93 T=Catarrhini 2772570 93,114)
+|          |                |                 |            | | |  |  | |   | |-(B=77 T=Hominoidea 2772576 94,111)
+|          |                |                 |            | | |  |  | |   | | |-(B=82 T=Hominidae 2772580 95,108)
+|          |                |                 |            | | |  |  | |   | | | |-(B=94 T=Homininae 2772583 96,105)
+|          |                |                 |            | | |  |  | |   | | | | |-(B=97 T=Homininae 2772586 97,102)
+|          |                |                 |            | | |  |  | |   | | | | | |-(556662 98,99) homo_sapiens ENSG00000160633 SAFB 19:5623046-5668489
+|          |                |                 |            | | |  |  | |   | | | | | |-(556733 100,101) pan_troglodytes ENSPTRG00000010335 SAFB 19:5650880-5695727
+|          |                |                 |            | | |  |  | |   | | | | |-(556743 103,104) gorilla_gorilla ENSGGOG00000015109 SAFB 19:5777721-5823254
+|          |                |                 |            | | |  |  | |   | | | |-(556718 106,107) pongo_abelii ENSPPYG00000009428 SAFB 19:5638353-5683866
+|          |                |                 |            | | |  |  | |   | | |-(556626 109,110) nomascus_leucogenys ENSNLEG00000013551 SAFB GL397500.1:1140770-1189977
+|          |                |                 |            | | |  |  | |   | |-(556709 112,113) macaca_mulatta ENSMMUG00000017970 SAFB 19:5524267-5569644
+|          |                |                 |            | | |  |  | |   |---(556678 115,116) callithrix_jacchus ENSCJAG00000017081 SAFB 22:5347110-5391220
+|          |                |                 |            | | |  |  | |-------(556676 118,119) tarsius_syrichta ENSTSYG00000001851 SAFB GeneScaffold_5540:335-28473
+|          |                |                 |            | | |  |  |--(B=100 T=Strepsirrhini 2772604 121,126)
+|          |                |                 |            | | |  |     |----(556777 122,123) microcebus_murinus ENSMICG00000008739 SAFB GeneScaffold_1732:39164-136863
+|          |                |                 |            | | |  |     |------(556668 124,125) otolemur_garnettii ENSOGAG00000027769 SAFB GL873607.1:153021-195410
+|          |                |                 |            | | |  |--(B=0 T=Euarchontoglires 2772611 128,157)
+|          |                |                 |            | | |     |---(B=6 T=Glires 2772618 129,154)
+|          |                |                 |            | | |     |   |-(B=2 T=Rodentia 2772632 130,147)
+|          |                |                 |            | | |     |   | |-(B=3 T=Sciurognathi 2772637 131,144)
+|          |                |                 |            | | |     |   | | |--(B=24 T=Sciurognathi 2772641 132,141)
+|          |                |                 |            | | |     |   | | |  |-------------(B=100 T=Murinae 2772644 133,138)
+|          |                |                 |            | | |     |   | | |  |             |---(556770 134,135) mus_musculus ENSMUSG00000071054 Safb 17:56584825-56606294
+|          |                |                 |            | | |     |   | | |  |             |----(556666 136,137) rattus_norvegicus ENSRNOG00000050543 Safb 9:9447353-9467936
+|          |                |                 |            | | |     |   | | |  |--------(556751 139,140) dipodomys_ordii ENSDORG00000016200 Safb GeneScaffold_2629:25746-60640
+|          |                |                 |            | | |     |   | | |------(556769 142,143) ictidomys_tridecemlineatus ENSSTOG00000002783 SAFB JH393398.1:3225752-3253508
+|          |                |                 |            | | |     |   | |--------------(556621 145,146) cavia_porcellus ENSCPOG00000026322 SAFB scaffold_334:43274-69381
+|          |                |                 |            | | |     |   |------(B=89 T=Lagomorpha 2772622 148,153)
+|          |                |                 |            | | |     |          |----------(556724 149,150) ochotona_princeps ENSOPRG00000011561 SAFB GeneScaffold_1927:24646-44539
+|          |                |                 |            | | |     |          |--------------(556659 151,152) oryctolagus_cuniculus ENSOCUG00000014628 SAFB GL019306:53788-72086
+|          |                |                 |            | | |     |-------(556667 155,156) tupaia_belangeri ENSTBEG00000013124 SAFB GeneScaffold_3636:3381-30743
+|          |                |                 |            | | |---(B=1 T=Laurasiatheria 2772486 159,208)
+|          |                |                 |            | |     |-(B=2 T=Laurasiatheria 2772515 160,185)
+|          |                |                 |            | |     | |-(B=6 T=Laurasiatheria 2772539 161,170)
+|          |                |                 |            | |     | | |--(B=100 T=Chiroptera 2772543 162,167)
+|          |                |                 |            | |     | | |  |---(556762 163,164) pteropus_vampyrus ENSPVAG00000004913 SAFB GeneScaffold_1423:25846-58939
+|          |                |                 |            | |     | | |  |-----(556669 165,166) myotis_lucifugus ENSMLUG00000001081 SAFB GL430108:293158-329310
+|          |                |                 |            | |     | | |----------------(556744 168,169) sorex_araneus ENSSARG00000010475 SAFB GeneScaffold_4714:11132-33904
+|          |                |                 |            | |     | |--(B=93 T=Carnivora 2772520 171,184)
+|          |                |                 |            | |     |    |-(B=31 T=Caniformia 2772525 172,181)
+|          |                |                 |            | |     |    | |-(B=34 T=Caniformia 2772529 173,178)
+|          |                |                 |            | |     |    | | |--(556730 174,175) ailuropoda_melanoleuca ENSAMEG00000012254 SAFB GL193677.1:394887-430110
+|          |                |                 |            | |     |    | | |-----(556766 176,177) mustela_putorius_furo ENSMPUG00000006123 SAFB GL897062.1:1903724-1943740
+|          |                |                 |            | |     |    | |---(556635 179,180) canis_familiaris ENSCAFG00000018803 SAFB 20:54345210-54381973
+|          |                |                 |            | |     |    |----(556760 182,183) felis_catus ENSFCAG00000011835 SAFB A2:4081684-4115627
+|          |                |                 |            | |     |-(B=6 T=Laurasiatheria 2772488 186,207)
+|          |                |                 |            | |       |--(B=36 T=Cetartiodactyla 2772490 187,204)
+|          |                |                 |            | |       |  |-(B=32 T=Cetartiodactyla 2772493 188,201)
+|          |                |                 |            | |       |  | |--(B=78 T=Cetartiodactyla 2772498 189,198)
+|          |                |                 |            | |       |  | |  |-----(Dup SIS=100 B=100 T=Bos taurus 2772501 190,195)
+|          |                |                 |            | |       |  | |  |     |----(556664 191,192) bos_taurus ENSBTAG00000007875 BT.106000 7:19846208-19876661
+|          |                |                 |            | |       |  | |  |     |------(556758 193,194) bos_taurus ENSBTAG00000035584 BT.104452 7:19877380-19908016
+|          |                |                 |            | |       |  | |  |---(556721 196,197) tursiops_truncatus ENSTTRG00000013588 SAFB GeneScaffold_1223:60737-96026
+|          |                |                 |            | |       |  | |---(556714 199,200) vicugna_pacos ENSVPAG00000012043 SAFB GeneScaffold_1291:85867-120154
+|          |                |                 |            | |       |  |----(556737 202,203) sus_scrofa ENSSSCG00000013522 SAFB 2:73822610-73904874
+|          |                |                 |            | |       |------------(556632 205,206) equus_caballus ENSECAG00000018659 SAFB 7:3421022-3449475
+|          |                |                 |            | |--(B=97 T=Xenarthra 2772478 210,215)
+|          |                |                 |            |    |----(556622 211,212) choloepus_hoffmanni ENSCHOG00000003208 SAFB GeneScaffold_5287:1068-27282
+|          |                |                 |            |    |-------(556764 213,214) dasypus_novemcinctus ENSDNOG00000015746 SAFB GeneScaffold_4788:4444-20816
+|          |                |                 |            |---(B=38 T=Afrotheria 2772467 217,226)
+|          |                |                 |                |--(B=100 T=Afrotheria 2772470 218,223)
+|          |                |                 |                |  |---(556634 219,220) loxodonta_africana ENSLAFG00000003840 SAFB scaffold_119:1737637-1771624
+|          |                |                 |                |  |----(556625 221,222) procavia_capensis ENSPCAG00000006475 SAFB GeneScaffold_2931:41034-74209
+|          |                |                 |                |----------------(556738 224,225) echinops_telfairi ENSETEG00000018679 SAFB GeneScaffold_5647:594-14934
+|          |                |                 |-------------(B=1 T=Eutheria 2772409 228,357)
+|          |                |                               |-(B=21 T=Eutheria 2772450 229,242)
+|          |                |                               | |----(B=64 T=Afrotheria 2772455 230,239)
+|          |                |                               | |    |---(B=100 T=Afrotheria 2772458 231,236)
+|          |                |                               | |    |   |----(556696 232,233) loxodonta_africana ENSLAFG00000003836 SAFB2 scaffold_119:1772381-1808812
+|          |                |                               | |    |   |-------(556702 234,235) procavia_capensis ENSPCAG00000006352 SAFB2 GeneScaffold_2931:6922-40552
+|          |                |                               | |    |-----------------(556761 237,238) echinops_telfairi ENSETEG00000016756 SAFB2 GeneScaffold_5648:5823-25150
+|          |                |                               | |---------(556768 240,241) choloepus_hoffmanni ENSCHOG00000010684 SAFB2 GeneScaffold_3122:2899-23132
+|          |                |                               |--(B=0 T=Eutheria 2772410 243,356)
+|          |                |                                  |--(B=0 T=Euarchontoglires 2772422 244,309)
+|          |                |                                  |  |--(B=0 T=Euarchontoglires 2772443 245,274)
+|          |                |                                  |  |  |----(B=0 T=Glires 2772444 246,271)
+|          |                |                                  |  |  |    |-(B=1 T=Rodentia 2772446 247,264)
+|          |                |                                  |  |  |    | |--(B=1 T=Sciurognathi 2772447 248,261)
+|          |                |                                  |  |  |    | |  |---(B=9 T=Sciurognathi 2772448 249,258)
+|          |                |                                  |  |  |    | |  |   |--------------------(B=100 T=Murinae 2772449 250,255)
+|          |                |                                  |  |  |    | |  |   |                    |-----(556734 251,252) mus_musculus ENSMUSG00000042625 Safb2 17:56560965-56584585
+|          |                |                                  |  |  |    | |  |   |                    |------(556672 253,254) rattus_norvegicus ENSRNOG00000049511 Safb2 9:9476267-9489685
+|          |                |                                  |  |  |    | |  |   |--------------(556642 256,257) dipodomys_ordii ENSDORG00000016199 Safb2 GeneScaffold_2629:3021-25181
+|          |                |                                  |  |  |    | |  |-------(556700 259,260) ictidomys_tridecemlineatus ENSSTOG00000002758 SAFB2 JH393398.1:3190856-3222466
+|          |                |                                  |  |  |    | |------------------------(556647 262,263) cavia_porcellus ENSCPOG00000011394 SAFB2 scaffold_334:69855-91782
+|          |                |                                  |  |  |    |--------(B=93 T=Lagomorpha 2772445 265,270)
+|          |                |                                  |  |  |             |-----------(556697 266,267) ochotona_princeps ENSOPRG00000011523 SAFB2 GeneScaffold_1927:814-21645
+|          |                |                                  |  |  |             |------------(556705 268,269) oryctolagus_cuniculus ENSOCUG00000001592 SAFB2 GL019306:89409-97997
+|          |                |                                  |  |  |-----------(556748 272,273) tupaia_belangeri ENSTBEG00000012709 SAFB2 GeneScaffold_2168:3503-33268
+|          |                |                                  |  |--(B=86 T=Primates 2772424 275,308)
+|          |                |                                  |     |---(B=91 T=Strepsirrhini 2772426 276,281)
+|          |                |                                  |     |   |------(556778 277,278) microcebus_murinus ENSMICG00000008711 SAFB2 GeneScaffold_1732:5459-38693
+|          |                |                                  |     |   |-------(556644 279,280) otolemur_garnettii ENSOGAG00000006855 SAFB2 GL873607.1:116722-152600
+|          |                |                                  |     |----(B=95 T=Simiiformes 2772429 282,307)
+|          |                |                                  |          |-(B=100 T=Catarrhini 2772431 283,304)
+|          |                |                                  |          | |-(B=41 T=Hominoidea 2772433 284,301)
+|          |                |                                  |          | | |-(B=41 T=Hominidae 2772435 285,298)
+|          |                |                                  |          | | | |-(B=100 T=Homininae 2772438 286,295)
+|          |                |                                  |          | | | | |-(B=100 T=Homininae 2772440 287,292)
+|          |                |                                  |          | | | | | |-(556680 288,289) pan_troglodytes ENSPTRG00000010334 SAFB2 19:5614617-5650668
+|          |                |                                  |          | | | | | |-(556693 290,291) homo_sapiens ENSG00000130254 SAFB2 19:5587010-5624057
+|          |                |                                  |          | | | | |-(556671 293,294) gorilla_gorilla ENSGGOG00000015093 SAFB2 19:5736018-5777297
+|          |                |                                  |          | | | |--(556630 296,297) pongo_abelii ENSPPYG00000009427 SAFB2 19:5602142-5637976
+|          |                |                                  |          | | |-(556775 299,300) nomascus_leucogenys ENSNLEG00000013514 SAFB2 GL397500.1:1103897-1140653
+|          |                |                                  |          | |--(556681 302,303) macaca_mulatta ENSMMUG00000017968 SAFB2 19:5487587-5523901
+|          |                |                                  |          |-------------(556682 305,306) callithrix_jacchus ENSCJAG00000017205 SAFB2 22:5310758-5346746
+|          |                |                                  |---(B=0 T=Laurasiatheria 2772411 310,355)
+|          |                |                                      |--(B=10 T=Laurasiatheria 2772412 311,348)
+|          |                |                                      |  |-(B=6 T=Laurasiatheria 2772416 312,333)
+|          |                |                                      |  | |--(B=26 T=Cetartiodactyla 2772417 313,326)
+|          |                |                                      |  | |  |-(B=56 T=Cetartiodactyla 2772418 314,323)
+|          |                |                                      |  | |  | |--(B=98 T=Cetartiodactyla 2772419 315,320)
+|          |                |                                      |  | |  | |  |-----(556655 316,317) tursiops_truncatus ENSTTRG00000013585 SAFB2 GeneScaffold_1223:26528-60226
+|          |                |                                      |  | |  | |  |------(556759 318,319) bos_taurus ENSBTAG00000001790 SAFB2 7:19908341-19936959
+|          |                |                                      |  | |  | |------------(556648 321,322) sus_scrofa ENSSSCG00000013523 SAFB2 2:73905290-73939737
+|          |                |                                      |  | |  |-----(556742 324,325) vicugna_pacos ENSVPAG00000012041 SAFB2 GeneScaffold_1291:854-82657
+|          |                |                                      |  | |---(B=99 T=Chiroptera 2772420 327,332)
+|          |                |                                      |  |     |------(556641 328,329) pteropus_vampyrus ENSPVAG00000004902 SAFB2 GeneScaffold_1423:1045-25364
+|          |                |                                      |  |     |------(556722 330,331) myotis_lucifugus ENSMLUG00000001050 SAFB2 GL430108:250316-292697
+|          |                |                                      |  |---(B=100 T=Carnivora 2772413 334,347)
+|          |                |                                      |      |-(B=27 T=Caniformia 2772414 335,344)
+|          |                |                                      |      | |-(B=27 T=Caniformia 2772415 336,341)
+|          |                |                                      |      | | |----(556771 337,338) ailuropoda_melanoleuca ENSAMEG00000012146 SAFB2 GL193677.1:362840-394404
+|          |                |                                      |      | | |-----(556657 339,340) mustela_putorius_furo ENSMPUG00000006106 SAFB2 GL897062.1:1868433-1904438
+|          |                |                                      |      | |----(556673 342,343) canis_familiaris ENSCAFG00000018814 SAFB2 20:54381432-54414858
+|          |                |                                      |      |----(556624 345,346) felis_catus ENSFCAG00000011834 SAFB2 A2:4045579-4078566
+|          |                |                                      |---(B=5 T=Laurasiatheria 2772421 349,354)
+|          |                |                                          |---------------(556683 350,351) equus_caballus ENSECAG00000018978 SAFB2 7:3388372-3417920
+|          |                |                                          |-----------------(556694 352,353) sorex_araneus ENSSARG00000000649 SAFB2 GeneScaffold_4715:3851-27782
+|          |                |---(B=3 T=Mammalia 2772404 361,370)
+|          |                    |-------------(B=100 T=Marsupialia 2772405 362,367)
+|          |                    |             |--(556645 363,364) monodelphis_domestica ENSMODG00000001236  3:443046366-443082565
+|          |                    |             |-----(556765 365,366) sarcophilus_harrisii ENSSHAG00000012954  GL841412.1:1136680-1162146
+|          |                    |------------------(556740 368,369) ornithorhynchus_anatinus ENSOANG00000002184  Contig9644:16200-25167
+|          |-----------------------------------------------(556617 373,374) xenopus_tropicalis ENSXETG00000008755 safb GL172748.1:199511-221632
+|----------------------------(556650 376,377) latimeria_chalumnae ENSLACG00000018090 safb JH126613.1:2714387-2741960
+ENSXETG00000008755 is in both the tree and the family
+ENSCPOG00000026322 is in both the tree and the family
+ENSCHOG00000003208 is in both the tree and the family
+ENSFCAG00000011834 is in both the tree and the family
+ENSPCAG00000006475 is in both the tree and the family
+ENSNLEG00000013551 is in both the tree and the family
+ENSAPLG00000005780 is in both the tree and the family
+ENSPPYG00000009427 is in both the tree and the family
+ENSECAG00000018659 is in both the tree and the family
+ENSLAFG00000003840 is in both the tree and the family
+ENSCAFG00000018803 is in both the tree and the family
+ENSACAG00000016928 is in both the tree and the family
+ENSPVAG00000004902 is in both the tree and the family
+ENSDORG00000016199 is in both the tree and the family
+ENSOGAG00000006855 is in both the tree and the family
+ENSMODG00000001236 is in both the tree and the family
+ENSCPOG00000011394 is in both the tree and the family
+ENSSSCG00000013523 is in both the tree and the family
+ENSLACG00000018090 is in both the tree and the family
+ENSFALG00000013881 is in both the tree and the family
+ENSTTRG00000013585 is in both the tree and the family
+ENSMPUG00000006106 is in both the tree and the family
+ENSOCUG00000014628 is in both the tree and the family
+ENSGALG00000001948 is in both the tree and the family
+ENSTGUG00000000489 is in both the tree and the family
+ENSG00000160633 is in both the tree and the family
+ENSBTAG00000007875 is in both the tree and the family
+ENSRNOG00000050543 is in both the tree and the family
+ENSTBEG00000013124 is in both the tree and the family
+ENSOGAG00000027769 is in both the tree and the family
+ENSMLUG00000001081 is in both the tree and the family
+ENSGGOG00000015093 is in both the tree and the family
+ENSRNOG00000049511 is in both the tree and the family
+ENSCAFG00000018814 is in both the tree and the family
+ENSTSYG00000001851 is in both the tree and the family
+ENSCJAG00000017081 is in both the tree and the family
+ENSPTRG00000010334 is in both the tree and the family
+ENSMMUG00000017968 is in both the tree and the family
+ENSCJAG00000017205 is in both the tree and the family
+ENSECAG00000018978 is in both the tree and the family
+ENSPSIG00000009367 is in both the tree and the family
+ENSOANG00000011319 is in both the tree and the family
+ENSMODG00000001178 is in both the tree and the family
+ENSG00000130254 is in both the tree and the family
+ENSSARG00000000649 is in both the tree and the family
+ENSAPLG00000006355 is in both the tree and the family
+ENSLAFG00000003836 is in both the tree and the family
+ENSOPRG00000011523 is in both the tree and the family
+ENSTGUG00000000502 is in both the tree and the family
+ENSSTOG00000002758 is in both the tree and the family
+ENSPCAG00000006352 is in both the tree and the family
+ENSOCUG00000001592 is in both the tree and the family
+ENSOANG00000013644 is in both the tree and the family
+ENSMMUG00000017970 is in both the tree and the family
+ENSGALG00000013365 is in both the tree and the family
+ENSVPAG00000012043 is in both the tree and the family
+ENSPPYG00000009428 is in both the tree and the family
+ENSTTRG00000013588 is in both the tree and the family
+ENSMLUG00000001050 is in both the tree and the family
+ENSOPRG00000011561 is in both the tree and the family
+ENSFALG00000013882 is in both the tree and the family
+ENSSHAG00000012703 is in both the tree and the family
+ENSAMEG00000012254 is in both the tree and the family
+ENSPTRG00000010335 is in both the tree and the family
+ENSMUSG00000042625 is in both the tree and the family
+ENSMGAG00000001101 is in both the tree and the family
+ENSSSCG00000013522 is in both the tree and the family
+ENSETEG00000018679 is in both the tree and the family
+ENSOANG00000031579 is in both the tree and the family
+ENSOANG00000002184 is in both the tree and the family
+ENSVPAG00000012041 is in both the tree and the family
+ENSGGOG00000015109 is in both the tree and the family
+ENSSARG00000010475 is in both the tree and the family
+ENSACAG00000016893 is in both the tree and the family
+ENSTBEG00000012709 is in both the tree and the family
+ENSDORG00000016200 is in both the tree and the family
+ENSMGAG00000001051 is in both the tree and the family
+ENSBTAG00000035584 is in both the tree and the family
+ENSBTAG00000001790 is in both the tree and the family
+ENSFCAG00000011835 is in both the tree and the family
+ENSETEG00000016756 is in both the tree and the family
+ENSPVAG00000004913 is in both the tree and the family
+ENSPSIG00000011679 is in both the tree and the family
+ENSDNOG00000015746 is in both the tree and the family
+ENSSHAG00000012954 is in both the tree and the family
+ENSMPUG00000006123 is in both the tree and the family
+ENSCHOG00000010684 is in both the tree and the family
+ENSSTOG00000002783 is in both the tree and the family
+ENSMUSG00000071054 is in both the tree and the family
+ENSAMEG00000012146 is in both the tree and the family
+ENSMEUG00000002456 is in both the tree and the family
+ENSNLEG00000013514 is in both the tree and the family
+ENSMICG00000008739 is in both the tree and the family
+ENSMICG00000008711 is in both the tree and the family
+ENSXMAG00000003458 is only in the family
+ENSPSIG00000009357 is only in the family
+ENSORLG00000016989 is only in the family
+ENSDARG00000020467 is only in the family
+ENSONIG00000002318 is only in the family
+ENSPMAG00000008206 is only in the family
+ENSGMOG00000014280 is only in the family
+ENSTNIG00000015470 is only in the family
+ENSTRUG00000003567 is only in the family
+ENSTNIG00000003883 is only in the family
+ENSGACG00000011385 is only in the family
+Summary: 94 in both, 11 in the family only, 0 in the tree only
+Found a duplication at Anolis carolinensis with a score of 1.0000
+Found a duplication at Testudines + Archosauria group with a score of 1.0000
+Found a duplication at Mammalia with a score of 0.0769
+Found a duplication at Eutheria with a score of 0.9429
+Found a duplication at Bos taurus with a score of 1.0000
+Found a duplication at Ornithorhynchus anatinus with a score of 1.0000
+Found a duplication at Ornithorhynchus anatinus with a score of 1.0000
+Otolemur garnettii: 1 orthologues
+ > The closest has 93 % of identity, and is:    ENSEMBLPEP ENSOGAP00000016192(4625869)	GL873607.1 : 153087-195410
+Sarcophilus harrisii: 1 orthologues
+ > The closest has 68 % of identity, and is:    ENSEMBLPEP ENSSHAP00000014889(4574814)	GL841412.1 : 1085128-1122822
+Homo sapiens: 0 orthologues
+Ochotona princeps: 1 orthologues
+ > The closest has 86 % of identity, and is:    ENSEMBLPEP ENSOPRP00000010553(7634103)	GeneScaffold_1927 : 24646-44539
+Ficedula albicollis: 2 orthologues
+ > The closest has 62 % of identity, and is:    ENSEMBLPEP ENSFALP00000014484(7869669)	JH603288.1 : 1584990-1598677
+Oryctolagus cuniculus: 1 orthologues
+ > The closest has 82 % of identity, and is:    ENSEMBLPEP ENSOCUP00000012583(7763527)	GL019306 : 54411-72086
+Echinops telfairi: 1 orthologues
+ > The closest has 69 % of identity, and is:    ENSEMBLPEP ENSETEP00000015179(7757710)	GeneScaffold_5647 : 594-14934
+Ornithorhynchus anatinus: 3 orthologues
+ > The closest has 71 % of identity, and is:    ENSEMBLPEP ENSOANP00000031317(5937609)	Contig4812 : 23406-41192
+Callithrix jacchus: 1 orthologues
+ > The closest has 98 % of identity, and is:    ENSEMBLPEP ENSCJAP00000031635(3908821)	22 : 5347182-5391044
+Mustela putorius furo: 1 orthologues
+ > The closest has 87 % of identity, and is:    ENSEMBLPEP ENSMPUP00000006072(6332157)	GL897062.1 : 1903724-1940451
+Microcebus murinus: 1 orthologues
+ > The closest has 92 % of identity, and is:    ENSEMBLPEP ENSMICP00000007968(1702028)	GeneScaffold_1732 : 39164-136863
+Gallus gallus: 2 orthologues
+ > The closest has 65 % of identity, and is:    ENSEMBLPEP ENSGALP00000021769(7119812)	28 : 1274595-1288936
+Sorex araneus: 1 orthologues
+ > The closest has 86 % of identity, and is:    ENSEMBLPEP ENSSARP00000009494(1740547)	GeneScaffold_4714 : 11132-33904
+Ailuropoda melanoleuca: 1 orthologues
+ > The closest has 93 % of identity, and is:    ENSEMBLPEP ENSAMEP00000012958(4825388)	GL193677.1 : 394887-430110
+Macropus eugenii: 1 orthologues
+ > The closest has 68 % of identity, and is:    ENSEMBLPEP ENSMEUP00000002246(2043009)	GeneScaffold_3975 : 10387-44359
+Canis lupus familiaris: 1 orthologues
+ > The closest has 81 % of identity, and is:    ENSEMBLPEP ENSCAFP00000027747(5801927)	20 : 54346353-54381363
+Tursiops truncatus: 1 orthologues
+ > The closest has 85 % of identity, and is:    ENSEMBLPEP ENSTTRP00000012895(7547229)	GeneScaffold_1223 : 60737-96026
+Rattus norvegicus: 1 orthologues
+ > The closest has 84 % of identity, and is:    ENSEMBLPEP ENSRNOP00000066884(6792827)	9 : 9447353-9467936
+Sus scrofa: 1 orthologues
+ > The closest has 93 % of identity, and is:    ENSEMBLPEP ENSSSCP00000014369(6326917)	2 : 73822785-73904874
+Myotis lucifugus: 1 orthologues
+ > The closest has 91 % of identity, and is:    ENSEMBLPEP ENSMLUP00000000998(3772841)	GL430108 : 293158-329310
+Choloepus hoffmanni: 1 orthologues
+ > The closest has 78 % of identity, and is:    ENSEMBLPEP ENSCHOP00000002848(1958221)	GeneScaffold_5287 : 1068-27282
+Bos taurus: 2 orthologues
+ > The closest has 89 % of identity, and is:    ENSEMBLPEP ENSBTAP00000002344(4083933)	7 : 19846208-19876537
+Mus musculus: 1 orthologues
+ > The closest has 84 % of identity, and is:    ENSEMBLPEP ENSMUSP00000092849(7508411)	17 : 56585162-56606105
+Ictidomys tridecemlineatus: 1 orthologues
+ > The closest has 90 % of identity, and is:    ENSEMBLPEP ENSSTOP00000002498(5671593)	JH393398.1 : 3225752-3253508
+Pelodiscus sinensis: 2 orthologues
+ > The closest has 62 % of identity, and is:    ENSEMBLPEP ENSPSIP00000013115(5772562)	JH204952.1 : 231632-258986
+Gorilla gorilla gorilla: 1 orthologues
+ > The closest has 99 % of identity, and is:    ENSEMBLPEP ENSGGOP00000014751(4734972)	19 : 5777788-5823080
+Macaca mulatta: 1 orthologues
+ > The closest has 99 % of identity, and is:    ENSEMBLPEP ENSMMUP00000023627(1556063)	19 : 5524355-5569453
+Tarsius syrichta: 1 orthologues
+ > The closest has 81 % of identity, and is:    ENSEMBLPEP ENSTSYP00000001724(7738262)	GeneScaffold_5540 : 335-28473
+Xenopus tropicalis: 1 orthologues
+ > The closest has 53 % of identity, and is:    ENSEMBLPEP ENSXETP00000059505(7239446)	GL172748.1 : 199527-221632
+Pongo abelii: 1 orthologues
+ > The closest has 100 % of identity, and is:    ENSEMBLPEP ENSPPYP00000010573(5973471)	19 : 5638460-5683684
+Anolis carolinensis: 2 orthologues
+ > The closest has 48 % of identity, and is:    ENSEMBLPEP ENSACAP00000016662(6947057)	GL343717.1 : 44007-85821
+Taeniopygia guttata: 2 orthologues
+ > The closest has 64 % of identity, and is:    ENSEMBLPEP ENSTGUP00000000509(5451114)	28 : 2617475-2631771
+Felis catus: 1 orthologues
+ > The closest has 92 % of identity, and is:    ENSEMBLPEP ENSFCAP00000010981(6480760)	A2 : 4081684-4115426
+Latimeria chalumnae: 1 orthologues
+ > The closest has 54 % of identity, and is:    ENSEMBLPEP ENSLACP00000020584(6524542)	JH126613.1 : 2715867-2741792
+Procavia capensis: 1 orthologues
+ > The closest has 87 % of identity, and is:    ENSEMBLPEP ENSPCAP00000006081(7493407)	GeneScaffold_2931 : 41034-74209
+Loxodonta africana: 1 orthologues
+ > The closest has 91 % of identity, and is:    ENSEMBLPEP ENSLAFP00000003213(4779968)	scaffold_119 : 1737637-1771624
+Dipodomys ordii: 1 orthologues
+ > The closest has 88 % of identity, and is:    ENSEMBLPEP ENSDORP00000015241(1950934)	GeneScaffold_2629 : 25746-60640
+Equus caballus: 1 orthologues
+ > The closest has 90 % of identity, and is:    ENSEMBLPEP ENSECAP00000016508(6503517)	7 : 3421022-3449475
+Nomascus leucogenys: 1 orthologues
+ > The closest has 100 % of identity, and is:    ENSEMBLPEP ENSNLEP00000016542(6807809)	GL397500.1 : 1140964-1189695
+Cavia porcellus: 1 orthologues
+ > The closest has 84 % of identity, and is:    ENSEMBLPEP ENSCPOP00000017908(431894)	scaffold_334 : 43274-69381
+Vicugna pacos: 1 orthologues
+ > The closest has 69 % of identity, and is:    ENSEMBLPEP ENSVPAP00000011207(7505799)	GeneScaffold_1291 : 85867-120154
+Pan troglodytes: 1 orthologues
+ > The closest has 100 % of identity, and is:    ENSEMBLPEP ENSPTRP00000017578(6754135)	19 : 5650947-5695542
+Meleagris gallopavo: 2 orthologues
+ > The closest has 64 % of identity, and is:    ENSEMBLPEP ENSMGAP00000000541(6113959)	30 : 668433-681412
+Monodelphis domestica: 1 orthologues
+ > The closest has 70 % of identity, and is:    ENSEMBLPEP ENSMODP00000001412(5974763)	3 : 443006807-443045821
+Anas platyrhynchos: 2 orthologues
+ > The closest has 66 % of identity, and is:    ENSEMBLPEP ENSAPLP00000005409(7830960)	KB743098.1 : 228957-244714
+Tupaia belangeri: 1 orthologues
+ > The closest has 51 % of identity, and is:    ENSEMBLPEP ENSTBEP00000011387(7591039)	GeneScaffold_3636 : 3381-30743
+Dasypus novemcinctus: 1 orthologues
+ > The closest has 80 % of identity, and is:    ENSEMBLPEP ENSDNOP00000012214(1919328)	GeneScaffold_4788 : 4444-20816
+Pteropus vampyrus: 1 orthologues
+ > The closest has 84 % of identity, and is:    ENSEMBLPEP ENSPVAP00000004650(739102)	GeneScaffold_1423 : 25846-58939

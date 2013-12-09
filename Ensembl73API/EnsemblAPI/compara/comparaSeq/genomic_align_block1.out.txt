@@ -1,0 +1,438 @@
+CLUSTAL W(1.81) multiple sequence alignment
+
+
+sus_scrofa/15/105734307-105739335 tctcatgagcacccacagcgatctactaccatggctggaattttcccatatattatttgt
+bos_taurus/2/6213582-6218691      cctcatgaacacccacagcgatctactaccatggctggaatcttcccgtatattatttgt
+                                   ******* ******************************** ***** ************
+
+
+sus_scrofa/15/105734307-105739335 tctttgccattaaaatatagcatattgattggagacatctttgtgggagtacagcagggg
+bos_taurus/2/6213582-6218691      ccttcgccattaaaatatagcatattaattggagacatctttgtaggagtacagcagggg
+                                   *** ********************* ***************** ***************
+
+
+sus_scrofa/15/105734307-105739335 cctgctgaacctctggggtttgcttggtgcacaagatgagtgtgagggtatttttgtaaa
+bos_taurus/2/6213582-6218691      ccggctgaacctctggggtttgcttggtgcacaagatgggtatgaggatacttttgcaaa
+                                  ** *********************************** ** ***** ** ***** ***
+
+
+sus_scrofa/15/105734307-105739335 aatacaaattcacactctccagagcagtaattggccttatatcttttgggtgcaataatc
+bos_taurus/2/6213582-6218691      aatacaaattcacattctccagagcagtaattggccttatatcttttaggtgcaataatc
+                                  ************** ******************************** ************
+
+
+sus_scrofa/15/105734307-105739335 cagtcccatccaaaagcttcaaaatccacagttagagggtaacgacagcatcgagattct
+bos_taurus/2/6213582-6218691      caatcccatccaaaagcttcaaaatccacagttagagggtaacgacagcatcgagattct
+                                  ** *********************************************************
+
+
+sus_scrofa/15/105734307-105739335 gttgagtgctcatcacagtcgagtccaaaatctctcctggatctttttggtgtgtctgtt
+bos_taurus/2/6213582-6218691      gtggagtgttcatcacaatcaagcccaaaatctctcctagatctttttggtgtgtctgtt
+                                  ** ***** ******** ** ** ************** *********************
+
+
+sus_scrofa/15/105734307-105739335 accttgacttctaaaaagggattctgtgtgaaaatgaaagaagagttaatagtagcaata
+bos_taurus/2/6213582-6218691      accttgacttctaaaaaaggagtctgtatggaaaggaaagaagagttaata------ata
+                                  ***************** *** ***** ** *** ****************      ***
+
+
+sus_scrofa/15/105734307-105739335 gatcctgaatcactttcctaccctaaggatttaactgttgaagaaataaa-----ctatt
+bos_taurus/2/6213582-6218691      gatcccaaaacactctcctacctcaaggactca-ttattaaagaaagaaaactaatcatt
+                                  *****  ** **** *******  ***** * *  * ** ****** ***       ***
+
+
+sus_scrofa/15/105734307-105739335 ttgcttattt-----gtgtttttaaaaggcacagcattaaggaattttaatttacactag
+bos_taurus/2/6213582-6218691      ttgcttatgtcacatttctttttaaaaggcacagcattaaggaattttcatttacactag
+                                  ******** *      * ****************************** ***********
+
+
+sus_scrofa/15/105734307-105739335 gct-------------------caaaaaaatatagcagcaatataaatttccctgaggtc
+bos_taurus/2/6213582-6218691      gcttgattcttcctttatggctcaaaagtctacagtagccatagggattcccctgtggtc
+                                  ***                   *****   ** ** *** ***   *** ***** ****
+
+
+sus_scrofa/15/105734307-105739335 ttcgccttttttttttttttttcttgtttcctccagtttgagtatcccaatgcctggcgc
+bos_taurus/2/6213582-6218691      --agatctttgtcttgtttattcttgttttcctccgtttgagtatctgaatgcctgacac
+                                     *   *** * ** *** ********* *  * ***********  ******** * *
+
+
+sus_scrofa/15/105734307-105739335 ataagaggtgctctgaaaatattgatggg----aagaaagggagcgaggacagagaagag
+bos_taurus/2/6213582-6218691      ataatagatgctgtgaaaatactgatggatgacagtaaagggagagggggaagagaagag
+                                  **** ** **** ******** ******     *  ******** * **  *********
+
+
+sus_scrofa/15/105734307-105739335 agagagaggcaggaggaaaggaagggga-gaggctagcttcctttcttcatgcttgttga
+bos_taurus/2/6213582-6218691      aaag-gagcagggaggaaagaagagggacaaggctagctta-tgtcttcctgcttattga
+                                  * ** ***   ********* *  ****  **********  * ***** ***** ****
+
+
+sus_scrofa/15/105734307-105739335 ttaaatatggtggctaaatatgtctgatg-----------ggtaggtatgctcatccttc
+bos_taurus/2/6213582-6218691      ttaaatatggtggctaaatatgtctgatgactcctggagggataggtatactcattcatc
+                                  *****************************           * ******* ***** * **
+
+
+sus_scrofa/15/105734307-105739335 ctccattcactaggtgttattaagggaaacttggatattaacaccaaaacaaaatagtta
+bos_taurus/2/6213582-6218691      ctccattcacttggtcttattcagggaaacttggatgttaacaccgaaacacaatagttg
+                                  *********** *** ***** ************** ******** ***** ******* 
+
+
+sus_scrofa/15/105734307-105739335 ccacccaacacatagggactgtaatgggaaa-------gtag-gtgatgaagggagtggt
+bos_taurus/2/6213582-6218691      ccacccagtactgcacagatgtaatgggaaaaaggaaggtagagggatgaagatagtggt
+                                  *******  **        ************       **** * *******  ******
+
+
+sus_scrofa/15/105734307-105739335 aggtatactgggttgaaaggacaaactccaggaaagggagggaaagattcagatga---t
+bos_taurus/2/6213582-6218691      aagtatatagggttggaaagactaactccaagagagagaggcacagactcagaagaagat
+                                  * *****  ****** ** *** ******* ** ** **** * *** ***** **   *
+
+
+sus_scrofa/15/105734307-105739335 acaatcattcttcctttatcctttcattgaaaaatcctcctattcagatatttaagtaat
+bos_taurus/2/6213582-6218691      acaatgatattccctttattctttcactaaaaaatgtttccattcagatatttaaactac
+                                  ***** **  * ******* ****** * ******  * * **************   * 
+
+
+sus_scrofa/15/105734307-105739335 aatttactaatccccct---gccccaatcttttcctccatataagacatttttcctttca
+bos_taurus/2/6213582-6218691      aatttgctaatcctcctcctgtaccaatcttttcatgaatttgagacatttttcctttta
+                                  ***** ******* ***   *  *********** *  ** * *************** *
+
+
+sus_scrofa/15/105734307-105739335 tttggaaaaat--gaggaatatatcatattaactatctgtttaataataatcaaaacctc
+bos_taurus/2/6213582-6218691      tatggaaaagtctgaggaatacatcttattaatcatctgtttaataatacttaagacctc
+                                  * ******* *  ******** *** ******  *************** * ** *****
+
+
+sus_scrofa/15/105734307-105739335 agtcatatcaccaactttgatcatgaaaatggtacatataaaaaagaacacattcttaag
+bos_taurus/2/6213582-6218691      tgtcacgtcaccaactttgatcattaaaatgctacctagaaaaaagaacacattctt---
+                                   ****  ***************** ****** *** ** ******************   
+
+
+sus_scrofa/15/105734307-105739335 taattaatagtagtttttatcctgtatcaaaatcaaaatagacctggtaattattggtat
+bos_taurus/2/6213582-6218691      --------------ttttatcctacactaaaaccaaaatagacctggtaattattggtat
+                                                *********  *  **** ***************************
+
+
+sus_scrofa/15/105734307-105739335 ttaagattataaaaaaacaataacatcattttgggagttaataacgttttaa--------
+bos_taurus/2/6213582-6218691      ttaagattatacaaaa----taacatcattttgggagtcaataacattttatgtagtata
+                                  *********** ****    ****************** ****** *****         
+
+
+sus_scrofa/15/105734307-105739335 -ttaaagaaaaacagatcacttggagaagtgtttaatctcttaaagaataagtttttatt
+bos_taurus/2/6213582-6218691      tttaaagaaaaattgatcacctggaaaattttataatgtcttaaagaatatgttttcatt
+                                   ***********  ****** **** ** * * **** ************ ***** ***
+
+
+sus_scrofa/15/105734307-105739335 taaagtagctatgacttacta-----------attat---------atattcttttcaaa
+bos_taurus/2/6213582-6218691      ta-----ggtatgatttactttacatttagatatcatttagatatgatattcactacaaa
+                                  **     * ***** *****            ** **         ******  * ****
+
+
+sus_scrofa/15/105734307-105739335 tgagaccatttaaaagctaaaaagataacatttattgcttgcaagtatagtatcttat--
+bos_taurus/2/6213582-6218691      aaagaccatttaaaaaccataaag-------------cttgcaagtataatcttttgttg
+                                    ************* * * ****             ************ * * ** *  
+
+
+sus_scrofa/15/105734307-105739335 -aaattataacaataaatggaagtaaagaatatggtcacaataaataagtttttgaaagc
+bos_taurus/2/6213582-6218691      taaattatatcaataaatggaaataaaaggtatggtcacattaaaaaattttttgaaaac
+                                   ******** ************ ****   ********** **** ** ********* *
+
+
+sus_scrofa/15/105734307-105739335 agaagtaaacaaaagaagagatgaaccagaagagcaagtacctttaaatttatactaggt
+bos_taurus/2/6213582-6218691      agaagtaaatacaagcatagataagccagaagagtgagtagctctaaacttatactagat
+                                  ********* * *** * **** * *********  **** ** **** ********* *
+
+
+sus_scrofa/15/105734307-105739335 tttaaaatggttttt-attagtttttataatatataagacattgtcatctttttggcctt
+bos_taurus/2/6213582-6218691      tttaaaatggttttttattaatttttataatatataaggcattattttctgtttgacttt
+                                  *************** **** ***************** **** *  *** **** * **
+
+
+sus_scrofa/15/105734307-105739335 ggaataaattagttggcattacctaagtaaattcttgcaaaagaatagtgagatagttca
+bos_taurus/2/6213582-6218691      atattaaattagttgacattacctaagttaactcctgttaaagaacagtaagacagttca
+                                    * *********** ************ ** ** **  ****** *** *** ******
+
+
+sus_scrofa/15/105734307-105739335 gaactaagttgagtgttacaggtttactagcctaaagttttaaattttattaagggcaat
+bos_taurus/2/6213582-6218691      gaaaatagctaagtagtacaagttaactagcctgaaatttttaattttaccaggggtaat
+                                  ***   ** * ***  **** *** ******** ** **** *******  * *** ***
+
+
+sus_scrofa/15/105734307-105739335 tcacaaagtaatctacatacatattagtgcatcaacagcctacaaaataatgaacatatt
+bos_taurus/2/6213582-6218691      tcacaaagtaatccacatatacatcagtgcatcaatagtctataaaacaaggaacatatt
+                                  ************* ***** * ** ********** ** *** **** ** *********
+
+
+sus_scrofa/15/105734307-105739335 tatcatgaggggatcttaaatatattatatttaatagtatgtaagtctaaacatgt-tgt
+bos_taurus/2/6213582-6218691      tatcatgagag-atcttaaatatagtatatttaatagtatataaacctgaacatatatct
+                                  ********* * ************ *************** ***  ** ***** * * *
+
+
+sus_scrofa/15/105734307-105739335 agttaattgctataaataaaagcatttcatttttaattatgatttttagagtttattttt
+bos_taurus/2/6213582-6218691      agttaatttctataagtaaaagcattttatttt-aattataacttgtagagttcattttt
+                                  ******** ****** *********** ***** ****** * ** ******* ******
+
+
+sus_scrofa/15/105734307-105739335 ttctgctttattaaaccaaaaggttttaacacacttggcactcttctaggg-aaaaaata
+bos_taurus/2/6213582-6218691      --ctgctttattaagcaaaagaattttaacaaattggtcactcttctgggggaaaaaatg
+                                    ************ * ***   ******** * * * ********* *** ******* 
+
+
+sus_scrofa/15/105734307-105739335 tttacttgggtatatactagaatccaatatgaagatttcatgtttt-attcatataatca
+bos_taurus/2/6213582-6218691      tgttgttgggtgtgtactagaatccactgtgaagacttcatgtttttatgtatataatca
+                                  * *  ****** * ************ * ****** ********** **  *********
+
+
+sus_scrofa/15/105734307-105739335 tatggcatatcaatgaaaagcaatttgtgtttcatttccaattcaaaagaatttcctaag
+bos_taurus/2/6213582-6218691      tgtagcacatcaatggaaagcattttatatttcattctcaattccaaagaattccctaaa
+                                  * * *** ******* ****** *** * *******  ****** ******** ***** 
+
+
+sus_scrofa/15/105734307-105739335 ---ttaaggattatagtaaaactttttt-cttctaaatcctcatgcaaagtaaaagtatc
+bos_taurus/2/6213582-6218691      aacttaaggaccatagtataactttttttcttttaaatcctcatgcaaagtcaaagtatc
+                                     *******  ****** ********* *** ****************** ********
+
+
+sus_scrofa/15/105734307-105739335 aagagggtatttcataggatatgaaactgaacacctacttttattgggtacagggctacc
+bos_taurus/2/6213582-6218691      aagagagtgtttcataggatgtgaaatgggacacctacttttattgggtacagggctacc
+                                  ***** ** *********** *****  * ******************************
+
+
+sus_scrofa/15/105734307-105739335 attggggtaagatacttttgtctagctta--------ggaaactggtagttattttccac
+bos_taurus/2/6213582-6218691      actggggtaaggcacctttgtctggcttataagcacaggaaactggtagttatttttcac
+                                  * *********  ** ******* *****        ******************* ***
+
+
+sus_scrofa/15/105734307-105739335 tactactcattcacattatgaataaaaacataacaagattttaagagtgttattttcagt
+bos_taurus/2/6213582-6218691      tactattcattcacattatgaataaacacataacaaggtttttagcatgttattttcagt
+                                  ***** ******************** ********** **** **  *************
+
+
+sus_scrofa/15/105734307-105739335 aaactcttaccagcccatcttctcctggtcctgggaaggttacagcaagatcatgaccat
+bos_taurus/2/6213582-6218691      aatcacttaccagtccatcttctcctggttctgggaaggttacagcaagatcatggccat
+                                  ** * ******** *************** ************************* ****
+
+
+sus_scrofa/15/105734307-105739335 tctcatctaaagctttgatttcaatgcctaagttggattcaggttgtttgagccaatttt
+bos_taurus/2/6213582-6218691      tctcatctaaagctttgatttcaatgcctaagttggattcaggttgtttgagccagttct
+                                  ******************************************************* ** *
+
+
+sus_scrofa/15/105734307-105739335 gcaacactgtcttcacatcaatgctctgccaaataccagtgcctgggttcatgtcaagtt
+bos_taurus/2/6213582-6218691      gcaacactgtcttcacatcaatgctctgccaaataccagtgcctgggttcatgtcaagtt
+                                  ************************************************************
+
+
+sus_scrofa/15/105734307-105739335 tcagagatcggattccagtataccttgtaccgtctttcatgggtttgatgagtctcagga
+bos_taurus/2/6213582-6218691      tcagagatcggattccagtataccttgtaccgtctttcatgggtttgatgagtctcagga
+                                  ************************************************************
+
+
+sus_scrofa/15/105734307-105739335 tttgcacaaacactgttgtaggagtcttgacgggtctcagatatatccacagttgggcct
+bos_taurus/2/6213582-6218691      tttgcacaaacactgtcgcaggagtcttgacaggcctcagatatatccacagttgggcct
+                                  **************** * ************ ** *************************
+
+
+sus_scrofa/15/105734307-105739335 ttactactttattgtattgtattttagagctaaatttaaagaagcagcatttgggttttc
+bos_taurus/2/6213582-6218691      ttactagtttattgtattgtatcttagagctaaatttaaagaagcaacatttgggttttc
+                                  ****** *************** *********************** *************
+
+
+sus_scrofa/15/105734307-105739335 cttccacttgcattagaagatcagctaaaaatgagtaaaaaaagaaaagagttattgaaa
+bos_taurus/2/6213582-6218691      cttccacttgcgttagaagatcagctataaatgaataagaaaaaaaa---gttactaaga
+                                  *********** *************** ****** *** **** ***   **** * * *
+
+
+sus_scrofa/15/105734307-105739335 ttgtttc-atgaaaaatgaacaaactccttcatattaatcagtgagctttttttctattg
+bos_taurus/2/6213582-6218691      tcatttttatgaaaaacgaacgaacacctccatatcaatctatgaacatttttttaattg
+                                  *  ***  ******** **** *** *** ***** ****  *** * ******  ****
+
+
+sus_scrofa/15/105734307-105739335 gaatagtgcatgcatatttagtcttttaaaatgaaaaact--gtagaatttcattcataa
+bos_taurus/2/6213582-6218691      gaataatgtgtgcatatttagtcttttaaaatggaaaaatatgtagcatttcattcataa
+                                  ***** **  *********************** **** *  **** *************
+
+
+sus_scrofa/15/105734307-105739335 ttcagaaaaatatcaaatgaaataattactatagcttttcagatttttttca--atatgt
+bos_taurus/2/6213582-6218691      --cagcaaaatatcaagtataacagttattacagcttttcagaatcttttaggtatatgt
+                                    *** ********** *  ** * *** ** *********** * ****    ******
+
+
+sus_scrofa/15/105734307-105739335 tttttcagctgtttatgagaaacctacttcctttctagaaaactgtagactaaagaaaat
+bos_taurus/2/6213582-6218691      tttttcagctgtt-atgagcagcctacttcctttccagagaactgtggactaaggaaaat
+                                  ************* ***** * ************* *** ****** ****** ******
+
+
+sus_scrofa/15/105734307-105739335 tctgtaaaggaatgaagagtggatgaaattttaaaatgatgatgattagagagaacaaga
+bos_taurus/2/6213582-6218691      tctattaaggaatgaaaagtggatgaaattttaaaatgatgatgattagagagaacaaga
+                                  *** * ********** *******************************************
+
+
+sus_scrofa/15/105734307-105739335 gacactgtggaggaacatccacttagaattctttgggaatctgagtagttacacttactg
+bos_taurus/2/6213582-6218691      gacactgtggaagaacatccacttagaattctttgggaatctgagtagttacacttactg
+                                  *********** ************************************************
+
+
+sus_scrofa/15/105734307-105739335 agcagctgtaccaatcagtctggaagaaggaacccttcccccaggcctgaattacctggg
+bos_taurus/2/6213582-6218691      agcagctgtaccaatcagtctggaggaaggaacccttcccccaggcctgaattacctggg
+                                  ************************ ***********************************
+
+
+sus_scrofa/15/105734307-105739335 gacgagacacactgagcaactaactgagcctcgggaattagtagaaaatatagtacatct
+bos_taurus/2/6213582-6218691      gacaagacacagtgagcaactaactgagcctcgggaattagcagaaaatatagtgcatct
+                                  *** ******* ***************************** ************ *****
+
+
+sus_scrofa/15/105734307-105739335 gttatgttttggc-ctgggatagcttttttaaaggaaccaa-------actagaaggcac
+bos_taurus/2/6213582-6218691      gttatgttaggacgctgggacagccttttaaaggaaaaaaataaaaaaactagcaggtaa
+                                  ********  * * ****** *** **** ** * **  **       ***** *** * 
+
+
+sus_scrofa/15/105734307-105739335 ttagcaccagaatttaaatgttgcattcaggctatctcaaaacttagaaaacattgt---
+bos_taurus/2/6213582-6218691      ttagcaccaaaacttagatgttgtattcaagctgtttcaaaacttagaaaacattgtctt
+                                  ********* ** *** ****** ***** *** * *********************   
+
+
+sus_scrofa/15/105734307-105739335 taaggccatgctgtcattgtaagcagaagcatttagaaacagctttccttttggttttc-
+bos_taurus/2/6213582-6218691      tagggccaggctgtcattgtaagcagaagcacttagcaatttcttgcctttttgttttct
+                                  ** ***** ********************** **** **   *** ****** ****** 
+
+
+sus_scrofa/15/105734307-105739335 caagattgtttataaataaggcaaatctactctaggattatctgatagcatagttttcaa
+bos_taurus/2/6213582-6218691      caagattgtttataagtaaggcaaatctattccaggattatctgatagcacagtcttaaa
+                                  *************** ************* ** ***************** *** ** **
+
+
+sus_scrofa/15/105734307-105739335 gaaaaattatttgttgcattatagcctaattacttaataagaagaa-taatattttgaaa
+bos_taurus/2/6213582-6218691      ggaaatttatttgttgccttataaactagttacttaataagaaaaagcagtattttgaaa
+                                  * *** *********** *****  *** ************** **  * **********
+
+
+sus_scrofa/15/105734307-105739335 ctgttttgagtctagtttaaagtgggtaaagcactgtataaagcaaaatcacagacacat
+bos_taurus/2/6213582-6218691      ctgttttgagtccagtttaaagtgggtagagccctgtataaagcaagatcgcagacacat
+                                  ************ *************** *** ************* *** *********
+
+
+sus_scrofa/15/105734307-105739335 ggcacaaaaatctttcttgtcatgccttctctgttaaggtgcctgtctccctttccttgt
+bos_taurus/2/6213582-6218691      ggcacaaaactctttctggtcatgccttctctgttgaggtgcctgtctccctttccttga
+                                  ********* ******* ***************** *********************** 
+
+
+sus_scrofa/15/105734307-105739335 gtatacttttgaactgattgtaataggaatggtatgaaatatattgtccttcataagcaa
+bos_taurus/2/6213582-6218691      gtataggtttgaagtgactgcaacagaaata-tatgaaacatattatctttcagaaacaa
+                                  *****  ****** *** ** ** ** ***  ******* ***** ** **** ** ***
+
+
+sus_scrofa/15/105734307-105739335 tgtggatactaca----ggtaatagttctttctccctcctatgaaaaagaaaataatatt
+bos_taurus/2/6213582-6218691      cataggtactacatataggtaatagttct----ccctcctatgaggaataaaataatatt
+                                    * * *******    ************    ***********  ** ***********
+
+
+sus_scrofa/15/105734307-105739335 gtaga-gcttattaagcatgtgcctgcctggaaatattcagacagggtactctcaacaat
+bos_taurus/2/6213582-6218691      ttagaaggttattaagcatgtgcct-cctagatatgtgcagaccaggtactctcaacaat
+                                   **** * ***************** *** ** ** * *****  ***************
+
+
+sus_scrofa/15/105734307-105739335 agtaccatggtcaaggtataagcaggactttgtgagccataacctacttgataaaatgtt
+bos_taurus/2/6213582-6218691      agtaccatggtcagggtataagtggaactttgtaat---------------taaaatgtt
+                                  ************* ********  * ******* *                *********
+
+
+sus_scrofa/15/105734307-105739335 tatttcttggcattttctgataattagctcataattac-cattatgctatgtttacttca
+bos_taurus/2/6213582-6218691      tatttcttagaattttctgctgattagctcatgatttttcactatgctgtgtttacttcc
+                                  ******** * ******** * ********** ***   ** ****** ********** 
+
+
+sus_scrofa/15/105734307-105739335 tcattgctcttaccaaaacattaaattttttaaaaatatt-ttttatactttccagtgta
+bos_taurus/2/6213582-6218691      ttattgctcttactaatacattaagtttattaagaatattcttttatcctttccactcta
+                                  * *********** ** ******* *** **** ****** ****** ******* * **
+
+
+sus_scrofa/15/105734307-105739335 atagctttcaaaattagacattttaatttgtgaagaacatagaaacactgtgagaaatcg
+bos_taurus/2/6213582-6218691      atagctttcaaaattaga-----tactctgtgaagaccataaaaaccctatgagaaatag
+                                  ******************     ** * ******** **** **** ** ******** *
+
+
+sus_scrofa/15/105734307-105739335 ttctgaataacagaagtcattctaggggtgcagcaaatgccccaatggggctcaatatct
+bos_taurus/2/6213582-6218691      ttttgaataacagaagtcattctaagtgttcagcaaatgcccagataggcttcaacctct
+                                  ** ********************* * ** ************  ** **  ****  ***
+
+
+sus_scrofa/15/105734307-105739335 gcaaatttacatcttcccttctttatcattagtgaaaaaaa-------cctgttattaca
+bos_taurus/2/6213582-6218691      acagattt----cttcctttctcttttattaatgaaaaaaaaaaaaaacctgttattata
+                                   ** ****    ***** **** * * **** *********       ********** *
+
+
+sus_scrofa/15/105734307-105739335 aatgcctatttcagacaaccaacc------------ttt--------ttttccacattgc
+bos_taurus/2/6213582-6218691      aatgcatatttcaggcaaccaaatgcaattaggaaatttgatgtaaatttttcacattgc
+                                  ***** ******** *******              ***        **** ********
+
+
+sus_scrofa/15/105734307-105739335 ttgtagaaactcccaatcctt-gccttggtggcattaagctgtgaaagcataagcatgtt
+bos_taurus/2/6213582-6218691      tgatactgtctcccaatcctttaccttggtagcattaagctgtgaaaacataaacatgtt
+                                  *  **    ************  ******* **************** ***** ******
+
+
+sus_scrofa/15/105734307-105739335 atatttgtcttattaaactatataaca---atgctatgcaagcattttattttttatttt
+bos_taurus/2/6213582-6218691      atagttgtcatactaaactatataacatgaatgctatgcaagcatttcatttttgatttt
+                                  *** ***** ** **************   ***************** ****** *****
+
+
+sus_scrofa/15/105734307-105739335 cagctgtttagct----aaggaaaacaataatacagcagctttcagtctcattagtttat
+bos_taurus/2/6213582-6218691      tagctttttagctctctaaggaaacaaataaagtagcagctttcagtctcattggtctat
+                                   **** *******    *******  *****   ******************* ** ***
+
+
+sus_scrofa/15/105734307-105739335 ttctcatgaaatcttgaaaaaagaaactcttttccctcctacttacgtacaagccaacag
+bos_taurus/2/6213582-6218691      ttctcatgaaatcttgaaaaaag---ctctttcccctcctccttacatacaagccagcag
+                                  ***********************   ****** ******* ***** ********* ***
+
+
+sus_scrofa/15/105734307-105739335 cttgttaaaagagcctgaaaatagatctgtttctcataaacactggaacaacagtcagca
+bos_taurus/2/6213582-6218691      cttgttaaaagagcctgaaaatagatcggtttctcatgaacactagaacagcagtcagca
+                                  *************************** ********* ****** ***** *********
+
+
+sus_scrofa/15/105734307-105739335 gaattgttgatatacactaataggactacttacactctgtaggcatggtaatgatcgttt
+bos_taurus/2/6213582-6218691      gagtcgttgctctgcaccagcaggactactcacactccgtgggcatggtaatgaccgttt
+                                  ** * **** * * *** *  ********* ****** ** ************* *****
+
+
+sus_scrofa/15/105734307-105739335 ccgtcgtagcgtgataatcatcatcttccaaggagccatcactgctgtcatctctctgga
+bos_taurus/2/6213582-6218691      ccgtcctggcgtggtagtcatcgtcttccaaggagccgtcactgctggcatctctctgga
+                                  ***** * ***** ** ***** ************** ********* ************
+
+
+sus_scrofa/15/105734307-105739335 catcgtactgatcaatcagttcccggagtggaggagctttgggcaaaagttgtcttatag
+bos_taurus/2/6213582-6218691      catcgaactgatcaatcagttccaggagtggaggagccttgggcaaaagttgtctgatag
+                                  ***** ***************** ************* ***************** ****
+
+
+sus_scrofa/15/105734307-105739335 catctttgctaatgttaggagctgtttccaggcgaagtttactgaggatttgaattttta
+bos_taurus/2/6213582-6218691      catctttgctgatgttaggagctgtttccaggcgaagtttactgaggatttggattttta
+                                  ********** ***************************************** *******
+
+
+sus_scrofa/15/105734307-105739335 tggcttctagtcttgaagatttagtgttttgtctccacatacatgcattacacagcccct
+bos_taurus/2/6213582-6218691      tggcttctagtcttgaggatgtagtgttttccctccacaaacatgcattacacagcccct
+                                  **************** *** *********  ******* ********************
+
+
+sus_scrofa/15/105734307-105739335 ctttttccacattttccttttgctcgctgttctcattcagatccacgggaccagcaacaa
+bos_taurus/2/6213582-6218691      ctttttccacattttccttctgctcgctgttctcattcagatccactgggccagcaacaa
+                                  ******************* ************************** ** **********
+
+
+sus_scrofa/15/105734307-105739335 tcagcataaacaggtaaatataaacatagatttgcagtttttgcatgattttaaaatcaa
+bos_taurus/2/6213582-6218691      tcagcataaataggtaaatataaacagagatttgcagtttttgcatggttttaaaatcaa
+                                  ********** *************** ******************** ************
+
+
+sus_scrofa/15/105734307-105739335 tacaatctttctccttgttcttatttcttcctttta-----cttttgcttttgagtaacg
+bos_taurus/2/6213582-6218691      tacaatcttttcccttgttcttacttcttccttttacttttcttttgcttttgagtaacg
+                                  **********  *********** ************     *******************
+
+
+sus_scrofa/15/105734307-105739335 ccaagcaaaattttaatgcctgcactgtctgagagacaacttg
+bos_taurus/2/6213582-6218691      ccaagccaaacgttaatgcctgcccagtctgagagacaacttg
+                                  ****** ***  *********** * *****************
+
+
